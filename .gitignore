@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User local profile database (should not be shared on Git)
+user_profile.json
+
+# Local virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+.project
+.pydevproject
+
+# OS files
+Thumbs.db
+Desktop.ini

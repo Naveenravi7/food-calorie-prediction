@@ -1,0 +1,1600 @@
+Food_Item,Category,Carbohydrates_g,Protein_g,Fat_g,Fiber_g,Calories,Total_Macros_g,Carbs_Protein_Ratio,Calorie_Density_Label
+Apple,Fruit,13.8,0.3,0.2,2.4,52.0,14.3,45.998466717776076,Low
+Banana,Fruit,22.8,1.1,0.3,2.6,89.0,24.200000000000003,20.727084299233642,Low
+Orange,Fruit,11.8,0.9,0.1,2.4,47.0,12.8,13.110965433717404,Low
+Broccoli,Vegetable,6.6,2.8,0.4,2.6,34.0,9.799999999999999,2.3571344388055757,Low
+Spinach,Vegetable,3.6,2.9,0.4,2.2,23.0,6.9,1.241375029741277,Low
+Salmon,Fish,0.0,20.0,13.0,0.0,208.0,33.0,0.0,Medium
+Brown Rice,Grain,23.0,2.6,0.9,1.8,111.0,26.5,8.846119822616066,Medium
+White Bread,Grain,49.0,9.0,3.2,2.7,265.0,61.2,5.44443839506845,Medium
+Whole Milk,Dairy,4.8,3.2,3.3,0.0,61.0,11.3,1.4999953125146481,Low
+Egg (Large),Dairy,0.6,12.6,9.5,0.0,143.0,22.7,0.04761900982618268,Medium
+Potato Chips,Snack,53.0,7.0,35.0,4.0,536.0,95.0,7.571417755117493,High
+Oatmeal,Grain,12.0,3.0,1.5,1.7,68.0,16.5,3.999986666711111,Low
+Greek Yogurt,Dairy,3.6,10.0,0.4,0.0,59.0,14.0,0.35999964000036,Low
+Avocado,Fruit,8.5,2.0,14.7,6.7,160.0,25.2,4.24997875010625,Medium
+Pizza Margherita,Fast Food,30.0,11.0,10.0,2.2,250.0,51.0,2.727270247936138,Medium
+Beef Burger,Fast Food,24.0,14.0,12.0,1.5,260.0,50.0,1.714284489796793,Medium
+French Fries,Fast Food,41.0,3.4,15.0,3.8,312.0,59.4,12.058788062388052,High
+Chocolate Bar,Snack,59.0,4.9,30.0,3.4,535.0,93.9,12.040791753486218,High
+Coca Cola,Beverage,10.6,0.0,0.0,0.0,42.0,10.6,1059999.9999999998,Low
+Orange Juice,Beverage,10.4,0.7,0.2,0.2,45.0,11.299999999999999,14.856930615276926,Low
+Tofu,Vegetable,1.9,8.0,4.8,0.3,76.0,14.7,0.23749970312537108,Low
+White Rice,Grain,28.0,2.7,0.3,0.4,130.0,31.0,10.370331961733473,Medium
+Spaghetti,Grain,31.0,6.0,0.6,1.8,158.0,37.6,5.166658055569908,Medium
+Tomato,Vegetable,3.9,0.9,0.2,1.2,18.0,5.0,4.333285185720158,Low
+Herta Pâte À Pizza Fine Et Rectangulaire 390G,Pizza,49.0,8.7,5.3,1.0,287.5,63.0,5.632177434278812,Medium
+Herta Pâte À Pizza Fine Et Ronde 265G,Pizza,49.0,8.7,5.3,1.0,287.5,63.0,5.632177434278812,Medium
+Spicy Chicken & 'Nduja Pizza,Pizza,64.2,5.7,25.2,2.1,511.0,95.10000000000001,11.263138134845379,High
+Sauce Pizza Star 350 G,Pizza,11.2,1.5,0.1,3.0,52.0,12.799999999999999,7.466616889220738,Low
+Ristorante Pizza Vegetale,Pizza,22.0,6.7,7.9,2.0,192.7,36.6,3.283577188690763,Medium
+Pâte À Pizza,Pizza,47.0,7.3,1.3,1.8,249.0,55.599999999999994,6.4383473447296655,Medium
+Pizza,Pizza,23.0,10.0,12.0,1.6,243.7,45.0,2.2999977000023,Medium
+Dolce Pizza Prosciutto,Pizza,27.0,12.0,5.0,2.1,205.0,44.0,2.2499981250015626,Medium
+Tomapizza,Pizza,6.5,1.5,1.4,1.2,47.0,9.4,4.333304444637036,Low
+Dolce Pizza Regina,Pizza,25.0,10.0,3.7,2.9,179.0,38.7,2.4999975000025,Medium
+Ristorante Pizza Tonno,Pizza,23.38,10.0,10.42,1.75,232.4,43.8,2.337997662002338,Medium
+Mozzarella Especial Pizza,Pizza,2.7,23.3,15.4,0.0,309.0,41.4,0.11587977859236971,High
+Sodebo Dolce Pizza - 4 Formaggi,Pizza,28.0,11.0,7.9,2.9,233.0,46.9,2.5454522314070624,Medium
+Pizza 4 Saisons,Pizza,24.0,6.7,7.2,2.7,191.0,37.9,3.582084205844469,Medium
+Pizzasauce Aromatica,Pizza,5.4,1.6,0.5,0.0,36.0,7.5,3.374978906381835,Low
+Margherita,Pizza,30.0,10.4,6.7,2.3,232.3,47.1,2.8846126109494126,Medium
+Pizza Quattro Formaggi,Pizza,24.12,10.59,12.65,1.59,257.0,47.36,2.277618245875122,Medium
+"Pizza N°3 - Légumes, Pesto, Parmesano Reggiano",Pizza,30.0,6.1,5.2,1.7,195.0,41.300000000000004,4.918024724549633,Medium
+Pizza Del Gusto Mozzarella Tomates,Pizza,30.0,8.3,6.6,2.7,218.0,44.9,3.614453476562076,Medium
+Pinsa 230G,Pizza,45.0,9.0,5.4,3.1,271.0,59.4,4.999994444450618,Medium
+Bruschette Chips Pizza Flavour,Pizza,71.0,9.1,14.0,2.3,453.0,94.1,7.802189228363486,High
+Sauce Tomate Au Basilic,Pizza,6.4,1.5,3.2,2.4,65.0,11.100000000000001,4.26663822241185,Low
+"Pizza N°6 - Jambon, Speck, Roquette, Mozzarella",Pizza,24.0,12.0,7.2,2.3,212.0,43.2,1.9999983333347222,Medium
+Pâte À Pizza Fine Et Ronde,Pizza,46.0,7.2,6.7,1.6,292.0,59.900000000000006,6.388880015444423,Medium
+Pizza Base With Tomato Sauce,Pizza,41.0,7.0,3.4,2.4,227.0,51.4,5.857134489807872,Medium
+Pizza Del Gusto Chorizo,Pizza,32.0,9.7,7.1,2.1,237.9,48.800000000000004,3.2989656711694115,Medium
+Chips Pizza 125G Bret'S,Pizza,53.0,6.0,31.0,5.0,525.0,90.0,8.833318611135649,High
+Pizza Sauce,Pizza,7.8,1.9,0.0,2.0,45.0,9.7,4.105241551360256,Low
+Ristorante Pizza Royale,Pizza,23.0,11.0,9.4,2.2,223.0,43.4,2.0909071900843728,Medium
+"Pizza Margherita Tomate, Mozzarella",Pizza,29.0,9.6,7.6,2.6,227.0,46.2,3.0208301866352225,Medium
+"Sauce Tomate Pour Pizza, Pâte Ou Riz",Pizza,8.6,1.3,2.9,1.7,69.0,12.8,6.61533372820209,Low
+Quiche Lorraine Pur Beurre,Pizza,18.0,8.1,15.0,0.6,241.0,41.1,2.2222194787413843,Medium
+Sauce Pizza,Pizza,9.97,1.76,0.3,2.0,49.0,12.030000000000001,5.664740541246925,Low
+Mini Pizza Complete,Pizza,52.3,8.4,4.9,6.7,287.0,65.6,6.22618306406778,Medium
+Pizza Crust Cheesy 4 Fromages,Pizza,25.0,11.0,7.4,2.5,216.0,43.4,2.2727252066134485,Medium
+Tartes Courgette Tomate Fêta,Pizza,18.0,5.3,13.0,2.9,216.0,36.3,3.3962200071320625,Medium
+Dolce Pizza Campanella,Pizza,28.0,14.0,6.1,2.7,228.0,48.1,1.9999985714295918,Medium
+Pizza Fiorentina,Pizza,29.0,8.8,8.4,1.8,232.4,46.199999999999996,3.29545080062409,Medium
+Pizza Delamama La Royale Pouleto,Pizza,29.0,10.0,11.0,2.1,259.0,50.0,2.8999971000029,Medium
+Schar Maestro Cereale,Pizza,38.0,4.5,6.6,9.9,249.0,49.1,8.444425679054048,Medium
+Pate A Pizza Bio 260G,Pizza,46.0,8.0,6.0,2.3,274.6,60.0,5.749992812508984,Medium
+Pizza Tomates Mozzarella,Pizza,28.0,11.0,9.1,2.3,243.0,48.1,2.5454522314070624,Medium
+Sodebo Pizza Crust - Classic,Pizza,26.0,11.0,7.2,2.8,217.0,44.2,2.3636342148779868,Medium
+"Pizza N°18 - Thon, Tomate, Olive",Pizza,26.0,10.0,6.6,2.8,207.0,42.6,2.5999974000026,Medium
+Per Pizza Gratugiato,Pizza,22.0,0.0,24.0,0.0,306.7,46.0,2200000.0,High
+"Pizza N°14 - Tomate, Poulet Mariné, Artichaut",Pizza,26.0,9.3,5.5,2.6,196.0,40.8,2.795695918606539,Medium
+Pizza Six Fromagio,Pizza,29.0,11.0,11.0,2.0,263.0,51.0,2.6363612396716003,Medium
+Pizza 3 Fromages,Pizza,26.0,12.0,12.0,2.5,266.0,50.0,2.166664861112616,Medium
+Pizza Base - Fonds De Pizza (,Pizza,60.0,3.0,3.5,4.7,291.0,66.5,19.999933333555553,Medium
+Ristorante Mozzarella (Dr. Oetker),Pizza,23.0,10.0,11.0,2.0,240.0,44.0,2.2999977000023,Medium
+Pizza Regina,Pizza,27.0,9.0,4.8,2.9,193.0,40.8,2.9999966666703703,Medium
+Margherita Pizzetta,Pizza,29.31,10.5,8.39,2.2,239.0,48.2,2.791425912927702,Medium
+Kit Pizza,Pizza,30.0,6.8,3.6,1.5,192.0,40.4,4.411758218002621,Medium
+Pizza Jambon Supérieur Champignons Mozzarella,Pizza,27.0,11.0,8.5,2.1,233.0,46.5,2.4545432231425246,Medium
+Cmo Royale 400G Jambon - Mozzarella - Emmental Présente En X3,Pizza,32.0,11.0,6.2,2.1,232.0,49.2,2.9090882644652143,Medium
+Tielles Sétoises,Pizza,34.0,7.5,14.0,0.0,297.0,55.5,4.533327288896948,Medium
+Pizza Del Gusto Chèvre Miel,Pizza,31.0,9.9,10.0,2.0,258.0,50.9,3.1313099683737695,Medium
+Anitines Panes Especiales Pizza,Pizza,50.0,13.0,26.0,4.7,493.0,89.0,3.8461508875762402,High
+Boule À Pizza,Pizza,47.0,7.2,0.5,1.4,225.0,54.7,6.527768711432345,Medium
+Regina Sourdough Pizza Ham Mushroom & Mozzarella,Pizza,29.0,10.0,7.7,1.8,229.2,46.7,2.8999971000029,Medium
+Flammekueche,Pizza,28.0,7.2,11.0,1.3,242.0,46.2,3.888883487661823,Medium
+Pizza Crust Buffalo,Pizza,24.0,10.0,7.3,4.1,210.0,41.3,2.3999976000024,Medium
+Tarte Poireaux,Pizza,20.8,5.2,12.2,1.6,217.0,38.2,3.999992307707101,Medium
+"Higgidy Spinach,Feta & Roasted Pepper Quiche 400G",Pizza,21.0,7.3,13.0,2.2,230.0,41.3,2.8767083880707016,Medium
+Ristorante Pizza Spinaci,Pizza,21.0,7.1,11.0,1.9,221.0,39.1,2.957742313038996,Medium
+Pate A Pizza 260G,Pizza,48.0,6.5,6.9,1.6,287.0,61.4,7.3846040236861175,Medium
+Mini Pizza Nature,Pizza,54.0,9.8,7.2,0.0,321.0,71.0,5.510198458981164,High
+Margherita Pizza,Pizza,30.0,10.4,7.3,2.3,231.7,47.699999999999996,2.8846126109494126,Medium
+Tarte Saumon Poireaux,Pizza,21.0,7.8,10.0,1.2,208.0,38.8,2.6923042406355893,Medium
+Pain Pizza,Pizza,52.3,8.4,4.9,6.7,287.0,65.6,6.22618306406778,Medium
+2 Tartes Aux Poireaux,Pizza,19.0,7.2,12.0,1.5,216.0,38.2,2.6388852237705227,Medium
+2 Flammekueches D'Alsace,Pizza,25.0,9.5,15.0,2.4,278.0,49.5,2.6315761772882347,Medium
+Pate À Pizza Xxl Fine&Rectangulaire,Pizza,47.0,6.9,6.1,2.4,290.0,60.0,6.811584331037201,Medium
+Pate A Pizza Xxl Pizzeria,Pizza,45.0,6.9,2.3,1.1,244.0,54.199999999999996,6.5217296786526395,Medium
+Ma Pâte À Pizza,Pizza,68.6,9.8,1.1,4.2,332.0,79.49999999999999,6.999992857150145,High
+Flammekueche Crème Fraîche - Lardon - Oignon,Pizza,22.0,6.1,15.0,1.0,251.0,43.1,3.6065514646697303,Medium
+Pizza 4 Fromages,Pizza,24.0,14.0,9.9,1.3,241.0,47.9,1.714284489796793,Medium
+"Dolce Pizza Napoli Mozzarella, Poulet, Poivrons Grillés & Pesto",Pizza,28.0,10.0,7.3,2.6,222.0,45.3,2.7999972000028,Medium
+Pizza Légumes Grillés,Pizza,28.0,7.7,6.3,2.1,205.0,42.0,3.6363589138195924,Medium
+Pâte À Pizza Bio Au Levain,Pizza,45.0,7.8,5.2,2.8,258.0,58.0,5.769223372790548,Medium
+Dolce Pizza Bianca,Pizza,30.0,10.0,8.5,2.6,242.0,48.5,2.9999970000030003,Medium
+Flammekueche L'Originale,Pizza,30.0,7.8,11.0,1.6,254.0,48.8,3.846148915193699,Medium
+"Pizza N°9 - Bœuf, Merguez, Sauce Salsa",Pizza,24.0,10.0,7.8,2.5,211.0,41.8,2.3999976000024,Medium
+Pâte À Pizza Épaisse Rectangulaire,Pizza,46.0,7.0,7.0,1.9,291.0,60.0,6.5714191836868805,Medium
+Stromboli,Pizza,18.17,10.07,9.4,0.85,262.5,37.64,1.8043676222764429,Medium
+Pizza Del Gusto Montagnarde,Pizza,29.0,10.0,12.0,2.0,268.0,51.0,2.8999971000029,Medium
+La Numero Uno Prosciutto & Funghi,Pizza,24.0,9.9,6.4,1.6,196.0,40.3,2.4242399755151762,Medium
+Pâte À Pizza Prête À Dérouler,Pizza,46.0,7.2,6.7,1.6,276.3,59.900000000000006,6.388880015444423,Medium
+Prince Goût Chocolat Au Blé Complet,Sandwich,69.0,6.3,17.0,4.0,467.0,92.3,10.952363567676878,High
+Fourrés Chocolat Noir,Sandwich,66.0,7.6,19.0,5.2,476.0,92.6,8.684199099738027,High
+Pain De Mie American Sandwich Complet Sans Sucres Ajoutés 600G,Sandwich,43.0,7.7,6.8,8.1,280.0,57.5,5.584408331937231,Medium
+Pain De Mie Grandes Tranches Spécial Sandwich Complet,Sandwich,43.0,8.3,4.5,6.3,258.7,55.8,5.180716649738976,Medium
+Pain De Mie American Sandwich Rustique Sans Sucres Ajoutés 500G,Sandwich,40.0,11.0,8.0,8.7,293.0,59.0,3.636360330581518,Medium
+American Sandwich Nature,Sandwich,47.0,7.4,6.0,5.5,283.0,60.4,6.351342768455718,Medium
+American Sandwich Céréales,Sandwich,42.0,9.0,6.5,7.6,278.0,57.5,4.666661481487243,Medium
+Pain De Mie American Sandwich Complet Sans Sucres Ajoutés Maxi 900G,Sandwich,43.0,7.7,6.8,8.1,280.0,57.5,5.584408331937231,Medium
+Pain Mie Sandwich Bio* Complet Sans Sucres Ajoutés 500G,Sandwich,38.0,10.0,5.1,6.9,252.0,53.1,3.7999962000038003,Medium
+Sandwich Zero Sin Azúcares,Sandwich,67.0,7.0,18.0,7.8,434.0,92.0,9.571414897978718,High
+Pain De Mie American Sandwich Nature Sans Sucres Ajoutés Maxi 825G,Sandwich,47.0,7.4,6.0,5.5,283.0,60.4,6.351342768455718,Medium
+Wraps Au Blé Nature,Sandwich,54.0,8.0,7.0,4.3,314.0,69.0,6.749991562510547,High
+Pain Mie Sandwich Bio* Cereales 500G,Sandwich,44.0,9.3,7.7,4.7,292.0,61.0,4.731177708411066,Medium
+"Bn - Strawberry Cookies, 285G (10Oz)",Sandwich,75.0,5.3,8.4,2.5,398.0,88.7,14.150916696383593,High
+Maxi Cheese Burger,Sandwich,20.0,13.0,13.0,0.0,256.0,46.0,1.5384603550304963,Medium
+Pain De Mie Sandwich Complet 550G,Sandwich,42.0,8.4,5.2,7.0,262.0,55.6,4.999994047626134,Medium
+Gluten Free Sandwich Chocolate,Sandwich,63.0,5.7,21.0,6.5,477.0,89.7,11.052612188399669,High
+Fourrés Goût Citron,Sandwich,68.0,7.4,20.0,3.1,488.0,95.4,9.18917677138274,High
+Oreo Double Creme,Sandwich,67.0,4.3,22.0,2.3,492.0,93.3,15.581359113118344,High
+Pain Suédois Poulet Rôti Œuf,Sandwich,30.0,9.5,12.0,3.0,272.0,51.5,3.1578914127458813,Medium
+Original,Sandwich,68.0,5.3,20.0,2.7,476.0,93.3,12.830164471387791,High
+Xxl Poulet Rôti Crudités,Sandwich,28.0,8.1,8.8,3.4,224.0,44.900000000000006,3.4567858558199314,Medium
+Sandwich Mega Viennois Poulet Rôti Oeuf,Sandwich,30.0,9.8,14.0,2.8,294.0,53.8,3.061221366100647,Medium
+Pain De Mie Sandwich Complet 825G,Sandwich,42.0,8.5,5.8,6.9,268.0,56.3,4.9411706574462855,Medium
+Pain De Mie American Sandwich Nature Tranches Épaisses Sans Sucres Ajoutés 550G,Sandwich,47.0,7.4,6.0,5.5,283.0,60.4,6.351342768455718,Medium
+Pain De Mie Spécial Sandwich Nature Grandes Tranches,Sandwich,49.0,7.2,5.8,3.6,284.0,62.0,6.80554610340819,Medium
+Méga Poulet Rôti Mayo Légère X3,Sandwich,27.0,9.3,12.0,3.3,260.0,48.3,2.9032226847067903,Medium
+Sandwich Sabor Yogurt,Sandwich,65.0,7.0,17.0,7.7,418.2,89.0,9.285701020427114,High
+Suédois - Duo De Saumon,Sandwich,33.0,8.1,14.0,3.6,298.0,55.1,4.074069044359205,Medium
+Sandwich Le Méga Baguette Thon Oeuf Sauce Cocktail,Sandwich,26.0,11.0,12.0,1.9,260.0,49.0,2.3636342148779868,Medium
+Sandwich Moelleux Thon Oeuf Crudités Sauce Cocktail,Sandwich,30.0,8.9,6.4,1.6,217.0,45.3,3.3707827294576074,Medium
+Hamburger Cheddar Fromage Fondu Au Cheddar,Sandwich,7.6,19.0,17.0,0.0,259.0,43.6,0.399999789473795,Medium
+Biscuit Cacaoté Fourré Saveur Vanille,Sandwich,65.0,4.8,20.0,7.0,436.0,89.8,13.541638454919887,High
+Sandwichs Choc,Sandwich,70.2,3.81,8.8,0.0,375.0,82.81,18.42514849042391,High
+Sandwich Sabor Yogurt Con Avena Y Frutos Rojos,Sandwich,6.0,8.0,15.0,8.0,435.0,29.0,0.7499990625011719,High
+Queso Fundido Sandwich,Sandwich,9.9,17.0,20.0,0.0,288.0,46.9,0.5823525986161185,Medium
+Fromage Tranches Pour Sandwich,Sandwich,9.0,8.0,22.0,0.0,266.0,39.0,1.124998593751758,Medium
+Méga Thon Oeuf Pain Viennois,Sandwich,27.0,9.9,14.0,2.4,278.0,50.9,2.7272699724545735,Medium
+Sandwich Les Minis Jambon Emmental,Sandwich,29.0,12.0,11.0,0.0,264.0,52.0,2.416664652779456,Medium
+Tendre Croc' L'Original Jambon Et Fromage X2,Sandwich,29.0,12.0,11.0,1.5,266.0,52.0,2.416664652779456,Medium
+اوريو اوريجنال ١٧٦ جرام,Sandwich,68.0,5.3,20.0,2.7,472.0,93.3,12.830164471387791,High
+Suédois Jambon Cheddar,Sandwich,31.0,11.0,15.0,3.2,309.0,57.0,2.8181792562006764,High
+Sandwich Le Gourmand Club - Saumon Fumé Pointe De Citron,Sandwich,23.0,8.0,9.2,1.9,211.0,40.2,2.874996406254492,Medium
+Oreo Original,Sandwich,67.0,5.6,19.0,2.9,472.0,91.6,11.96426434952795,High
+Sandwich De Avellana Con Avena Y Chips De Chocolate Vitalday,Sandwich,59.0,7.2,19.0,9.0,459.0,85.2,8.194433063287413,High
+Biscuits Fourrés Chocolat Noir Bio Village,Sandwich,68.0,7.2,16.0,4.7,459.0,91.2,9.444431327178712,High
+Végétal & Bon - Le British,Sandwich,32.0,7.8,10.0,2.7,259.0,49.8,4.102558842873279,Medium
+Xxl Poulet Rôti Mayonnaise,Sandwich,26.0,9.7,12.0,3.3,259.0,47.7,2.6804096078251467,Medium
+Biscuits Fourrage Cacaoté,Sandwich,65.0,8.4,21.0,4.3,491.0,94.4,7.738086026088064,High
+Xxl Jambon Emmental,Sandwich,26.0,9.7,13.0,3.3,264.0,48.7,2.6804096078251467,Medium
+Oreo Original Night Twist,Sandwich,68.0,5.3,20.0,2.7,476.0,93.3,12.830164471387791,High
+Sandwich Thon Oeuf Crudites Xxl,Sandwich,26.0,9.3,6.2,3.2,863.0,41.5,2.795695918606539,High
+Le Moelleux Poulet Rôti Crudités Mayonnaise Légère,Sandwich,29.13,8.7,9.57,0.7,239.1,47.4,3.3482720134804445,Medium
+Pain Sandwich Nature Biologique 500G,Sandwich,51.0,8.0,5.0,2.1,285.0,64.0,6.3749920312599615,Medium
+Wrap Blé Nature,Sandwich,53.2,9.1,5.2,1.6,299.0,67.5,5.8461474218160205,Medium
+Tendre Croc’ Le Comtois,Sandwich,27.0,12.0,11.0,1.5,258.0,50.0,2.2499981250015626,Medium
+Poulet Rôti Mayonnaise,Sandwich,25.0,9.8,14.0,3.2,273.1,48.8,2.5510178050838723,Medium
+Goûters Bn Au Chocolat,Sandwich,69.0,6.5,17.0,3.9,463.0,92.5,10.615368284048794,High
+Sandwich Sotille Integral,Sandwich,42.0,10.0,4.1,4.3,270.6,56.1,4.1999958000042,Medium
+Poulet Tandoori,Sandwich,36.0,10.0,9.7,3.9,206.7,55.7,3.5999964000036,Medium
+Pain De Mie Sandwich Nature 550G,Sandwich,49.0,7.4,4.7,3.2,274.0,61.1,6.621612673496387,Medium
+Jambon Emmental,Sandwich,26.0,11.0,8.2,0.0,227.0,45.2,2.3636342148779868,Medium
+Le Chicken Cheddar Wrap,Sandwich,32.0,9.1,12.0,0.0,274.0,53.1,3.5164796522201627,Medium
+Wraps De Blé Souples X6 370G,Sandwich,55.0,9.4,7.3,2.3,326.0,71.7,5.851057605257867,High
+Sandwich De Cacao Con Crema,Sandwich,75.0,5.0,16.88,9.06,409.5,96.88,14.999970000060001,High
+Vollkorntoast,Sandwich,42.0,8.5,4.6,6.5,239.0,55.1,4.9411706574462855,Medium
+Fourrés Duo Cacao,Sandwich,64.0,9.0,21.0,5.2,491.0,94.0,7.111103209885322,High
+Sandwich Simple & Bon ! - Jambon Emmental,Sandwich,25.0,12.0,12.0,2.3,260.6,49.0,2.083331597223669,Medium
+Caocream Chocolate Blanco,Sandwich,65.0,4.9,25.0,2.2,509.0,94.9,13.265279050450918,High
+Croc Break,Sandwich,70.0,5.7,17.0,4.4,465.0,92.7,12.280680209332967,High
+Prince Pocket - Biscuits Fourrés Parfum Chocolat,Sandwich,68.0,6.5,17.5,4.2,465.0,92.0,10.461522366888667,High
+Chocolate Os,Sandwich,62.0,6.6,24.0,4.1,498.8,92.6,9.393925160719455,High
+Minis Tartinades Thon Fromage Frais Ciboulette,Sandwich,30.0,10.0,12.0,1.4,273.0,52.0,2.9999970000030003,Medium
+Méga Jambon Emmental X3,Sandwich,27.0,10.0,13.0,3.7,272.0,50.0,2.6999973000027,Medium
+Biscuits Fourrés Chocolat Au Lait,Sandwich,71.0,7.5,16.0,3.4,465.0,94.5,9.466654044461274,High
+Sandwich Nature- Natuur X8,Sandwich,49.5,8.1,9.0,4.9,321.0,66.6,6.111103566538807,High
+Bn Gout Chocolat,Sandwich,69.0,6.5,17.0,3.9,463.0,92.5,10.615368284048794,High
+Cocoa Sandwich Biscuits With Vanilla Flavoured Crème Filling,Sandwich,65.11,5.11,22.0,0.0,484.4,92.22,12.741658039808142,High
+Chessy Chèvre Pané Oignons Frits,Sandwich,37.0,7.6,14.0,2.2,310.0,58.6,4.868414646822834,High
+Pain Sandwich Complet,Sandwich,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low
+Goûter Fourrés Cacao,Sandwich,67.0,8.6,19.0,3.2,480.0,94.6,7.790688615478355,High
+Les Minis Maxi Moelleux Poulet Emmental,Sandwich,29.0,12.0,10.0,0.0,257.0,51.0,2.416664652779456,Medium
+Coeur De Cereales Fruits Rouge Et Yaourt,Sandwich,63.0,8.0,15.0,8.0,435.0,86.0,7.874990156262305,High
+Sandwich Le Suédois Végétal,Sandwich,34.0,9.7,7.0,4.0,244.0,50.7,3.5051510256175,Medium
+Wrap De Poulet Pané Cheddar Sauce Big Burger,Sandwich,36.0,9.7,11.0,1.8,285.0,56.7,3.711336380065588,Medium
+Chèvre Tranches,Sandwich,0.0,21.0,34.0,0.0,392.0,55.0,0.0,High
+Wraps Blé Nature,Sandwich,53.2,9.1,5.2,1.6,299.0,67.5,5.8461474218160205,Medium
+Fourrés Cacao,Sandwich,64.0,8.4,20.0,4.3,476.0,92.4,7.6190385487636325,High
+Sandwich Le Méga Poulet Rôti Sauce Kébab,Sandwich,28.0,9.8,12.0,3.2,266.0,49.8,2.857139941693937,Medium
+Körner Balance Sandwich,Sandwich,39.5,8.68,6.05,6.05,257.9,54.23,4.5506860015138235,Medium
+Club Sandwich Thon Crudités,Sandwich,22.0,9.6,6.2,3.7,190.2,37.800000000000004,2.2916642795163757,Medium
+Spécial Sandwich Complet,Sandwich,47.2,10.5,3.3,4.9,261.0,61.0,4.495233814063035,Medium
+Harry Dinkel Sandwich 4071800047812 Dinkelsandwichbrot,Sandwich,42.0,10.0,3.0,5.1,244.7,55.0,4.1999958000042,Medium
+Sandwich Chocolate,Sandwich,63.0,5.7,21.0,6.5,477.0,89.7,11.052612188399669,High
+Pain De Mie Sandwich Nature,Sandwich,49.9,7.1,5.1,3.0,278.2,62.1,7.028159115268852,Medium
+Vitalday Sandwich De Avena Con Chocolate,Sandwich,61.0,7.2,18.0,9.0,447.0,86.2,8.472210455263257,High
+Wrap Poulet Rôti Crudités,Sandwich,30.0,8.2,11.0,1.9,256.0,49.2,3.658532123741313,Medium
+Ghani,Yogurt,13.3,3.2,1.6,0.0,80.0,18.1,4.156237011759338,Low
+Kéfir Natural Sabor Suave,Yogurt,5.1,3.9,4.2,0.0,74.0,13.2,1.307688954643706,Low
+Yogurt Greek Style,Yogurt,3.2,4.6,10.0,0.5,96.2,17.8,0.6956506616289966,Low
+Dan Up,Yogurt,8.65,1.41,0.71,0.0,46.5,10.77,6.134708264480394,Low
+Danone-Peche,Yogurt,14.3,3.4,2.7,0.0,95.0,20.4,4.205869982735345,Low
+Dessert Gourmand Choco,Yogurt,31.67,3.33,10.0,1.67,233.3,45.0,9.510481950504653,Medium
+Framboise Délicate,Yogurt,12.1,3.8,2.8,0.0,90.0,18.7,3.184202146836456,Low
+Activia Ananas Fraise,Yogurt,9.6,2.7,1.2,0.0,60.0,13.5,3.555542386880048,Low
+Strawberry Yogurt,Yogurt,8.1,3.6,2.1,1.0,68.0,13.799999999999999,2.249993750017361,Low
+ديليسيوس بيرلي,Yogurt,19.4,6.4,6.7,0.0,163.6,32.5,3.0312452636792755,Medium
+Yogurt Bnine Banana,Yogurt,14.3,3.9,1.7,0.0,88.1,19.9,3.6666572649813722,Low
+Griego Ligero Natural,Yogurt,4.7,5.8,2.0,0.0,60.0,12.5,0.8103434304423615,Low
+Yaourt Grec 10%Mg,Yogurt,3.8,6.5,10.0,0.0,134.0,20.3,0.5846144852084842,Medium
+Actimel,Yogurt,13.0,1.9,1.8,0.0,74.0,16.7,6.842069252267094,Low
+Greek Style Natural Light 2% Fat,Yogurt,4.0,6.0,2.0,0.0,58.4,12.0,0.6666655555574075,Low
+Creamy Greek Style Natural Yogurt,Yogurt,4.6,4.1,10.0,0.5,126.4,18.7,1.1219484830524804,Medium
+Ladid,Yogurt,17.5,3.2,1.4,0.0,95.0,22.099999999999998,5.468732910209655,Low
+Yogur Natural Al Estilo Griego,Yogurt,3.9,3.9,10.8,0.0,103.2,18.6,0.9999974359040105,Medium
+"Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350G",Yogurt,4.5,0.6,6.0,0.0,77.0,11.1,7.499875002083299,Low
+Natural Con Coco,Yogurt,2.4,3.9,3.0,0.8,54.0,9.3,0.615383037479391,Low
+Yogur Griego Ligero,Yogurt,4.7,5.8,2.0,0.0,48.0,12.5,0.8103434304423615,Low
+Hipro Saveur Vanille-Cookie,Yogurt,5.5,8.3,0.5,0.0,60.0,14.3,0.6626498040363806,Low
+Yaourt Chèvre Nature,Yogurt,4.2,4.1,4.9,0.0,77.0,13.200000000000001,1.024387745395743,Low
+Daya Ananas Coco,Yogurt,15.1,2.4,1.2,0.0,74.0,18.7,6.291640451498119,Low
+Total 0% Fat,Yogurt,3.0,10.3,0.0,0.0,54.0,13.3,0.2912618531438319,Low
+Fermented Coconut Yoghurt Alternative,Yogurt,5.9,1.2,10.0,1.0,71.1,17.1,4.916625694785877,Low
+Activia,Yogurt,9.9,2.7,1.2,1.5,64.0,13.8,3.66665308647005,Low
+Nature,Yogurt,4.28,3.5,1.9,0.0,48.0,9.68,1.2228536489895743,Low
+Kéfir Saveur Myrtille,Yogurt,8.0,3.1,3.1,0.0,72.0,14.2,2.5806368366553656,Low
+Kefir Natural Fermented Yogurt,Yogurt,5.4,4.7,2.1,0.0,64.0,12.200000000000001,1.1489337256729242,Low
+Greek 0% Fat Authentic Greek Yogurt,Yogurt,3.9,10.4,0.0,0.0,57.0,14.3,0.3749996394234236,Low
+Jnane,Yogurt,15.0,3.8,3.2,0.0,102.0,22.0,3.947358033268334,Medium
+Total 5% Fat Greek Yogurt,Yogurt,3.0,9.0,5.0,0.0,93.0,17.0,0.3333329629633745,Low
+Skyr Nature,Yogurt,3.6,9.5,0.5,0.0,57.0,13.6,0.3789469695295058,Low
+Skyr À Boire Goût Fruits Rouges,Yogurt,8.7,6.0,0.2,0.0,59.6,14.899999999999999,1.449997583337361,Low
+À La Grecque Greek Style Nature-Natural,Yogurt,1.4,5.7,3.3,0.0,40.8,10.399999999999999,0.2456136041866593,Low
+Ghilal Panaché,Yogurt,14.0,1.4,0.7,0.0,68.0,16.1,9.999928571938772,Low
+Yaourts Brassés Aux Fruits Fraise,Yogurt,18.8,0.0,2.7,0.0,116.0,21.5,1880000.0,Medium
+Skyr Natural Fat Free Icelandic Style Yogurt,Yogurt,4.0,10.0,0.5,0.0,60.0,14.5,0.3999996000004,Low
+Ghilal,Yogurt,16.0,3.5,3.0,0.0,83.4,22.5,4.571415510241399,Low
+Kiri 7.5G Protein Creamy Cheese With Fresh Yogurt Greek Style,Yogurt,4.0,7.5,18.0,0.0,208.0,29.5,0.5333326222231703,Medium
+Greek 10% Fat Authentic Yogurt,Yogurt,4.6,5.9,10.0,0.0,132.0,20.5,0.7796596954920415,Medium
+Danone 0%,Yogurt,8.1,3.4,0.1,0.0,48.2,11.6,2.382345934276664,Low
+Brasse Abricot,Yogurt,18.0,3.5,2.8,0.0,107.0,24.3,5.1428424490215745,Medium
+Brassé Ananas,Yogurt,18.0,3.5,2.8,0.0,107.0,24.3,5.1428424490215745,Medium
+Yaourt De Chevre,Yogurt,16.0,4.0,3.0,0.0,108.0,23.0,3.9999900000250004,Medium
+Yaourt À La Grecque Nature,Yogurt,3.3,3.3,8.9,0.0,107.0,15.5,0.9999969697061524,Medium
+Organic Greek Yogurt Plain,Yogurt,4.12,10.59,0.0,0.0,58.8,14.71,0.3890459026950872,Low
+Yaourt Ferme,Yogurt,15.5,3.8,3.0,0.0,100.0,22.3,4.078936634377278,Low
+Greek Style Natural,Yogurt,4.9,4.5,8.3,0.0,25.6,17.700000000000003,1.08888646914118,Low
+Yaourt Coco,Yogurt,15.5,3.8,3.0,0.0,100.0,22.3,4.078936634377278,Low
+Albane,Yogurt,8.7,4.2,3.3,0.0,81.0,16.2,2.071423639467525,Low
+Yaourt Brassé Sans Sucre,Yogurt,6.7,3.0,3.0,0.0,66.0,12.7,2.2333258889137038,Low
+Yaourt Brassé Nature,Yogurt,4.7,3.9,3.3,0.0,64.0,11.899999999999999,1.2051251150638076,Low
+Activia Bifidus Saveur Noix De Coco Sans Arome Artificiel 125 Gx 4,Yogurt,12.6,3.6,3.1,0.0,93.0,19.3,3.4999902778047836,Low
+بروتين فراولة,Yogurt,7.4,8.5,0.6,0.0,70.0,16.5,0.8705872110738694,Low
+Skyr Vanille,Yogurt,10.9,7.8,0.5,0.0,79.0,19.2,1.3974341058537105,Low
+Jao! تروبيكال,Yogurt,11.2,2.6,1.2,0.0,66.0,14.999999999999998,4.307675739708693,Low
+لينيا,Yogurt,7.0,4.9,0.0,0.0,48.0,11.9,1.4285685131254835,Low
+Kefir,Yogurt,4.0,4.0,1.5,0.0,46.0,9.5,0.9999975000062501,Low
+Yogo Fraise,Yogurt,55.14,1.99,6.9,6.3,95.0,64.03,27.708403475359418,Low
+Le Yaourt Nature,Yogurt,8.0,4.2,3.3,0.0,78.0,15.5,1.9047573696253106,Low
+Dessert Végétal Citron Vert,Yogurt,10.1,3.6,2.0,0.6,77.0,15.7,2.8055477623673264,Low
+Skyr Bio Vanille,Yogurt,8.9,9.1,0.1,0.0,73.0,18.1,0.9780209032737328,Low
+Kefir Yogurt Original,Yogurt,7.4,6.0,2.0,0.0,72.0,15.4,1.2333312777812038,Low
+Greek Yogurt Nonfat Plain,Yogurt,4.0,9.5,0.0,0.0,52.9,13.5,0.4210521883661175,Low
+Yaourt Stracciatella Jockey,Yogurt,18.1,4.9,6.9,0.2,155.0,29.9,3.6938700125101787,Medium
+Douceur De Fromage,Yogurt,9.4,8.0,3.0,0.0,97.0,20.4,1.174998531251836,Low
+Yogurt,Yogurt,4.9,4.2,3.8,0.0,72.0,12.900000000000002,1.1666638888955028,Low
+Yaourt Nature À La Grecque 4X150G,Yogurt,3.5,2.9,8.5,0.5,102.0,14.9,1.2068923900262414,Medium
+Linea 0% - Milk,Yogurt,0.0,3.1,0.0,0.0,32.0,3.1,0.0,Low
+Skyr À Boire Fruits Exotiques,Yogurt,8.7,6.0,0.2,0.0,24.1,14.899999999999999,1.449997583337361,Low
+6111126001858,Yogurt,15.0,3.5,2.9,0.0,100.1,21.4,4.285702040851311,Medium
+Raspberry-Pomegranate Milk Product,Yogurt,6.0,10.0,0.3,0.0,65.0,16.3,0.5999994000006,Low
+Smoozy,Yogurt,14.2,2.2,2.0,0.0,84.0,18.4,6.454516115835836,Low
+Yaourt Nature,Yogurt,4.2,4.0,1.1,0.0,43.0,9.299999999999999,1.0499973750065625,Low
+Greek Style Yogurt,Yogurt,4.2,3.7,7.5,0.0,99.0,15.4,1.135132067210629,Low
+High Protein Quark Dessert Raspberry,Yogurt,3.4,12.6,0.4,0.4,68.0,16.4,0.26984105568170186,Low
+Biscotti Allo Yogurt Dolcesenza,Yogurt,71.0,8.5,15.0,4.0,421.0,94.5,8.35293134949253,High
+Yaourt Brassé Sport Mangue,Yogurt,5.4,8.5,0.6,0.0,61.0,14.5,0.6352933702430938,Low
+Chergui,Yogurt,6.2,3.4,7.8,0.0,111.0,17.4,1.823524048458681,Medium
+Actimel Original Nature,Yogurt,10.8,3.0,1.6,0.0,73.0,15.4,3.59998800004,Low
+Yaourt Ferme Vanille,Yogurt,15.5,3.8,3.0,0.0,100.0,22.3,4.078936634377278,Low
+6111126004347,Yogurt,13.0,3.2,2.9,0.0,90.9,19.099999999999998,4.062487304727172,Low
+Raib Du Bled,Yogurt,12.4,3.9,3.3,0.0,93.0,19.6,3.179479026976854,Low
+Greek Natural Yogurt 10% Fat,Yogurt,4.5,6.0,10.0,0.0,132.0,20.5,0.7499987500020834,Medium
+Yaourt À La Vanille,Yogurt,14.0,3.0,3.0,0.0,95.0,20.0,4.666651111162962,Low
+Yop Parfum Vanille,Yogurt,10.6,3.0,0.8,0.0,66.0,14.4,3.5333215555948145,Low
+Pain De Mie Bio,Bread,47.0,8.1,4.2,4.9,268.0,59.300000000000004,5.80246197226917,Medium
+14 Maxi Tranches Complet Sans Sucres Ajoutés,Bread,42.0,8.5,5.2,7.5,264.0,55.7,4.9411706574462855,Medium
+Pain De Mie Bio Grandes Tranches Céréales & Graines 500G,Bread,46.0,8.6,8.3,5.1,303.0,62.900000000000006,5.3488309897314075,High
+Harrys Brioche Tressee Nature Au Sucre Perle Sans Additifs 500G,Bread,49.0,8.6,13.0,4.5,356.0,70.6,5.697667793409543,High
+Pain De Mie Grandes Tranches Toastiligne Complet,Bread,39.0,10.0,1.9,6.2,226.0,50.9,3.8999961000039,Medium
+Tartines Céréales & Graines 450G,Bread,39.0,10.0,10.0,5.8,298.0,59.0,3.8999961000039,Medium
+Biscottes 6 Céréales,Bread,67.0,13.0,7.6,5.2,392.9,87.6,5.153842189352162,High
+Blé Complet Wraps,Bread,48.1,9.14,6.03,5.17,294.8,63.27,5.262576299150657,Medium
+White Ciabattin,Bread,44.1,10.1,0.8,2.9,229.0,55.0,4.366332310562069,Medium
+Krisprolls Complets,Bread,70.0,12.0,6.2,7.7,397.0,88.2,5.833328472226273,High
+Grilletine Blé Complet,Bread,65.0,13.0,10.0,6.7,432.0,88.0,4.9999961538491124,High
+Golden,Bread,76.0,6.3,14.5,0.2,461.0,96.8,12.063472915122357,High
+Sliced White Sourdough Bread With Grains & Seeds,Bread,40.2,10.7,2.7,4.7,237.0,53.60000000000001,3.757005834573987,Medium
+Maestro Cereale - Pain Aux Céréales Tranché,Bread,38.0,4.5,6.6,9.9,249.0,49.1,8.444425679054048,Medium
+Fines Tartines Farine De Seigle,Bread,41.0,7.1,1.6,8.7,224.0,49.7,5.774639754028516,Medium
+Proper Sourdough,Bread,46.4,9.7,0.7,3.0,237.8,56.8,4.783500223195647,Medium
+Maestro Classic - Pain De Mie Tranché Nature,Bread,44.0,3.6,3.6,8.0,232.0,51.2,12.222188271699245,Medium
+Tartines P’Tit Dej,Bread,44.0,10.0,4.3,6.2,270.0,58.3,4.3999956000044005,Medium
+Biscottes,Bread,29.0,4.6,2.9,1.4,165.0,36.5,6.304334121012781,Medium
+Pain Complet Seigle,Bread,37.0,4.6,1.3,10.0,198.0,42.9,8.043460775085272,Medium
+Maestro Vital - Pain Aux Graines Tranché,Bread,36.0,4.5,9.2,8.8,262.0,49.7,7.999982222261729,Medium
+Harrys Brioche Tranchee Pepites De Chocolat Sans Additif 485G,Bread,50.0,7.5,13.0,5.2,357.0,70.5,6.66665777778963,High
+Seeded Sourdough Bread,Bread,42.93,8.62,3.79,5.52,244.8,55.339999999999996,4.980272644695308,Medium
+Pain De Mie Bio Petites Tranches Complet & Levain Sans Sucres Ajoutés 280G,Bread,42.0,10.0,4.6,5.9,261.0,56.6,4.1999958000042,Medium
+Pan De Molde Con 52% Centeno,Bread,35.0,10.0,7.8,7.5,265.0,52.8,3.4999965000035003,Medium
+Jason'S Sourdough,Bread,44.8,9.33,1.09,3.58,116.7,55.22,4.801709751650855,Medium
+Organic Bread 21 Whole Grains And Seeds,Bread,22.0,6.0,1.5,4.0,255.8,29.5,3.6666605555657408,Medium
+Everyday White Rolls,Bread,48.8,10.0,0.7,1.8,245.0,59.5,4.87999512000488,Medium
+Grilletine Froment,Bread,70.0,12.0,9.6,6.3,427.0,91.6,5.833328472226273,High
+Harrys Pain De Mie Extra Moelleux Complet Sans Sucres Ajoutés 280G,Bread,47.0,8.0,4.6,6.0,273.0,59.6,5.87499265625918,Medium
+Seed Sensations Seven Seeds,Bread,42.0,10.0,6.6,5.3,277.3,58.6,4.1999958000042,Medium
+Original Crumpets,Bread,35.3,6.0,0.8,2.0,176.4,42.099999999999994,5.88332352779412,Medium
+Weizen Toast,Bread,51.0,8.3,4.2,2.7,284.0,63.5,6.1445709101555295,Medium
+Brioche Tressée Nature Allegée En Sucres Sans Additifs 450G,Bread,44.0,8.7,14.0,7.0,351.0,66.7,5.057465451189137,High
+Petits Pains Grillés Blé Complet,Bread,66.0,10.0,10.0,6.9,408.0,86.0,6.5999934000066,High
+Nyc Bagels The Original,Bread,49.5,9.2,2.5,3.3,229.0,61.2,5.3804289343163765,Medium
+Tortillas Trigo,Bread,50.0,8.4,5.8,4.2,294.4,64.2,5.9523738662215875,Medium
+Rye And Mixed Seed Sourdough Bread,Bread,42.6,9.0,3.8,6.8,203.3,55.4,4.733328074079918,Medium
+Tortillas Sans Gluten,Bread,59.2,1.9,1.5,3.9,266.0,62.6,31.157730748785536,Medium
+Biscottes Aixoises,Bread,72.0,12.0,6.0,4.4,410.0,90.0,5.999995000004167,High
+Multiseed Wholemeal Farmhouse Loaf,Bread,34.2,12.8,7.5,7.4,270.0,54.5,2.6718729125992873,Medium
+Unleavened Breads,Bread,76.9,10.6,0.8,3.5,364.0,88.3,7.254710137065909,High
+Biscottes Au Blé Complet X36 Tranches De 300G,Bread,65.0,13.0,6.0,10.0,386.0,84.0,4.9999961538491124,High
+Clasica / Classico,Bread,45.0,9.4,1.5,4.0,319.0,55.9,4.787228949756437,High
+Sourdough,Bread,46.5,9.3,2.7,3.6,255.0,58.5,4.999994623661695,Medium
+6111259347106,Bread,60.0,5.0,25.0,5.0,500.0,90.0,11.999976000048001,High
+Pain Campagnard - Grandes Tranches,Bread,41.0,4.1,2.7,2.7,235.4,47.800000000000004,9.999975609815587,Medium
+White Sourdough,Bread,44.6,9.4,0.7,4.5,252.5,54.7,4.74467580353638,Medium
+Brioche Tranchée Skyr,Bread,49.0,8.1,12.0,4.3,104.2,69.1,6.04937524768488,Medium
+Hand Finished Seeded Sourdough Bread,Bread,43.0,8.8,3.9,5.1,251.0,55.699999999999996,4.886358083683995,Medium
+Wholemeal No Added Sugar,Bread,37.82,10.5,2.52,6.3,257.1,50.84,3.6019013315225417,Medium
+Biscotte,Bread,72.0,13.0,5.4,6.2,401.0,90.4,5.538457278109786,High
+White Sourdough Bread,Bread,43.4,7.5,2.8,4.7,240.4,53.699999999999996,5.786658951121399,Medium
+8 Pains Au Chocolat Pur Beurre 400G,Bread,45.0,6.8,22.0,3.8,413.0,73.8,6.617637327003932,High
+Dark Rye Sourdough,Bread,45.1,7.9,1.3,5.2,234.0,54.3,5.708853533096794,Medium
+6 Tortilla Nature,Bread,53.8,7.5,10.2,1.0,340.0,71.5,7.173323768901642,High
+Pain Campagnard Aux Graines - Grandes Tranches Aux Graines,Bread,47.0,4.5,5.3,8.5,270.0,56.8,10.44442123461948,Medium
+4 Pains Pita À La Farine Complète,Bread,53.0,7.5,1.0,3.8,259.0,61.5,7.066657244457008,Medium
+Pain Lait Bio* Nature X8 280G,Bread,51.0,9.4,11.0,2.4,345.0,71.4,5.4255261430572945,High
+Tasty Wholemeal,Bread,37.75,10.0,1.75,6.75,220.0,49.5,3.774996225003775,Medium
+Tiger Rolls With Sourdough,Bread,50.38,9.12,0.62,2.62,250.0,60.12,5.524116749871986,Medium
+Sourdough Wholemeal Ciabatta,Bread,37.29,11.67,1.25,6.46,110.0,50.21,3.1953700125364075,Medium
+Pain De Mie Bio Grandes Tranches À La Farine De Froment Sans Sucres Ajoutés 500G,Bread,48.0,7.6,6.3,3.5,286.0,61.9,6.3157811634458385,Medium
+Tartine P'Tit Dej Nature Ssa 410 Gr,Bread,48.0,9.6,4.4,3.9,278.0,62.0,4.999994791672092,Medium
+Original Toastie Soft & Sliced White Loaf,Bread,46.4,9.1,2.0,2.3,244.7,57.5,5.098895495719236,Medium
+Organic Wholeblend Piadina,Bread,46.67,7.87,8.53,4.53,305.3,63.07,5.93010682324419,High
+Original Seeded Batch,Bread,39.7,10.6,8.9,6.0,292.6,59.2,3.7452794855853915,Medium
+Protein Thin Bagels,Bread,40.7,13.5,3.3,5.0,256.7,57.5,3.01481258162031,Medium
+Pain Lait Bio* Far Complet X8 280G,Bread,49.0,9.4,13.0,4.2,359.0,71.4,5.212760411957008,High
+Wholemeal Bread,Bread,37.72,10.49,2.23,6.47,232.9,50.44,3.5958021012372723,Medium
+Snack Pipas,Bread,49.2,11.5,30.2,3.4,521.0,90.9,4.278257149341609,High
+Pan De Molde Semillas & Pipas,Bread,38.0,11.0,9.3,5.7,290.2,58.3,3.454542314052442,Medium
+Tartine P'Tit Dej Brioché,Bread,49.0,9.0,4.9,5.3,287.0,62.9,5.44443839506845,Medium
+Multigraines,Bread,48.5,11.3,0.71,6.7,245.0,60.51,4.292031599972035,Medium
+Pan Bauletto Integrale,Bread,38.0,11.0,6.8,8.2,275.0,55.8,3.454542314052442,Medium
+Le Pain,Bread,40.0,8.1,2.1,7.2,226.0,50.2,4.9382655083141875,Medium
+Petits Pains Grillés Au Blé Complet,Bread,68.0,12.0,6.3,6.3,414.0,86.3,5.6666619444483795,High
+Biscottes 6 Cereales,Bread,60.0,12.0,7.3,6.0,412.0,79.3,4.999995833336806,High
+4 Muffins Nature,Bread,43.0,10.0,1.2,2.4,228.0,54.2,4.2999957000043,Medium
+Crackers,Bread,79.0,3.3,12.0,4.4,445.7,94.3,23.93932139599577,High
+Pain Grillé À La Farine Complète,Bread,69.0,11.0,4.5,7.5,376.0,84.5,6.272721570253118,High
+Pan De Molde Natural Trigo Espelta 100% Integral,Bread,38.0,12.0,4.1,7.4,240.0,54.1,3.166664027779977,Medium
+Cream Cheese,Cheese,3.1,10.0,18.0,0.0,257.0,31.1,0.30999969000031,Medium
+Cheddar,Cheese,6.0,9.0,21.0,0.0,270.0,36.0,0.666665925926749,Medium
+Goldium Crémeux,Cheese,3.0,5.0,24.0,0.1,225.0,32.0,0.5999988000024,Medium
+Frommage Fondu,Cheese,9.0,7.0,26.0,0.0,298.0,42.0,1.2857124489822158,Medium
+Jebli,Cheese,6.9,6.5,19.0,0.0,225.0,32.4,1.0615368284048794,Medium
+Le Blanc Nature 900G Araai,Cheese,4.9,4.9,23.5,0.0,234.7,33.3,0.9999979591878385,Medium
+Jibal Jben,Cheese,6.14,2.5,11.5,0.0,138.0,20.14,2.4559901760392955,Medium
+Fromage Herbes Milky Food,Cheese,4.0,4.8,21.0,0.0,228.0,29.8,0.8333315972258392,Medium
+Tranches Au Goût Cheddar,Cheese,21.0,8.0,8.0,0.0,281.0,37.0,2.624996718754102,Medium
+Frische Milch & Rahm / Lait Frais & Crème,Cheese,2.0,9.0,29.0,0.0,303.0,40.0,0.22222197530891633,High
+L'Original Tartare Ail & Fines Herbes,Cheese,2.3,7.0,34.5,0.0,348.0,43.8,0.32857095918434404,High
+Fromage De France,Cheese,0.8,15.0,30.0,0.0,339.4,45.8,0.053333297777801485,High
+Philadelphia Original,Cheese,4.3,5.4,21.0,0.2,226.0,30.7,0.7962948216762561,Medium
+Salakis 100% Brebis,Cheese,0.8,15.7,22.8,0.0,272.0,39.3,0.05095538155708182,Medium
+Philadelphia Nature 300G,Cheese,3.3,4.5,21.0,0.2,220.0,28.8,0.7333317037073251,Medium
+Cream-Cheese,Cheese,3.33,6.67,33.33,0.0,333.3,43.33,0.4992496263124044,High
+Jben Chergui,Cheese,2.8,8.4,16.0,0.0,188.8,27.2,0.3333329365084089,Medium
+لذيذ,Cheese,9.1,7.9,16.5,0.0,212.5,33.5,1.1518972760793973,Medium
+كريميو,Cheese,9.5,8.0,20.0,0.0,248.0,37.5,1.1874985156268556,Medium
+Fiocchi Di Latte,Cheese,2.8,11.5,4.5,0.0,98.0,18.8,0.24347804914952248,Low
+Chèvre Piment D'Espelette,Cheese,52.0,6.3,31.0,4.8,522.0,89.3,8.25395515245214,High
+Fromage Blanc Nature 3%,Cheese,3.3,7.5,3.0,0.0,70.0,13.8,0.4399994133341156,Low
+Coulommiers Doux Et Crémeux,Cheese,1.0,18.0,23.0,0.0,283.0,42.0,0.055555524691375174,Medium
+Or Blanc,Cheese,6.5,9.5,18.0,0.35,226.0,34.0,0.684209806094941,Medium
+Original Doux & Crémeux,Cheese,6.0,10.0,21.0,0.0,253.0,37.0,0.5999994000006,Medium
+Doritos Cheese,Cheese,61.0,6.8,22.0,5.5,480.0,89.8,8.970575043271996,High
+Câlin Extra 0%,Cheese,7.8,6.5,0.1,0.1,61.0,14.4,1.199998153848994,Low
+Boursin Ail & Fines Herbes,Cheese,3.0,8.5,37.0,0.0,385.0,48.5,0.35294076124616325,High
+Fromage À Tartiner Ail & Fines Herbes,Cheese,2.2,9.0,32.0,0.0,333.0,43.2,0.244444172839808,High
+Cottage Cheese,Cheese,1.61,12.0,3.72,0.0,87.8,17.33,0.1341665548612043,Low
+Hollandis Class 16P,Cheese,5.0,10.0,24.0,0.0,287.0,39.0,0.49999950000050003,Medium
+Full Fat Soft Cheese,Cheese,4.3,5.4,21.0,0.2,226.7,30.7,0.7962948216762561,Medium
+Fondiz,Cheese,9.0,5.0,19.0,0.0,277.0,33.0,1.7999964000072002,Medium
+Mozzarella Pizza-Roma,Cheese,2.5,21.0,21.0,0.0,283.0,44.5,0.11904756235830365,Medium
+Fromage Blanc,Cheese,3.7,7.2,3.6,0.0,76.0,14.5,0.5138881751553124,Low
+Jben Chergui *2,Cheese,2.8,8.4,16.0,0.0,188.8,27.2,0.3333329365084089,Medium
+Kiri Carré 12P,Cheese,3.5,9.0,20.0,0.0,230.0,32.5,0.3888884567906036,Medium
+Queso Feta,Cheese,1.0,16.0,23.2,0.0,276.7,40.2,0.06249996093752441,Medium
+Campo Verde - Fromage,Cheese,11.0,3.5,17.0,0.0,211.0,31.5,3.142848163290962,Medium
+Burrata,Cheese,1.8,10.0,23.0,0.67,203.2,34.8,0.17999982000018,Medium
+Naturais 150G,Cheese,4.4,6.3,20.0,0.5,209.0,30.7,0.6984115898228734,Medium
+Natural Cottage Cheese,Cheese,2.8,11.5,4.5,0.0,97.0,18.8,0.24347804914952248,Low
+Muscly Fromage 24,Cheese,7.0,9.0,22.0,0.0,264.0,38.0,0.7777769135812072,Medium
+Skyr Bio Nature,Cheese,3.9,10.0,0.2,0.0,57.0,14.1,0.38999961000039,Low
+Garlic & Herbs,Cheese,3.0,8.5,39.0,0.1,385.0,50.5,0.35294076124616325,High
+Ftoury Berger Duo,Cheese,4.0,6.0,20.0,0.0,225.0,30.0,0.6666655555574075,Medium
+"Fromage Frais Nature 3,2% 4X100G",Cheese,3.9,7.2,3.2,0.0,73.2,14.3,0.5416659143528967,Low
+Kiri 24P,Cheese,3.5,9.0,20.0,0.0,230.0,32.5,0.3888884567906036,Medium
+Salakis Herbes De Provence,Cheese,0.8,14.6,25.8,0.0,293.0,41.2,0.05479448301747739,Medium
+La Faisselle,Cheese,4.5,4.3,4.5,0.0,76.0,13.3,1.046509194164665,Low
+Greek White Panetto,Cheese,11.0,0.0,29.0,0.0,306.7,40.0,1100000.0,High
+Sauce Burger (Goût Cheese),Cheese,20.0,0.65,33.5,0.0,384.0,54.15,30.768757403732252,High
+Fromage A Tartiner,Cheese,3.5,6.8,27.2,0.0,288.0,37.5,0.5147051254336391,Medium
+Tarti'Bon Nature,Cheese,3.0,4.5,25.0,0.0,165.9,32.5,0.6666651851884774,Medium
+Laty,Cheese,3.0,4.5,25.0,0.0,252.0,32.5,0.6666651851884774,Medium
+La Faisselle White Cheese From The Countryside,Cheese,4.5,4.3,4.5,0.0,76.0,13.3,1.046509194164665,Low
+Boursin® Onctueux Ail & Fines Herbes,Cheese,3.0,6.5,28.0,0.0,290.0,37.5,0.46153775148038234,Medium
+Mozzarella,Cheese,2.0,17.0,18.0,0.0,220.0,37.0,0.11764698961941787,Medium
+Fromage Blanc Au Lait Demi-Écrémé,Cheese,4.4,6.9,3.3,0.0,76.0,14.600000000000001,0.6376802352460359,Low
+Le Brie,Cheese,0.5,17.0,31.0,0.23,347.0,48.5,0.029411747404854468,High
+Le Fouetté De Brebis,Cheese,5.1,6.1,34.0,0.0,347.0,45.2,0.8360642031734374,High
+Feta,Cheese,0.7,16.5,24.5,0.0,289.0,41.7,0.04242421671259593,Medium
+Bio Cottage Cheese,Cheese,3.5,13.0,4.5,0.0,107.0,21.0,0.2692305621303368,Medium
+Knorr Beef Flavored Buillon Cubes - 8 Cubes,Beef,0.5,0.5,0.5,0.0,3.0,1.5,0.9999800003999921,Low
+Cube De Bouillon - Boeuf (Beef) - 8 Cubes,Beef,16.0,9.0,15.5,10.0,210.0,40.5,1.7777758024713306,Medium
+Beef Flavour,Beef,9.0,1.4,3.8,0.0,76.0,14.2,6.428525510532068,Low
+Le Parmentier De Boeuf Charolais Purée À La Crème Fraîche,Beef,9.7,9.2,6.5,1.2,137.0,25.4,1.0543466800579564,Medium
+Bouillon Arôme Boeuf,Beef,16.0,9.0,15.5,10.0,210.0,40.5,1.7777758024713306,Medium
+Steack Haché 15%,Beef,0.0,19.0,15.0,0.0,209.0,34.0,0.0,Medium
+Cannelloni De Boeuf,Beef,10.0,10.0,9.0,1.3,165.0,29.0,0.9999990000010001,Medium
+Boulettes De Viande Cuites Kefta,Beef,9.4,14.0,14.0,1.3,221.8,37.4,0.6714280918370773,Medium
+Le Ravioli Bolognaise Sans Conservateur,Beef,11.0,4.5,4.3,1.3,103.0,19.8,2.4444390123577504,Medium
+Hachis Parmentier,Beef,13.0,7.7,5.7,0.8,136.0,26.4,1.6883094957019538,Medium
+Lasagnes À La Bolognaise,Beef,14.0,5.9,5.2,1.4,129.0,25.099999999999998,2.3728773341062133,Medium
+Moussaka Surgelée,Beef,5.8,6.6,12.0,1.9,159.0,24.4,0.8787865472931102,Medium
+Boulettes Au Bœuf Et Aux Oignons Crues,Beef,2.6,14.0,12.1,2.4,179.0,28.700000000000003,0.18571415306131925,Medium
+Hamburguesa De Lomo De Vacuno,Beef,0.5,19.0,18.0,0.0,240.0,37.5,0.02631577562327599,Medium
+Minis Original,Beef,0.0,4.0,3.0,0.0,321.4,7.0,0.0,High
+Boulettes De Viande Cuites Recette Suédoise,Beef,7.7,14.0,17.0,0.2,243.0,38.7,0.5499996071431378,Medium
+Parmentier De Boeuf Charolais,Beef,7.9,10.0,9.8,2.4,165.0,27.7,0.7899992100007901,Medium
+Coup Noodles Beef,Beef,9.6,2.5,3.0,0.0,78.0,15.1,3.8399846400614397,Low
+Oxo Beef,Beef,35.7,17.4,4.9,4.2,265.0,58.0,2.051722958779909,Medium
+Carbonade Flamande Et Röstis De Pommes De Terre,Beef,13.0,8.2,5.2,1.7,134.0,26.4,1.5853639202879024,Medium
+Chef Select Beef Lasagne,Beef,14.0,7.9,9.6,0.9,176.0,31.5,1.7721496555067653,Medium
+Le Spécial À L'Oignon,Beef,5.0,13.8,12.7,1.0,192.0,31.5,0.36231857803001594,Medium
+Corned Beef,Beef,0.5,21.0,15.0,0.0,221.0,36.5,0.02380951247166073,Medium
+"Fondant De Bœuf Écrasé De Pommes De Terre, Sauce À La Basquaise",Beef,7.8,7.3,5.9,0.9,115.0,21.0,1.068491686997689,Medium
+4 Biftecks Hachés Pur Bœuf 5%,Beef,0.5,22.0,4.6,0.5,130.0,27.1,0.02272726239669891,Medium
+Blanquette De Veau Riz Et Champignons À La Crème,Beef,14.0,6.5,4.7,0.5,125.0,25.2,2.153842840241784,Medium
+Blanquette De Veau Et Son Riz,Beef,13.0,8.2,2.3,0.8,107.0,23.5,1.5853639202879024,Medium
+2 Steaks Hachés 5% M.G Bio,Beef,0.0,21.0,5.0,0.0,129.0,26.0,0.0,Medium
+Boulettes À L’Italienne,Beef,7.0,13.0,13.0,1.6,197.0,33.0,0.5384611242606736,Medium
+Sensational Burger Aus Sojaprotein,Beef,3.9,12.4,11.0,5.9,176.1,27.3,0.3145158753904231,Medium
+"Ravioli, Pur Bœuf",Beef,11.0,3.3,2.4,1.4,83.0,16.7,3.3333232323538415,Low
+Mon Moment Choucroute Aux 4 Charcuteries Au Riesling D'Alsace,Beef,4.3,5.9,8.6,1.9,122.0,18.799999999999997,0.7288123240469083,Medium
+Intense Rich Beef,Beef,10.0,4.9,3.1,0.9,90.0,18.0,2.0408121616078336,Low
+"Blanquette De Veau, Riz Crémeux Et Champignons Émincés",Beef,12.0,7.0,6.0,0.8,132.0,25.0,1.7142832653096212,Medium
+Le Pur Bœuf 5% De M.G.,Beef,0.0,20.0,5.0,0.0,129.0,25.0,0.0,Medium
+Lasagne Bolognaise,Beef,14.0,5.7,5.1,1.3,127.0,24.799999999999997,2.456136041866593,Medium
+Hamburguesa De Vaca Madurada,Beef,0.5,17.0,20.0,0.0,250.0,37.5,0.029411747404854468,Medium
+"Boulettes Kefta, Légumes Et Pâtes Orzo",Beef,12.0,6.1,8.7,2.0,156.0,26.8,1.967209889819853,Medium
+Blanquette De Veau Aux Champignons & Riz,Beef,13.0,6.3,3.6,0.7,111.0,22.900000000000002,2.063488788113035,Medium
+Boeuf Bourguignon Et Ses Pommes De Terre,Beef,7.9,6.7,1.2,1.4,72.0,15.8,1.1791027177571378,Low
+Potts' Beef Stock,Beef,1.7,2.0,0.6,0.1,21.0,4.3,0.8499957500212498,Low
+Ravioli Au Boeuf,Beef,4.2,3.2,2.2,1.1,52.0,9.600000000000001,1.3124958984503172,Low
+Le Cannelloni (100 % Pur Bœuf),Beef,15.0,5.0,3.7,1.2,116.0,23.7,2.9999940000120002,Medium
+Ravioli Pur Bœuf,Beef,13.0,3.8,2.3,0.8,91.0,19.1,3.421043628832556,Low
+Steaks Haches Pur Boeuf 5% Surgeles,Beef,0.5,22.0,4.6,0.5,130.0,27.1,0.02272726239669891,Medium
+Joue De Boeuf,Beef,0.7,21.0,4.4,0.5,126.0,26.1,0.033333317460325015,Medium
+Beef Gravy,Beef,68.1,0.5,6.5,0.9,350.0,75.1,136.19727605447892,High
+Ultra Moelleux*,Beef,0.6,16.0,15.0,0.5,200.0,31.6,0.03749997656251465,Medium
+Steacks Hachés Le Pur Boeuf,Beef,0.0,22.0,5.0,0.0,133.0,27.0,0.0,Medium
+Cacahir Goût Boeuf,Beef,9.5,9.1,10.8,0.0,172.0,29.400000000000002,1.043954896752861,Medium
+Ravioli Pur Boeuf,Beef,12.0,4.0,2.0,1.5,85.0,18.0,2.99999250001875,Low
+Spaghetti À La Bolognaise,Beef,17.0,7.0,7.1,1.4,163.0,31.1,2.42856795918863,Medium
+Beef Luncheon Meat,Beef,0.2,14.4,18.7,0.0,256.0,33.3,0.01388887924383386,Medium
+Pizza Crust - Mythic,Beef,23.0,11.0,6.6,3.4,203.0,40.6,2.0909071900843728,Medium
+Lasagnes À La Bolognaise À L'Emmental,Beef,13.0,6.4,6.9,1.6,142.0,26.299999999999997,2.031246826176834,Medium
+Moussaka Au Boeuf,Beef,5.4,4.6,7.3,1.9,110.0,17.3,1.1739104914989318,Medium
+Beef Stock Cubes,Beef,0.5,0.5,0.5,0.5,6.0,1.5,0.9999800003999921,Low
+Cheese & Onion Flavour Potato Rings,Beef,64.0,3.6,25.0,2.6,499.9,92.6,17.777728395198903,High
+Boeuf Haché,Beef,0.5,16.2,15.0,3.0,208.0,31.7,0.030864178478902174,Medium
+Bœuf Bourguignon Torsades,Beef,14.0,8.5,4.4,0.9,131.3,26.9,1.6470568858154284,Medium
+Steak Haché 5% Jean Rozé 400G Vbf,Beef,0.1,21.0,5.0,0.0,129.4,26.1,0.004761902494332146,Medium
+Steaks Hachés Pur Boeuf 15% - 10X100G Boîte,Beef,0.0,19.0,15.0,0.0,211.0,34.0,0.0,Medium
+Burger Le Charolais Boeuf Emmental,Beef,28.0,13.0,15.0,0.0,301.0,56.0,2.1538444970426944,High
+"Ultra Moelleux À L'Oignon* *Préparation À 51 % De Viande Bovine Hachée Avec Protéines Végétales De Soja, Assaisonnée À L'Oignon, Crue, Surgelée.",Beef,5.0,14.0,13.0,1.8,193.0,32.0,0.35714260204099857,Medium
+Pizza Del Gusto Orientale,Beef,29.0,8.3,9.1,2.7,237.0,46.4,3.493971694010007,Medium
+British Beef Lean Steak Mince - 5% Fat,Beef,0.0,21.9,4.9,0.0,132.0,26.799999999999997,0.0,Medium
+Steak Haché 15% Jean Rozé 1Kg Vbf,Beef,0.2,19.0,15.0,0.0,211.8,34.2,0.010526310249310396,Medium
+Brochettes De Boeuf Au Fromage Et Sauce Soja Sucrée,Beef,1.5,23.0,22.0,0.5,297.0,46.5,0.06521736294897264,Medium
+Le 100% Pur Bœuf (5% Mg),Beef,0.0,21.0,5.0,0.0,131.0,26.0,0.0,Medium
+Landsalami Bio,Beef,1.0,20.0,32.0,1.0,374.0,53.0,0.0499999750000125,High
+Viande Hachée Pur Boeuf Prête À Cuisiner,Beef,0.0,20.0,14.0,0.0,208.0,34.0,0.0,Medium
+Perly,Milk,9.4,8.0,3.0,0.0,97.0,20.4,1.174998531251836,Low
+Uht Jaouda 1L,Milk,4.8,3.0,3.0,0.0,58.0,10.8,1.5999946666844442,Low
+Fromage Frais Nature,Milk,4.2,7.6,6.0,0.0,101.0,17.8,0.5526308518015108,Medium
+كيفير,Milk,4.8,3.0,2.5,0.0,53.6,10.3,1.5999946666844442,Low
+Salim,Milk,4.8,3.0,3.0,0.0,58.0,10.8,1.5999946666844442,Low
+Oat No Sugars,Milk,6.4,0.8,1.5,0.7,44.0,8.7,7.999900001249985,Low
+Avoine - Boisson Biologique,Milk,7.0,0.5,1.5,0.5,45.0,9.0,13.999720005599888,Low
+شييزلي,Milk,2.0,9.0,20.0,0.1,225.0,31.0,0.22222197530891633,Medium
+"Boisson À L'Amande, Sans Sucres",Milk,0.0,0.5,1.2,0.2,14.0,1.7,0.0,Low
+Croissance Réduit En Sucre,Milk,7.7,2.5,2.6,0.0,64.0,12.799999999999999,3.0799876800492796,Low
+Le Bon Lait,Milk,4.9,3.0,1.5,0.0,46.0,9.4,1.633327888907037,Low
+La Vache Qui Rit,Milk,3.8,13.25,31.33,0.0,379.5,48.379999999999995,0.2867922363832178,High
+Lait Sans Lactose,Milk,4.7,3.0,3.0,0.0,58.2,10.7,1.5666614444618518,Low
+Salim Lben 440G,Milk,5.9,2.3,0.7,0.0,39.5,8.899999999999999,2.5652062382337473,Low
+Natural Coconut Cream,Milk,0.0,0.0,4.0,0.0,35.0,4.0,0.0,Low
+Danup Fraise,Milk,10.1,1.75,1.28,0.0,246.0,13.129999999999999,5.771395592025188,Medium
+Viva Lait 1/2 Écrémé,Milk,4.8,3.3,1.0,0.0,41.0,9.1,1.4545410468453126,Low
+Crème De Coco Légère,Milk,5.8,1.2,16.0,1.1,174.0,23.0,4.8332930558912,Medium
+Toblerone,Milk,61.0,5.6,28.0,2.4,529.0,94.6,10.892837691361267,High
+Skyr,Milk,3.9,10.0,0.2,0.0,57.5,14.1,0.38999961000039,Low
+Lait 100 % Français Matin Léger® Demi-Écrémé,Milk,4.8,3.3,1.2,0.0,43.0,9.299999999999999,1.4545410468453126,Low
+Coco Sans Sucres,Milk,0.8,0.6,1.4,0.5,18.0,2.8,1.3333111114814755,Low
+Le Petit Pot De Crème Au Chocolat,Milk,17.6,4.7,9.9,1.6,179.0,32.2,3.744672883674716,Medium
+Lait Amande Calcium,Milk,1.7,0.7,1.7,0.5,26.0,4.1,2.4285367351894975,Low
+Lait Uht Entier,Milk,4.8,3.0,3.0,0.0,58.0,10.8,1.5999946666844442,Low
+Lait Vit D,Milk,4.8,3.3,1.5,0.0,46.0,9.6,1.4545410468453126,Low
+Kinder Chocolate,Milk,54.4,8.7,35.0,0.8,544.9,98.1,6.25286637601566,High
+Soja Nature Sans Sucres,Milk,0.5,4.7,2.6,0.0,43.0,7.800000000000001,0.10638275237712261,Low
+Twix,Milk,65.0,4.6,24.0,1.62,492.0,93.6,14.130404064338993,High
+جبن طازج,Milk,3.7,0.0,4.5,0.0,85.3,8.2,370000.0,Low
+Coconut Milk,Milk,2.6,1.7,17.0,0.0,170.0,21.3,1.5294027682190106,Medium
+Coconut And Rice Milk,Milk,2.8,0.0,0.9,0.0,19.0,3.6999999999999997,279999.99999999994,Low
+Berry Delight Bars,Milk,57.0,6.7,12.0,8.7,380.0,75.7,8.507449988880614,High
+Rice Krispies,Rice,86.0,7.0,1.2,2.9,390.0,94.2,12.28569673471895,High
+St Jacques Fondue De Poireaux & Riz Basmati,Rice,16.0,5.8,6.2,0.6,144.0,28.0,2.758615933420805,Medium
+Rice Crackers Sea Salt,Rice,82.0,6.9,8.0,0.8,429.0,96.9,11.884040747767033,High
+Vermicelles De Riz,Rice,30.72,2.24,0.64,0.64,133.7,33.6,13.714224490069238,Medium
+Teriyaki Riz Façcon Teriyaki Légumes & Gingembre,Rice,21.0,5.6,4.8,5.9,161.0,31.400000000000002,3.749993303583387,Medium
+Riz Provencal,Rice,18.0,4.0,4.5,1.5,132.0,26.5,4.499988750028125,Medium
+Riz Au Curry Et Légumes,Rice,33.0,3.6,3.7,1.7,168.0,40.300000000000004,9.166641203774434,Medium
+Poulet🐔 Au Curry Et Noix De Coco 🥥,Rice,10.0,6.3,2.5,1.1,90.0,18.8,1.5872990677792576,Low
+Rice Drink,Rice,13.0,0.5,1.3,0.0,65.0,14.8,25.999480010399793,Low
+Gallette Di Riso - Cioccolato Al Latte,Rice,59.88,7.19,24.55,2.99,499.0,91.62,8.328222074795447,High
+Korean Style Sticky Chicken With Jasmine Rice,Rice,49.8,8.2,26.8,1.8,116.5,84.8,6.0731633254105795,Medium
+Spanish Style Grains,Rice,31.0,4.8,1.9,4.3,167.0,37.699999999999996,6.458319878500254,Medium
+Riz Aux Champignons De Paris,Rice,30.0,3.4,2.1,1.4,157.0,35.5,8.823503460283941,Medium
+Gourmand & Végétal Riz Au Lait De Coco,Rice,18.7,1.2,3.9,0.0,115.0,23.799999999999997,15.583203473304389,Medium
+5 Glorious Grains,Rice,32.0,5.5,2.8,4.0,162.0,40.3,5.818171239688655,Medium
+Galette Riz Chocolat Noir,Rice,67.0,8.3,17.0,4.5,463.0,92.3,8.072279430988637,High
+Duo De Poissons Riz Cuisiné Sauce Beurre Citron,Rice,16.0,5.0,4.9,1.1,130.0,25.9,3.1999936000128004,Medium
+Schoko Reis Waffeln,Rice,64.0,10.0,14.0,8.6,439.0,88.0,6.3999936000064,High
+Pure Basmati Rice,Rice,28.2,2.9,1.9,0.7,143.2,33.0,9.724104399640002,Medium
+Rice Cracker Paprika,Rice,81.0,6.3,8.2,1.7,426.0,95.5,12.857122449011987,High
+Rice Pudding,Rice,15.6,3.1,2.0,0.5,93.0,20.7,5.032241831477963,Low
+Rice Basmati,Rice,77.0,8.7,0.8,0.4,351.0,86.5,8.85056453958099,High
+"Saumon Aux Épices Tandoori, Riz Noir Et Petits Légumes",Rice,12.0,6.4,2.6,2.1,99.0,21.0,1.8749970703170777,Low
+Riz Aux Légumes Du Soleil,Rice,29.0,3.3,2.2,1.2,151.0,34.5,8.787852158023764,Medium
+Poulet Curry Riz Basmati,Rice,15.15,6.06,5.76,0.7,139.1,26.97,2.4999958745942665,Medium
+Wholegrain Basmati Rice,Rice,23.3,2.8,2.1,3.0,129.6,28.200000000000003,8.321398852146958,Medium
+Riz Complet,Rice,75.0,7.4,2.4,1.8,355.0,84.80000000000001,10.135121439025083,High
+Riz,Rice,74.0,7.7,2.6,2.8,375.0,84.3,9.610377129380351,High
+Arroz Integral Largo,Rice,72.0,7.6,2.8,3.3,350.0,82.39999999999999,9.473671745168756,High
+Rice And Corn Cakes,Rice,78.1,8.57,5.71,3.81,409.5,92.37999999999998,9.113174897112138,High
+Tortitas De Arroz Con Chocolate Blanco,Rice,63.0,7.33,20.0,3.0,466.7,90.33,8.594804099857981,High
+Galette De Maïs Chocolat Noir,Rice,61.0,7.1,23.0,6.3,489.0,91.1,8.591537195018036,High
+Riz Au Lait,Rice,18.0,3.4,6.6,0.0,160.0,28.0,5.294102076170364,Medium
+Balaji Wafers Sev Murmura,Rice,60.6,10.9,23.4,5.0,507.0,94.9,5.559627926946856,High
+Rice Snaps,Rice,84.8,7.9,1.3,1.6,390.8,94.0,10.734163627640978,High
+Taureau Aile Doypack Basmati Curry Vert 220G,Rice,28.0,2.8,2.4,1.3,147.0,33.2,9.999964285841836,Medium
+Rice Crackers Fromage,Rice,79.0,7.8,10.0,0.5,442.0,96.8,10.128192143343407,High
+Riz Pour Risotto,Rice,78.0,7.4,0.9,1.1,352.0,86.30000000000001,10.540526296586085,High
+Basmati & Wild Rice,Rice,23.28,3.12,2.64,3.04,107.1,29.040000000000003,7.461514546427736,Medium
+Arroz Redondo,Rice,75.0,8.2,1.0,0.0,344.0,84.2,9.146330309353283,High
+Cheeky Chocolate Chip Rice & Corn Cakes,Rice,73.0,6.1,5.7,9.9,428.6,84.8,11.967193496404105,High
+"Rougail Saucisse, Riz Blanc Et Lentilles Cuisinés",Rice,13.0,6.3,4.6,2.5,125.1,23.9,2.063488788113035,Medium
+Rice Box Poulet Tikka Massala Riz Basmati,Rice,16.0,6.2,5.1,0.5,136.1,27.299999999999997,2.580640998966131,Medium
+Rice Cakes,Rice,82.0,7.8,3.2,2.4,393.0,93.0,10.512807034862776,High
+Brown Rice Cakes,Rice,79.0,9.8,4.3,3.3,400.0,93.1,8.061216264065036,High
+Arroz Integral Con Quinoa,Rice,34.0,4.9,5.4,2.9,206.4,44.3,6.938761349466634,Medium
+Riz Tikka Massala,Rice,17.0,7.4,4.8,5.4,152.0,29.2,2.297294192845685,Medium
+Arroz Gigala,Rice,80.0,6.1,0.7,0.0,354.0,86.8,13.11473259879902,High
+Konjac Rice,Rice,1.2,0.1,0.0,3.2,5.5,1.3,11.998800119988001,Low
+Lunch Bowl Riz & Haricots 250G,Rice,22.0,4.2,3.4,3.7,143.0,29.599999999999998,5.238082766469604,Medium
+Choco Rice,Rice,81.0,7.1,2.0,5.3,381.0,90.1,11.408434636007556,High
+Risotto Tradition,Rice,77.3,6.9,1.0,1.0,348.0,85.2,11.202882314663311,High
+Arroz Cigala,Rice,78.6,6.0,1.0,0.0,353.0,85.6,13.099978166703055,High
+High Protein Milchreis - Klassik,Rice,10.4,7.7,2.3,0.1,93.0,20.400000000000002,1.350647596561563,Low
+Galettes De Riz Nappées Au Chocolat Noir,Rice,59.0,7.5,24.0,6.6,495.0,90.5,7.866656177791763,High
+Extra Thick Sliced White Bread With A Wheat And Rice Topping,Rice,46.13,10.13,2.4,2.13,272.0,58.660000000000004,4.5537960969436355,Medium
+Arroz Con Leche,Rice,22.7,3.1,3.7,0.1,138.0,29.5,7.322557024009599,Medium
+Classic Wholegrain Rice,Rice,30.96,4.08,2.08,6.4,169.6,37.12,7.588216695547316,Medium
+Taureau Aile Doypack Basmati Citron 220G,Rice,27.0,2.8,2.3,0.6,141.0,32.1,9.642822704204628,Medium
+Poulet Curry Et Lait De Coco,Rice,18.0,6.9,5.9,0.9,155.0,30.799999999999997,2.608691871461056,Medium
+Ta Riz Med 800G C20,Rice,78.0,7.4,0.9,1.1,352.0,86.30000000000001,10.540526296586085,High
+Riz Parfumé,Rice,78.0,8.1,0.8,0.9,353.0,86.89999999999999,9.629617741212666,High
+Puffreis Mit Schokolade,Rice,59.0,5.6,30.0,0.0,533.0,94.6,10.535695471972373,High
+Bio Rice Drink Almond,Rice,12.8,0.5,1.9,0.0,70.0,15.200000000000001,25.5994880102398,Low
+Rice Crackers Sel & Vinaigre,Rice,82.0,6.8,8.0,0.9,429.0,96.8,12.05880579587383,High
+Golden Vegetable,Rice,29.0,3.2,2.2,1.3,150.9,34.400000000000006,9.062471679776,Medium
+Organic Quinoa & Brown Rice With Garlic,Rice,53.0,5.0,4.5,5.0,280.0,62.5,10.5999788000424,Medium
+Riz Façon Basquaise,Rice,13.0,6.0,3.2,3.4,112.0,22.2,2.1666630555615742,Medium
+Special K The Original,Rice,84.0,8.0,1.3,6.0,392.0,93.3,10.499986875016408,High
+Rice Crispies Multigrain Shapes,Rice,83.33,7.5,3.1,7.5,396.7,93.92999999999999,11.110651852464198,High
+Microwave Basmati Rice,Rice,27.6,3.1,0.7,1.4,132.0,31.400000000000002,8.903197086461011,Medium
+Rice Crispies,Rice,86.0,7.0,1.2,2.9,389.0,94.2,12.28569673471895,High
+Taureau Aile Doypack Basmati Garam Masala 220G,Rice,27.0,2.9,2.4,3.6,148.0,32.3,9.310312723059576,Medium
+Coco Pops,Rice,84.0,6.3,1.9,3.8,386.0,92.2,13.333312169345763,High
+"Chocolate Flavoured Oat, Maize And Brown Rice Hoops Sweetened With Date Syrup",Rice,83.0,9.0,3.0,5.0,406.7,95.0,9.222211975320027,High
+High Protein Rice Pudding Choco-Banana,Rice,10.0,7.7,2.4,0.2,92.5,20.099999999999998,1.298699612078426,Low
+Riz Parfumé Gourmand & Subtil,Rice,78.0,8.1,0.8,0.9,353.0,86.89999999999999,9.629617741212666,High
+Crunchmaster Multi-Grain 6-Seed Crunchy Baked Rice Crackers,Rice,73.33,10.0,13.33,6.67,433.3,96.66,7.332992667007333,High
+Rice Cakes Salted,Rice,72.86,8.57,2.86,7.14,373.1,84.29,8.501740371364795,High
+Riz Cuisiné À L'Espagnole,Rice,26.0,3.8,5.6,2.3,176.0,35.4,6.842087257665112,Medium
+Brown Rice Cake,Rice,78.0,8.8,3.8,3.0,389.3,90.6,8.863626291333759,High
+Lightly Salted Rice Cakes,Rice,7.0,1.0,0.0,0.0,35.0,8.0,6.999930000699993,Low
+Basmati Rice,Rice,78.0,7.0,0.6,0.0,345.6,85.6,11.142841224512537,High
+Brown Basmati,Rice,25.2,4.7,2.7,5.1,154.0,32.6,5.36169071980698,Medium
+Farine Complète De Riz Bio,Rice,74.0,7.5,2.5,3.6,352.0,84.0,9.866653511128652,High
+Multigrain Hoops Cereal,Rice,75.0,9.33,2.67,9.0,380.0,87.0,8.038576593165494,High
+Snack A Jacks Minis Rice & Corn Cakes Zingy Salt & Vinegar,Rice,73.68,6.32,10.0,3.16,421.1,90.0,11.658209401567404,High
+Microwave Wholegrain Rice,Rice,32.4,3.44,1.84,3.6,166.4,37.68,9.418577271577698,Medium
+"Brown, Red & Wild Rice",Rice,29.0,3.0,2.5,2.6,157.0,34.5,9.666634444551852,Medium
+Rice Coconut,Rice,12.0,0.2,2.5,0.5,72.0,14.7,59.997000149992495,Low
+Salade & Compagnie Manhattan Poulet Roti,Meat,17.0,8.2,8.8,2.8,186.0,34.0,2.073168203453411,Medium
+Le Supérieur -25% De Sel - Conservation Sans Nitrite,Meat,0.5,22.0,2.8,0.0,115.0,25.3,0.02272726239669891,Medium
+2 Steaks Végétaux Et Gourmands,Meat,3.5,13.0,16.0,5.9,219.0,32.5,0.2692305621303368,Medium
+Tofu Nature,Meat,1.3,17.0,8.5,0.7,151.0,26.8,0.07647054325262162,Medium
+Rostlinná Slanina,Meat,7.5,15.0,15.0,3.2,290.7,37.5,0.4999996666668889,Medium
+Tofu Fumé,Meat,1.0,15.0,7.7,2.7,139.0,23.7,0.06666662222225185,Medium
+Les Tranches Végé Haricots Rouges,Meat,5.3,7.0,6.2,4.8,115.0,18.5,0.7571417755117493,Medium
+Naked Organic Tofu,Meat,1.1,16.5,7.8,1.9,145.7,25.400000000000002,0.06666662626265075,Medium
+Croq' Soja À La Provencale,Meat,4.0,14.0,8.0,7.0,172.0,26.0,0.2857140816327988,Medium
+Paupiette De Veau Jardinière De Légumes,Meat,7.6,8.1,4.9,2.1,123.7,20.6,0.9382704465796956,Medium
+Räuchertofu Mandel-Sesam,Meat,1.5,19.0,12.0,0.0,198.0,32.5,0.07894732686982796,Medium
+Rillettes Du Mans - La Véritable,Meat,0.4,16.2,40.5,0.0,431.0,57.099999999999994,0.024691342783121743,High
+Haché Végétal Et Gourmand,Meat,3.4,14.0,16.0,5.3,224.0,33.4,0.242856969387879,Medium
+Filets De Tofu À La Japonaise,Meat,2.4,19.0,13.0,0.0,202.0,34.4,0.12631572299172475,Medium
+Tofu Nature À Cuisiner,Meat,0.8,14.0,9.0,2.5,145.0,23.8,0.05714281632655977,Medium
+Heck 97% 6 Sausages,Meat,0.0,21.62,18.02,0.0,245.9,39.64,0.0,Medium
+Lasagnes De Bœuf À La Crème De Mozzarella,Meat,11.0,6.9,10.0,0.0,164.0,27.9,1.5942005881150898,Medium
+6 Pork Sausages,Meat,0.2,15.6,18.0,1.5,227.0,33.8,0.012820504602240641,Medium
+Blanc De Poulet Nature Sans Nitrite,Meat,0.5,21.0,1.6,0.0,100.0,23.1,0.02380951247166073,Low
+Taboulé Poulet Rôti,Meat,19.0,6.5,8.0,2.5,59.7,33.5,2.9230724260424217,Low
+Herta Blanc Poulet Broche Conservation Sans Nitrite X4 -140G,Meat,1.0,22.0,2.0,0.0,110.0,25.0,0.04545452479339782,Medium
+L'Authentique Vegan,Meat,11.0,19.0,17.0,3.8,281.0,47.0,0.5789470637120717,Medium
+"Aiguillettes De Poulet À La Moutarde Et Au Citron, Écrasée De Pommes De Terre Et Carottes",Meat,6.2,6.9,2.6,1.6,79.0,15.700000000000001,0.8985494223921415,Low
+Pechuga De Pavo Reducido En Sal Finas Lonchas,Meat,1.3,16.5,0.5,0.0,76.0,18.3,0.07878783103767817,Low
+Tofu À La Japonaise,Meat,2.4,19.0,13.0,0.0,205.0,34.4,0.12631572299172475,Medium
+Croq'Soja Curry Et Pavot,Meat,6.6,14.0,10.0,4.9,182.0,30.6,0.47142823469411804,Medium
+Jamón Cocido Extra Finas Lonchas,Meat,0.9,18.6,2.5,0.0,101.0,22.0,0.048387070759639376,Medium
+"Tendres Carrés De Blé - Oignons, Pomme De Terre, Emmental",Meat,20.0,14.0,9.3,3.3,226.0,43.3,1.4285704081639943,Medium
+"Tofu Cuisiné Tomate, Mozzarella Et Basilic",Meat,6.2,14.0,12.0,5.6,200.0,32.2,0.44285682653083824,Medium
+Coeur De Burger - Texas Bbq,Meat,12.0,17.0,11.0,4.6,224.0,40.0,0.7058819377165072,Medium
+Les Galettes Boulgour - Roquefort & Figues,Meat,30.0,8.0,7.6,4.9,230.0,45.6,3.7499953125058596,Medium
+Nuggets De Poulet Bio,Meat,21.0,11.0,8.1,2.1,209.0,40.1,1.9090891735552968,Medium
+Emincés De Poulet - 100% Cuisse,Meat,0.8,22.0,8.4,0.0,167.0,31.200000000000003,0.03636361983471826,Medium
+Le Pâté Hénaff,Meat,0.5,17.0,21.0,0.0,257.0,38.5,0.029411747404854468,Medium
+Tendre Poulet Goût Rôti 4 Tranches,Meat,0.5,20.0,2.9,0.0,107.7,23.4,0.02499998750000625,Medium
+Herta Allumettes De Bacon 2X100G - 200G,Meat,0.8,19.0,3.0,0.0,106.2,22.8,0.04210524099724158,Medium
+Seitan Veggie,Meat,10.0,18.0,1.7,2.2,132.0,29.7,0.5555552469137517,Medium
+Tofu Firme,Meat,0.9,11.1,6.9,0.4,110.0,18.9,0.08108100803512791,Medium
+Tofu Al Naturale,Meat,1.8,13.0,7.5,1.0,71.7,22.3,0.13846143195274466,Low
+Blanc De Dinde Sans Nitrite,Meat,0.5,22.0,1.3,0.0,102.0,23.8,0.02272726239669891,Medium
+Pechuga De Pollo 92%,Meat,1.0,18.1,1.7,0.0,89.0,20.8,0.05524858826044847,Low
+"Rana Bacon, Mozzarella & Speck",Meat,30.0,12.0,12.0,3.4,284.0,54.0,2.499997916668403,Medium
+Smoked Organic Tofu,Meat,1.9,16.9,7.7,0.8,146.7,26.499999999999996,0.11242596897871658,Medium
+Tofu Rosso Olives Et Tomates,Meat,5.0,17.0,16.0,0.0,237.0,38.0,0.29411747404854466,Medium
+Nuggets De Poulet Panés,Meat,13.0,16.0,6.4,0.5,173.0,35.4,0.8124994921878174,Medium
+Jamón Cocido Extra 1954,Meat,0.5,19.4,3.5,0.0,112.0,23.4,0.025773182591142998,Medium
+Fusilli Au Poulet,Meat,15.0,7.0,3.5,1.0,122.0,25.5,2.1428540816370263,Medium
+Crousty Chicken Long Filet'S,Meat,12.0,18.0,7.0,0.7,184.0,37.0,0.6666662962965021,Medium
+"Steak Blé, Soja",Meat,12.0,17.0,12.0,3.4,252.2,41.0,0.7058819377165072,Medium
+Parmentier De Canard Confit,Meat,9.33,7.33,6.0,1.1,122.0,22.66,1.2728495595503964,Medium
+Gratin De Choux-Fleurs Au Jambon & À L'Emmental,Meat,3.93,7.5,5.71,1.0,106.4,17.14,0.523999301334265,Medium
+Cordons Bleus,Meat,15.0,18.0,10.0,1.6,226.0,43.0,0.8333328703706276,Medium
+Escalope Cordon Bleu De Qualité Supérieure,Meat,11.0,18.0,14.0,1.5,244.0,43.0,0.611110771605127,Medium
+Rillettes De Poulet Rôti En Cocotte,Meat,2.0,15.0,27.0,0.5,309.0,44.0,0.1333332444445037,High
+Véritables Knacks D'Alsace,Meat,0.9,13.0,24.0,0.0,271.0,37.9,0.06923071597637233,Medium
+Allumettes De Poulet,Meat,0.5,19.0,6.0,0.0,130.0,25.5,0.02631577562327599,Medium
+Veganer Schinken-Spicker Mortadella,Meat,2.9,2.2,9.0,8.0,146.2,14.1,1.318175826473516,Medium
+Le Classique Soja Et Blé,Meat,4.0,21.0,8.7,6.4,191.0,33.7,0.19047609977328583,Medium
+Petit Salé Aux Lentilles Vertes,Meat,6.7,11.0,8.4,4.0,156.0,26.1,0.6090903553724042,Medium
+"Vegetal Galettes Épinards, Blé, Emmental",Meat,4.6,20.0,8.0,4.2,180.0,32.6,0.2299998850000575,Medium
+"Pavés Fondants Patate Douce, Citron Confit Et Coco",Meat,17.0,9.4,11.0,4.0,213.0,37.4,1.8085087143524314,Medium
+Gebraden Ham / Jambon Rôti,Meat,2.0,20.0,3.0,0.2,115.0,25.0,0.099999950000025,Medium
+Bolognese,Meat,6.3,3.9,4.3,1.4,82.0,14.5,1.6153804733834016,Low
+Le Pâté De Porc Hénaff,Meat,0.5,17.0,21.0,0.0,257.0,38.5,0.029411747404854468,Medium
+Herta Le Bon Paris Jambon À L'Étouffée X2 - 85G,Meat,0.0,21.0,2.3,0.0,104.7,23.3,0.0,Medium
+Blanc De Poulet 100% Filet,Meat,0.8,20.0,2.4,0.5,106.0,23.2,0.03999998000001,Medium
+Chicken Italia 10 Chipolatas,Meat,3.4,19.0,2.7,0.0,136.0,25.099999999999998,0.17894727423827672,Medium
+Rillettes Du Mans Sans Graisse Ajoutée,Meat,0.5,18.2,28.7,0.0,333.0,47.4,0.027472512377740455,High
+"Poulet À La Crème Et Aux Champignons, Farfalles",Meat,12.0,8.5,8.2,0.6,157.0,28.7,1.411763044984653,Medium
+Blanc De Poulet Sup Tsr Csn Sa Sogm 4T 120G,Meat,1.2,21.0,1.9,0.5,107.1,24.099999999999998,0.057142829931985745,Medium
+Crousti’ Panés Veggie,Meat,24.0,10.0,7.4,5.5,214.0,41.4,2.3999976000024,Medium
+Dés De Jambon -25% De Sel*,Meat,1.87,18.67,3.73,0.0,113.3,24.270000000000003,0.10016063194395718,Medium
+Mini Hamburguesa Espinacas Zanahoria,Meat,16.5,10.7,14.7,4.2,233.0,41.9,1.5420546335938006,Medium
+Vegane Pommersche - Schnittlauch,Meat,7.3,7.2,17.0,5.1,221.0,31.5,1.0138874807118323,Medium
+Crousti Tenders Aiguillettes,Meat,18.0,17.0,7.2,1.3,207.0,42.2,1.058822906574761,Medium
+"Vegetal Falafels Lentille Corail, Coco, Curry",Meat,23.0,7.3,11.0,6.3,235.0,41.3,3.1506806155060065,Medium
+Cordons Bleus De Poulet,Meat,17.0,12.0,12.0,2.0,228.0,41.0,1.4166654861120949,Medium
+Crousti' Panés Veggie,Meat,24.0,10.0,8.7,6.0,226.0,42.7,2.3999976000024,Medium
+Naked Xl,Meat,3.0,16.5,7.8,1.9,145.3,27.3,0.18181807162541114,Medium
+Xtrembox - Radiatori  Bœuf Sauce Au Poivre,Meat,21.5,8.5,4.75,1.35,165.8,34.75,2.5294087889308368,Medium
+Filet De Poulet X 2,Meat,0.0,23.0,1.8,0.0,108.0,24.8,0.0,Medium
+Garlic & Ginger Marinated Tofu,Meat,1.4,14.0,13.0,0.4,175.0,28.4,0.09999992857147959,Medium
+2 Galettes Brebis - Figues,Meat,36.0,5.3,5.1,1.6,214.0,46.4,6.792440014264125,Medium
+Végétal Croq'Panés Blé,Meat,20.0,13.0,11.0,3.9,239.0,44.0,1.5384603550304963,Medium
+Brioche Tranchée Bio 400G,Butter,52.0,8.8,9.4,3.9,336.0,70.2,5.9090841942225065,High
+Nestlé Dessert Noir,Butter,50.7,6.0,34.0,7.3,548.0,90.7,8.44998591669014,High
+Galettes St Michel Au Beurre 4X5 - 130G,Butter,73.0,7.4,16.0,2.2,470.0,96.4,9.864851533984414,High
+"Bonne Maman - Quatre Quarts, 500G (17.6Oz)",Butter,47.0,5.9,24.0,1.0,429.0,76.9,7.966088193070859,High
+Fourrés Chocolat🍫,Butter,66.0,6.7,21.0,3.3,486.0,93.7,9.85073156607229,High
+Pâte À Tarte Brisée - Pur Beurre,Butter,41.0,6.9,19.0,2.3,367.0,66.9,5.9420203738835164,High
+Noir Degustation 70% Caramel,Butter,40.3,7.1,35.2,9.23,544.0,82.6,5.676048343593883,High
+Nestle Dessert Lait,Butter,52.9,6.9,34.1,3.7,554.0,93.9,7.6666555555716585,High
+Melk Lait,Butter,57.9,9.6,30.2,1.9,535.0,97.7,6.031243717454461,High
+"Chocolat Noir, Éclats D'Amandes Grillées & Pointe De Sel",Butter,46.9,7.5,35.2,8.4,551.0,89.6,6.253324995566673,High
+Chocolat Dessert Pâtissier,Butter,51.0,5.0,30.0,8.0,513.0,86.0,10.1999796000408,High
+Kitkat,Butter,63.1,5.4,25.5,2.4,506.8,94.0,11.685163545993433,High
+Peanut Butter Protein Bars,Butter,39.3,17.4,21.9,9.6,443.0,78.6,2.258619391598051,High
+Quatre-Quarts Pur Beurre,Butter,47.0,6.0,23.0,0.0,423.0,76.0,7.833320277799538,High
+Butter Chicken Et Riz Pilaf,Butter,16.0,8.4,4.6,0.8,141.0,29.0,1.9047596371909081,Medium
+"L'Incroyable Mousse, Chocolat Noir",Butter,29.0,6.8,27.0,3.3,384.0,62.8,4.264699610735867,High
+Granola,Butter,60.4,15.8,13.7,6.4,441.0,89.9,3.8227823906440563,High
+Organic Creamy Peanut Butter,Butter,10.94,12.5,23.44,4.69,562.5,46.879999999999995,0.8751992998405601,High
+Dessert Noir,Butter,52.0,7.0,30.0,7.8,522.0,89.0,7.428560816341691,High
+8 Navettes Au Beurre Frais Et À La Crème Fraîche,Butter,50.0,8.7,12.0,0.0,347.0,70.7,5.747119830896747,High
+Pâte Feuilletée,Butter,40.0,5.9,20.0,1.3,378.0,65.9,6.779649526017753,High
+Peanut Butter Creamy Natural,Butter,4.0,4.0,7.0,1.0,600.0,15.0,0.9999975000062501,High
+Secret De Mousse Chocolat Noir,Butter,20.5,5.0,5.1,2.5,153.0,30.6,4.0999918000164,Medium
+Chocolat Pâtissier Noir Corse 70% Cacao,Butter,36.0,9.1,42.0,9.4,580.0,87.1,3.956039608747683,High
+Chocolate 52% Especial Postres,Butter,52.0,6.0,32.0,7.6,535.0,90.0,8.666652222246297,High
+Peanut Butter Oat Bars,Butter,50.0,10.0,24.0,5.0,460.0,84.0,4.999995000005,High
+Chocolate And Hazelnut Cake,Butter,50.0,5.9,26.0,0.0,468.0,81.9,8.47456190752219,High
+Cruesly Mélange De Noix,Oil,57.0,8.5,19.0,10.0,462.0,84.5,6.705874463677102,High
+Sésame,Oil,64.0,10.0,18.0,4.6,467.0,92.0,6.3999936000064,High
+Pomme Noisette,Oil,63.0,10.0,17.0,5.9,457.0,90.0,6.299993700006301,High
+Pâte À Tartiner Noisettes Et Cacao,Oil,53.0,6.7,34.0,3.3,551.0,93.7,7.910435954573202,High
+Anacardo/Castanha-De-Caju Natural,Oil,5.9,6.2,14.3,1.6,180.0,26.400000000000002,0.9516113683687608,Medium
+Goûter 4S Saveur Pommes,Oil,65.0,7.6,17.0,6.5,456.0,89.6,8.552620325499573,High
+Goûter Aux Raisins,Oil,64.0,9.4,14.0,6.1,432.0,87.4,6.808503395209154,High
+Pâte À Tartiner Noisette Du Lot Et Garonne Cacao,Oil,56.0,8.6,33.0,0.0,552.0,97.6,6.511620335325192,High
+Nutella 600G,Oil,57.2,6.3,30.9,3.0,539.0,94.4,9.079350667697355,High
+Tartine Sans Huile De Palme,Oil,0.5,0.5,35.0,0.0,314.0,36.0,0.9999800003999921,High
+Goûter Aux Écorces Confites,Oil,66.0,9.4,15.0,6.1,449.0,90.4,7.0212691263094404,High
+Pâte À Tartiner Cacahuètes Et Cacao,Oil,42.0,12.0,39.0,4.0,575.0,93.0,3.499997083335764,High
+Cacao Céréales,Oil,62.0,9.8,17.0,7.5,455.0,88.8,6.326524156608003,High
+Muesli Croustillant Tradition,Oil,68.0,9.1,13.0,5.9,440.0,90.1,7.472519260967846,High
+Nutella,Oil,57.5,6.3,30.9,3.0,539.0,94.69999999999999,9.126969639730731,High
+Maxi Tranches Sans Sucre Ajouté Nature,Oil,46.0,8.3,2.8,3.4,249.0,57.099999999999994,5.5421619973951834,Medium
+La Pâte À Tartiner Cacao Noisette,Oil,35.0,4.8,14.0,4.8,263.0,53.8,7.291651475726093,Medium
+Moelleux Chocolat Noix,Oil,49.0,7.3,23.0,9.6,434.0,79.3,6.71231957216497,High
+Plain Sardines,Oil,0.0,22.0,7.8,0.0,158.0,29.8,0.0,Medium
+Sablé Sésame Saveur Vanille,Oil,66.0,8.1,18.0,5.4,442.0,92.1,8.14813808871841,High
+Paprika,Oil,54.0,6.7,30.0,4.4,522.0,90.7,8.059689463150056,High
+Amande,Oil,61.0,10.0,19.0,8.0,471.0,90.0,6.0999939000061,High
+Biscuits Abricot Pistache,Oil,64.0,9.3,18.0,6.0,467.0,91.3,6.881713030416096,High
+Pâte À Tartiner,Oil,60.0,6.7,28.0,3.7,522.0,94.7,8.955210514611172,High
+Krisprolls,Oil,70.0,12.0,6.2,7.7,397.0,88.2,5.833328472226273,High
+Biscoff,Oil,73.08,5.13,19.23,1.28,483.9,97.44,14.245586265913712,High
+Vinaigrette Légère Huile De Sésame & Sauce Soja Graines De Sésame Torréfiées 36 Cl,Oil,6.3,1.9,37.0,0.7,373.0,45.2,3.3157720222525144,High
+Confiture De Fraises Allégée En Sucres,Oil,40.0,0.6,0.4,1.4,168.0,41.0,66.66555557407378,Medium
+Knusper Müsli Schoko,Oil,59.8,10.9,16.2,9.1,447.0,86.9,5.48623349886835,High
+Colin D'Alaska Msc Façon Fish & Chips,Oil,19.0,11.0,9.5,0.6,207.0,39.5,1.727271157026221,Medium
+Sablés Pavot Coco,Oil,64.0,9.0,17.0,5.4,456.0,90.0,7.111103209885322,High
+Biscuit Chocolat Noir,Oil,62.0,7.6,23.0,4.3,494.0,92.6,8.157884002784208,High
+Hemani Coconut Oil Pure & Natural (400Ml),Oil,0.7,0.0,14.0,0.0,126.0,14.7,69999.99999999999,Medium
+Compote De Pomme Allégée,Oil,14.0,0.3,0.2,1.9,63.0,14.5,46.66511116296123,Low
+Chips Paysanne Nature,Oil,54.0,6.2,30.0,3.9,514.0,90.2,8.709663371510691,High
+Fourré Cacao Sans Sucres,Oil,64.0,6.9,22.0,3.1,456.0,92.9,9.275348876305976,High
+Céréales Extra Kellogg'S Pépites Chocolat Au Lait,Oil,62.0,7.0,22.0,4.9,484.0,91.0,8.85713020409971,High
+Croustillant Graines De Courge Et De Tournesol,Oil,61.0,11.0,14.0,6.2,425.0,86.0,5.545449504136815,High
+Sésame Chocolat,Oil,60.0,10.0,20.0,5.6,481.9,90.0,5.999994000006001,High
+Petites Madeleines,Oil,55.0,5.8,22.0,1.1,441.0,82.8,9.482742271134017,High
+Organic Sesame Biscuits,Oil,61.0,9.6,21.0,4.7,481.0,91.6,6.354160047749951,High
+Nachos,Oil,61.0,8.2,22.0,6.3,488.0,91.2,7.439015318274003,High
+بیسکویت 125G موختار,Oil,72.6,4.9,19.0,1.3,484.0,96.5,14.81629629327287,High
+Sablés Sarrasin Miel Saveur Citron,Oil,67.0,7.9,18.0,5.0,472.0,92.9,8.481001922782376,High
+Brossard Le Cake À L'Anglaise,Oil,61.0,4.1,9.3,3.2,351.0,74.39999999999999,14.87801249265246,High
+Pâte À Tartiner 18.5% Bio - 350G,Oil,53.0,7.6,32.0,3.8,538.0,92.6,6.973675034638113,High
+L'Extra Craquante Nature,Oil,47.0,5.9,34.0,4.5,526.0,86.9,7.966088193070859,High
+Pâte À Tartiner 40% Noisettes Du Lot-Et-Garonne Et Cacao,Oil,49.0,9.3,35.0,0.0,555.0,93.3,5.268811538912323,High
+Biscuit Muesli Avoine Gerblé,Oil,60.0,9.4,18.0,7.7,455.2,87.4,6.382971933008582,High
+"Gerblé - Choco Hazelnut Filled Cake, 200G (7.1Oz)",Oil,60.0,7.4,22.0,4.7,477.0,89.4,8.108097151220067,High
+Chips Paysanne,Oil,51.0,6.0,34.0,4.0,530.0,91.0,8.499985833356945,High
+Le Biscuit De Natty,Oil,61.0,7.4,24.0,4.7,499.0,92.4,8.2432321037404,High
+Lays,Oil,55.0,6.2,29.0,5.2,513.0,90.2,8.870953433946074,High
+Madeleines Extra Moelleuses Nature X 24 Sachets Individuels Ker Cadélac,Oil,51.0,5.3,27.0,0.0,468.0,83.3,9.622623353540844,High
+La Grande Galette 1905,Oil,70.0,6.7,21.0,2.4,501.0,97.7,10.447745600379701,High
+Organic Vegetable Stock Cubes,Oil,0.7,0.0,0.4,0.01,7.0,1.1,69999.99999999999,Low
+Digestive Biscuits,Oil,68.0,6.2,16.0,6.5,422.2,90.2,10.967724245606055,High
+"Gerble - Organic Chocolate Cookie Flavored W/ Banana, 132G (4.7Oz)",Oil,59.0,9.0,19.0,7.8,459.0,87.0,6.5555482716130316,High
+Tyrrell'S Sweet Chilli & Red Pepper,Oil,51.0,6.3,25.0,5.4,468.0,82.3,8.095225245674214,High
+Fourré Figues,Oil,67.0,4.6,11.0,5.6,358.0,82.6,14.565185727857116,High
+Le Cassoulet Mitonné,Oil,8.9,7.3,4.7,3.8,115.0,20.9,1.219176412087107,Medium
+Sour Cream & Onion,Potato,56.0,6.3,29.0,3.5,517.0,91.3,8.888874779563842,High
+Pringles Original,Potato,54.0,6.2,31.0,4.1,528.0,91.2,8.709663371510691,High
+Pringles Sare,Potato,55.0,6.1,31.0,5.0,503.3,92.1,9.016378661674326,High
+Pringles Sour Cream & Onion,Potato,54.0,6.3,30.0,4.0,517.9,90.3,8.57141496600799,High
+Tomato Flavoured Snack,Potato,58.5,16.3,9.8,8.6,244.7,84.6,3.58895485340193,Medium
+Pringles Sour Cream,Potato,54.0,6.3,30.0,4.0,519.0,90.3,8.57141496600799,High
+Chips Saveur Barbecue,Potato,55.0,6.5,27.0,5.3,504.0,88.5,8.46152544380701,High
+Pringles Texas Bbq Sauce,Potato,55.0,6.3,30.0,4.1,523.3,91.3,8.730144872785917,High
+Pringles,Potato,56.0,6.5,29.0,3.9,519.0,91.5,8.615371360967137,High
+Chips Craquante Sel Brets,Potato,50.0,6.1,34.0,4.9,540.0,90.1,8.196707874249388,High
+4 Röstis De Légumes Et Cheddar,Potato,10.0,3.9,6.2,2.4,118.0,20.1,2.5640959894974626,Medium
+Purée De Pommes De Terre En Flocons,Potato,73.6,7.5,0.8,7.0,345.0,81.89999999999999,9.813320248906335,High
+Potato Wafers,Potato,53.4,7.7,32.9,7.2,132.4,94.0,6.9350559284987945,Medium
+Pringles Paprika,Potato,54.0,6.7,30.0,4.4,522.0,90.7,8.059689463150056,High
+Chips  Barbecue,Potato,54.0,6.2,31.0,4.4,503.3,91.2,8.709663371510691,High
+Snack Poppé,Potato,56.0,18.0,11.0,8.3,413.0,85.0,3.1111093827170095,High
+Recette À L'Ancienne,Potato,54.0,6.2,35.0,3.9,550.0,95.2,8.709663371510691,High
+Chipsfrisch Ungarisch,Potato,49.0,6.1,33.0,4.5,533.3,88.1,8.0327737167644,High
+Laus Nature,Potato,53.0,6.1,30.0,4.3,508.0,89.1,8.688510346704351,High
+Pringles Cașcaval,Potato,55.0,6.4,29.0,4.1,520.0,90.4,8.593736572286605,High
+Onduladas Campesinas,Potato,53.5,6.0,34.5,0.0,549.0,94.0,8.916651805580324,High
+Chips,Potato,56.7,7.7,25.4,4.1,494.0,89.80000000000001,7.363626800484675,High
+Chips Saveur Poulet Rôti,Potato,55.0,6.3,27.0,5.1,503.0,88.3,8.730144872785917,High
+Oven Baked Sweet Potato Fries,Potato,21.0,2.1,6.2,4.1,192.5,29.3,9.999952381179137,Medium
+Crousti'Express La Classique,Potato,28.0,4.0,13.0,6.0,257.0,45.0,6.9999825000437506,Medium
+Gnocchi A Poeler Extra Fromage Lustucru 300G,Potato,29.3,8.27,8.1,1.67,225.0,45.67,3.542921955354347,Medium
+Röstis De Pomme De Terre,Potato,18.0,3.8,7.2,2.3,155.0,29.0,4.736829639922,Medium
+Potato Wedges Seasoned,Potato,20.8,2.1,3.9,2.2,131.0,26.8,9.904714739453622,Medium
+Conikos Barbecue,Potato,61.3,4.8,26.0,0.0,502.0,92.1,12.770806727485985,High
+"Saumon Et Colin D'Alaska À L'Oseille, Pommes De Terre",Potato,8.0,4.8,4.2,1.3,92.0,17.0,1.6666631944516783,Low
+Country Potatoes Aux Herbes,Potato,21.0,2.5,5.0,3.0,145.0,28.5,8.3999664001344,Medium
+Puré De Patatas En Copos Instantáneo Preparado,Potato,74.0,8.3,0.6,7.4,349.0,82.89999999999999,8.915651908853121,High
+Chips Paysannes Nature,Potato,52.0,6.1,32.0,4.8,530.0,90.1,8.524576189219363,High
+Sour Cream & Onion Chips,Potato,54.0,6.1,29.0,4.9,511.0,89.1,8.852444504189338,High
+Original Stapelchips,Potato,60.9,4.1,25.9,4.0,502.0,90.9,14.853622308238275,High
+Classic,Potato,62.0,4.4,26.0,4.2,506.0,92.4,14.090877066188487,High
+Dipster,Potato,62.0,4.3,25.0,3.5,496.0,91.3,14.41857111960205,High
+Chips Saveur Côte De Boeuf Grillée,Potato,52.0,6.3,31.0,4.8,522.0,89.3,8.25395515245214,High
+Mystery Flavour Super Mario,Potato,56.0,6.4,30.0,3.8,527.0,92.4,8.749986328146361,High
+Just Au Four Express,Potato,31.0,2.4,5.6,2.4,136.7,39.0,12.91661284744647,Medium
+Ready Salted Crisps,Potato,53.7,6.8,27.4,3.4,495.0,87.9,7.897047210224692,High
+Walkers Cheese & Onion Crisps,Potato,52.0,6.8,29.6,4.0,512.0,88.4,7.647047577871209,High
+Propper Barbecue Lentil Chips,Potato,61.0,9.7,20.0,2.6,469.0,90.7,6.288653310666691,High
+Hot Kickin' Sour Cream Flavour,Potato,54.0,6.4,30.0,4.1,520.0,90.4,8.43748681642685,High
+Tuile Goût Crème Oignons,Potato,62.0,4.4,27.0,2.6,516.0,93.4,14.090877066188487,High
+Lay'S Potato Chips,Potato,53.4,6.9,33.1,0.0,539.0,93.4,7.739119218667799,High
+Thai Sweet Chilli Flavour Potato Crisps,Potato,54.0,6.6,26.0,5.9,490.0,86.6,8.181805785142751,High
+Lay’S Saveur Emmental,Potato,55.0,6.4,28.0,5.0,506.7,89.4,8.593736572286605,High
+Saveur Sour Cream & Onion,Potato,61.7,3.9,24.5,3.4,493.0,90.10000000000001,15.820472255199347,High
+Chips Natures,Potato,53.0,6.3,34.0,4.2,551.0,93.3,8.412685059230066,High
+Gnocchi A Poêler Lustucru - 1Kg,Potato,35.0,5.0,2.7,2.6,190.0,42.7,6.9999860000280005,Medium
+Mini Röstis De Pomme De Terre Bio,Potato,16.0,2.2,7.5,2.0,144.0,25.7,7.272694215026294,Medium
+Garden Salsa Flavored Sun Chips,Potato,64.29,7.14,21.43,7.14,500.0,92.86000000000001,9.004189069763209,High
+Purée De Patate Douce À La Crème,Potato,13.0,0.8,2.0,2.0,76.0,15.8,16.24979687753903,Low
+Leader Chips Sel,Potato,52.4,6.6,37.7,0.0,575.2,96.7,7.93938191002741,High
+Sweet Potato Fries,Potato,21.0,2.0,6.3,4.0,157.0,29.3,10.499947500262499,Medium
+Chips Saveur Paprika,Potato,55.0,6.2,27.0,5.3,503.0,88.2,8.870953433946074,High
+Tuiles Goût Nature,Potato,63.0,3.9,26.0,2.6,501.0,92.9,16.153804733834015,High
+Lays Classics Salted 20Rs,Potato,51.7,7.0,35.5,0.0,554.0,94.2,7.385703734708951,High
+Chips Rôtisserie Au Sel De Guérande,Potato,53.0,7.2,28.0,4.8,502.0,88.2,7.361100887359878,High
+The Original 10 Potato Waffles,Potato,22.0,2.2,7.6,1.4,168.0,31.799999999999997,9.999954545661154,Medium
+Chips Saveur Sel & Vinaigre,Potato,54.0,5.8,29.0,4.5,513.0,88.8,9.310328775295217,High
+Hot Mexican Chilli & Lime Flavour,Potato,55.0,6.2,30.0,3.9,523.0,91.2,8.870953433946074,High
+Potato Gnocchi,Potato,32.0,4.2,0.5,1.1,152.0,36.7,7.6190294785012425,Medium
+Tuiles Goût Crème Et Oignon Boîte De 170G,Potato,63.0,4.4,25.0,3.4,501.0,92.4,14.318149276933461,High
+Tuiles Goût Paprika 170G,Potato,62.0,4.4,25.0,3.6,500.0,91.4,14.090877066188487,High
+Multipack Extra Craquante Vico,Potato,45.0,5.9,34.0,4.5,526.0,84.9,7.627105716769972,High
+Frites À La Patate Douce,Potato,22.0,1.6,7.2,3.7,165.0,30.8,13.749914063037105,Medium
+Piemontaise Poulet 320G,Potato,8.0,3.5,8.0,2.0,122.0,19.5,2.2857077551206997,Medium
+Pringles Cheese & Onion,Potato,55.0,6.3,30.0,4.1,523.0,91.3,8.730144872785917,High
+Tuiles Salées - 170G,Potato,61.3,4.3,25.8,3.7,502.0,91.39999999999999,14.255780800509767,High
+Chips Saveur Petits Oignons,Potato,52.0,6.3,31.0,4.8,522.0,89.3,8.25395515245214,High
+Saveur Yakitori,Potato,52.0,6.3,31.0,4.8,522.0,89.3,8.25395515245214,High
+Pringles Salt & Vinegar,Potato,54.0,6.0,30.0,3.9,518.0,90.0,8.999985000025001,High
+Chips À L'Ancienne,Potato,45.0,6.1,37.0,6.5,550.0,88.1,7.377037086824449,High
+Gnocchi Aux Pommes De Terre,Potato,36.0,4.1,0.0,2.4,165.0,40.1,8.780466389106369,Medium
+Walkers Ready Salted Crisps 6Pk,Potato,53.33,6.0,31.11,5.11,520.0,90.44,8.888318519469134,High
+West Indies' Hot 'N' Sweet Chilli Potato Chips,Potato,55.4,6.3,31.9,0.0,534.0,93.6,8.793636835497088,High
+Sea Salted Potato Crisps,Potato,52.6,5.9,30.4,0.0,500.0,88.9,8.915239126713345,High
+"Sweet Potato Pakora With Red Pepper, Cumin And Chilli",Potato,19.9,6.1,10.9,8.1,219.0,36.9,3.2622897339512558,Medium
+Petites Escalopes De Volaille À La Moutarde Pommes De Terre,Potato,7.6,8.9,3.0,1.1,95.0,19.5,0.8539316247959272,Low
+Tuiles Goût Paprika,Potato,59.0,4.0,30.0,2.3,526.6,93.0,14.749963125092188,High
+"Sweet & Salty Nut Chocolat Noir Et Mélange De Noix, 5 Barres De 30 G",Nut,15.0,2.9,6.9,3.0,646.7,24.799999999999997,5.17239595725532,High
+Mixed Fruit And Nut,Nut,40.5,10.8,31.7,6.9,504.0,83.0,3.7499965277809926,High
+Tresor - Choco Nut,Nut,69.0,7.1,16.0,3.6,458.1,92.1,9.718296171413844,High
+M&M'S Peanut,Nut,59.45,9.77,25.48,0.0,524.4,94.7,6.084947712438371,High
+Barre Amande,Nut,67.0,7.9,13.0,4.1,420.0,87.9,8.481001922782376,High
+Muesli 4 Nuts,Nut,61.1,10.3,16.9,8.1,454.0,88.30000000000001,5.932033075696043,High
+Simply Nutty Muesli,Nut,64.4,9.9,6.8,8.6,376.0,81.10000000000001,6.5050439342990565,High
+Muesli Bio Noix & Graines,Nut,50.9,13.6,16.8,8.7,427.0,81.3,3.7426443068791864,High
+M&M\'S,Nut,59.0,9.8,26.0,0.0,524.0,94.8,6.020402019997938,High
+Studentenfutter Luxury Nut And Raisin Mix,Nut,36.0,13.0,33.0,0.0,507.0,82.0,2.769228639054893,High
+Whole Nut Milk Chocolate With Roasted Hazelnuts,Nut,45.1,9.0,39.7,4.2,580.8,93.80000000000001,5.011105543216064,High
+Peanuts & Dark Chocolate Protein Fruit & Nut Bars,Nut,33.4,19.5,36.3,5.9,550.0,89.19999999999999,1.7128196344514695,High
+Cocoa Orange,Nut,51.43,8.57,15.43,8.57,394.3,75.43,6.001159858623269,High
+Nuts'N Berries,Nut,44.0,11.0,27.0,0.0,479.0,82.0,3.9999963636396694,High
+M&M'S - Peanut,Nut,59.0,9.8,26.0,0.0,524.0,94.8,6.020402019997938,High
+Swiss Style Muesli,Nut,64.44,11.11,5.56,8.0,368.9,81.11,5.800174797322415,High
+Mandel Vanille Geschmack,Nut,3.8,0.4,1.1,1.3,30.0,5.300000000000001,9.499762505937351,Low
+Bebida De Arroz Y Avellana,Nut,6.9,0.6,2.1,0.4,50.0,9.6,11.499808336527726,Low
+Mentos Fruits,Nut,92.0,0.0,1.9,0.0,393.9,93.9,9200000.0,High
+Blueberry Muffin Raw Fruit & Nut Bar,Nut,57.14,6.57,11.14,9.43,374.3,74.85,8.697094829383822,High
+Nut & Fruit Mix Classic,Nut,33.8,13.4,36.9,6.5,534.0,84.1,2.522386177323748,High
+Raw Fruit & Nut Bar,Nut,51.43,8.57,15.43,8.57,394.3,75.43,6.001159858623269,High
+Nakd Cacahuètes,Nut,42.0,12.0,23.0,9.3,442.0,77.0,3.499997083335764,High
+Energy Nut Mix,Nut,30.9,20.3,28.3,10.0,471.0,79.5,1.5221667378488974,High
+Macadamia Nut Brittle,Nut,25.2,3.9,16.3,0.1,264.0,45.4,6.4615218935336065,Medium
+Pom'Potes Compotes Gourdes Bio Multivariétés 12X90G,Nut,11.0,0.5,0.5,1.1,52.0,12.0,21.999560008799826,Low
+Low Sugar Granola Nuts & Seeds,Nut,48.5,13.4,25.5,8.0,469.8,87.4,3.6194002840296386,High
+Crunchy Nut & Almond,Nut,51.43,12.0,23.14,4.57,468.6,86.57,4.285829761808532,High
+Boisson À La Noisette,Nut,3.1,0.5,2.0,0.5,36.0,5.6,6.199876002479951,Low
+Organic Sprouted Pumpkin Seeds Sea Salt,Nut,3.0,8.0,15.0,2.0,600.0,26.0,0.37499953125058594,High
+Pom'Potes Compotes Gourdes Multivariétés 12X90G,Nut,12.0,0.5,0.5,1.4,55.0,13.0,23.99952000959981,Low
+Roasted Cashew-Peanut-Mix Honey & Salt,Nut,43.2,14.7,32.4,5.0,533.0,90.30000000000001,2.9387735110384283,High
+Trancetto Cacao,Nut,56.0,5.3,13.0,0.0,369.0,74.3,10.566017799966417,High
+Muesli Noix,Nut,61.0,10.0,15.0,9.5,438.0,86.0,6.0999939000061,High
+Barres Extra Kellogg'S Choco Amandes - 4X32G,Nut,41.0,12.0,33.0,6.6,521.0,86.0,3.4166638194468173,High
+Nuts & Raisins Unsalted,Nut,37.0,16.0,31.0,0.0,505.0,84.0,2.3124985546884034,High
+Marmite Crunch,Nut,53.0,15.0,18.0,7.9,441.0,86.0,3.533330977779348,High
+Quinoa Gourmand,Seed,65.0,14.0,4.1,7.6,361.7,83.1,4.642853826532981,High
+Cerelac,Seed,71.2,15.0,10.0,2.5,439.8,96.2,4.746663502224332,High
+Cassegrain - Lentilles Préparées 4/4,Seed,14.0,6.6,0.5,3.1,91.0,21.1,2.1212089072592315,Low
+Lentilles Façon Petit Salé,Seed,17.0,8.0,2.3,7.2,135.0,27.3,2.1249973437533205,Medium
+Lentilles Vapeur,Seed,16.0,8.7,0.4,6.8,116.0,25.099999999999998,1.839078345886959,Medium
+Red Kidney Beans,Seed,15.0,8.4,1.0,7.0,97.3,24.4,1.7857121598664762,Low
+Puy Lentils & French Green Lentils,Seed,19.0,11.0,1.7,5.2,148.0,31.7,1.727271157026221,Medium
+Organic Jumbo Oats,Seed,65.0,11.25,5.75,8.25,370.0,82.0,5.777772641979874,High
+Allumettes Vege Haricots Rouges,Seed,7.33,13.07,6.0,5.07,145.3,26.4,0.5608258907223483,Medium
+Flocons D Avoine,Seed,59.4,13.5,7.6,9.1,378.0,80.5,4.399996740743155,High
+Pois Chiches Au Sel De Noirmoutier,Seed,16.0,6.6,2.9,7.4,130.0,25.5,2.424238751153408,Medium
+Sos De Soia,Seed,6.5,8.0,0.0,0.0,70.0,14.5,0.8124989843762696,Low
+Chickpeas In Water,Seed,16.5,7.8,2.4,5.2,125.8,26.7,2.115381903356534,Medium
+Fruit & Seed Oatcakes,Seed,60.0,9.6,15.2,9.6,440.0,84.8,6.249993489590116,High
+Tomatoey French Lentils,Seed,16.0,8.3,4.1,3.3,142.0,28.4,1.9277085208331073,Medium
+Pumpkin Seed + Flax Granola,Seed,67.27,10.91,18.18,7.27,472.7,96.35999999999999,6.165897189828423,High
+"Love, Corn (Sea Salt)",Seed,66.0,7.4,13.3,7.0,435.0,86.7,8.918906866342073,High
+Mini Bites Quinoa & Chía,Seed,58.0,8.2,22.0,8.3,479.0,88.2,7.073162105899872,High
+Ryvita Thins Multi-Seed,Seed,56.2,16.4,14.1,8.1,433.3,86.69999999999999,3.426827178763916,High
+Quinoa Real Blanca Y Roja,Seed,30.0,5.88,3.88,3.75,117.6,39.760000000000005,5.102032139401124,Medium
+Quinoa,Seed,58.0,15.0,6.8,7.6,365.0,79.8,3.8666640888906074,High
+Red & White Quinoa,Seed,31.0,5.8,3.2,4.0,184.0,40.0,5.344818371002809,Medium
+Instant Noodles Mi Goreng,Seed,61.25,8.75,21.25,5.0,475.0,91.25,6.999992000009144,High
+Ezekiel 4:9 Flourless Sprouted Grain Bread,Seed,15.0,4.0,0.5,3.0,235.3,19.5,3.749990625023438,Medium
+Tomatoey Lentils,Seed,13.3,8.5,2.7,5.6,111.2,24.5,1.5647040415246571,Medium
+Haricots Blancs,Seed,15.0,6.6,0.8,5.4,104.0,22.400000000000002,2.2727238292063197,Medium
+Original Peanut Butter Stuffed Oat Bars,Seed,43.96,13.12,25.62,6.04,466.7,82.7,3.350607202281096,High
+Beanz In A Rich Tomato Sauce,Seed,19.33,4.82,0.34,3.86,81.0,24.49,4.010365123723809,Low
+Apple & Raisin Oat Bar,Seed,59.3,5.6,17.4,4.9,400.0,82.29999999999998,10.589266804880706,High
+French Inspired Lentils,Seed,14.5,7.2,2.4,5.2,119.0,24.099999999999998,2.0138860918248724,Medium
+Pom'Potes Compotes Gourdes Bio Pomme Nature 12X90G,Seed,12.0,0.5,0.5,1.1,53.0,13.0,23.99952000959981,Low
+Scandalous Seeds Wholemeal Loaf,Seed,29.3,13.2,9.0,8.2,269.0,51.5,2.2196952881096306,Medium
+Bio Crisp Bread Quinoa &Amp; Seeds,Seed,53.1,14.4,14.8,0.0,427.0,82.3,3.6874974392378896,High
+Pom'Potes Compotes Gourdes Pomme Nature 4X90G,Seed,12.0,0.5,0.6,1.2,55.0,13.1,23.99952000959981,Low
+Farmhouse Super Seeded Loaf,Seed,37.9,11.2,9.6,5.8,284.1,58.699999999999996,3.3839255500664733,Medium
+Seeded Bread,Seed,39.4,11.7,3.7,6.4,251.0,54.8,3.3675184893004366,Medium
+Moong Dal,Seed,50.66,21.31,20.93,7.52,476.0,92.9,2.377286542803124,High
+Pom'Potes Compotes Gourdes Pomme Banane 4X90G,Seed,14.0,0.5,0.5,1.3,62.0,15.0,27.999440011199777,Low
+Avocado Oil Spray,Seed,0.0,0.0,0.5,0.0,5.0,0.5,0.0,Low
+Chickpeas Drained,Seed,23.4,7.2,2.2,7.4,126.0,32.8,3.2499954861173803,Medium
+Pufuleti,Seed,69.0,12.0,5.3,3.7,379.0,86.3,5.749995208337326,High
+Moutard A L'Ancienne,Seed,8.0,8.42,11.5,0.0,169.2,27.92,0.9501176364398618,Medium
+Oats,Seed,67.5,12.5,7.5,10.0,375.0,87.5,5.399995680003456,High
+Haldiram Moong Dal,Seed,50.66,21.31,20.93,7.52,476.0,92.9,2.377286542803124,High
+Lizis Original Granola Nuts And Seeds,Seed,55.2,11.6,21.4,8.7,477.0,88.19999999999999,4.758616587399494,High
+Organic Bread Good Seed,Seed,51.11,11.11,5.56,6.67,279.1,67.78,4.600355895269222,Medium
+Pom'Potes Compotes Gourdes Bio Pomme Nature 4X90G,Seed,12.0,0.5,0.5,1.1,53.0,13.0,23.99952000959981,Low
+Préparation En Poudre Pour Crème Pâtissière Saveur Vanille,Pastry,85.0,0.4,0.6,0.0,356.0,86.0,212.49468763280916,High
+Good Day - Cashew Cookies,Pastry,67.0,7.0,24.0,0.0,512.0,98.0,9.571414897978718,High
+Pâte Feuilletée Sans Gluten,Pastry,39.0,1.9,20.0,2.3,340.0,60.9,20.52620775680128,High
+Saladitas,Pastry,63.0,7.6,19.0,4.4,462.0,89.6,8.289462777022663,High
+Devon Custard,Pastry,14.77,2.77,2.92,0.54,96.2,20.46,5.332110714401753,Low
+Puff Pastry Twist,Pastry,57.0,10.0,25.0,0.0,499.0,92.0,5.6999943000057005,High
+Pâte Brisée,Pastry,42.0,5.7,22.0,1.6,403.0,69.7,7.36840812559978,High
+Pépites Chocolat Noir Bio,Pastry,54.0,6.6,29.0,8.4,520.0,89.6,8.181805785142751,High
+Le Sfoglie Puff Pastry,Pastry,53.33,6.67,30.0,3.33,518.0,90.0,7.995490261633791,High
+Pépites Chocolat Noir,Pastry,58.9,6.0,25.0,0.0,502.0,89.9,9.816650305582824,High
+Crème Pâtissière Goût Vanille,Pastry,26.0,2.8,1.3,0.1,129.0,30.1,9.28568112256742,Medium
+Thick & Creamy Custard,Pastry,20.0,2.9,3.6,0.6,125.0,26.5,6.896527943007093,Medium
+Mix For Pastry Cream And Custard,Pastry,87.0,0.4,0.7,0.1,357.0,88.10000000000001,217.49456263593407,High
+Cheese Twists,Pastry,53.5,12.1,28.7,3.3,527.0,94.3,4.421483949186819,High
+Mini-Gougères Au Fromage,Pastry,20.0,14.0,25.0,2.3,369.0,59.0,1.4285704081639943,High
+Ready Rolled Puff Pastry Sheet,Pastry,36.0,5.3,20.0,1.1,362.0,61.3,6.792440014264125,High
+Masa Hojaldre,Pastry,37.0,2.5,20.0,4.0,354.0,59.5,14.799940800236799,High
+Puff Pastry Sheet,Pastry,35.8,5.4,20.0,2.0,362.0,61.199999999999996,6.629617352560458,High
+30 Mini-Feuilletés Saveur Du Soleil,Pastry,27.0,6.4,16.0,2.2,279.0,49.4,4.218743408213425,Medium
+Flamed Baked Pizza Based,Pastry,46.82,9.27,8.09,2.18,301.8,64.18,5.0506957381923,High
+Chlazené Listové Těsto,Pastry,35.0,6.2,24.0,1.1,396.0,65.2,5.645152185238411,High
+Custard,Pastry,15.0,2.2,3.0,0.4,97.0,20.2,6.818150826587151,Low
+Golden Yorkshires,Pastry,39.0,5.1,12.0,1.2,287.0,56.1,7.647043829325826,Medium
+Puff Pastry,Pastry,40.5,6.5,23.7,1.3,404.0,70.7,6.230759644985162,High
+Masa Para Pizza,Pastry,48.0,8.2,2.4,1.3,268.0,58.6,5.853651397986101,Medium
+Chaque Jour Pate Feuilleté,Pastry,37.0,2.5,20.0,3.9,346.0,59.5,14.799940800236799,High
+Cornish Pasty Original,Pastry,23.5,6.5,15.3,2.5,263.0,45.3,3.6153790532629952,Medium
+Pumpkin Bread & Muffin Mix,Pastry,40.1,7.0,7.2,1.4,256.0,54.300000000000004,5.728563244909651,Medium
+Ready Rolled Puff Pastry,Pastry,47.6,6.6,24.3,2.8,441.0,78.5,7.212110284681388,High
+Vermicelles À Base De Haricot Mungo,Pastry,84.0,0.5,0.5,5.5,347.0,85.0,167.99664006719868,High
+All Butter Pastry Mince Pies With Brandy & Port,Pastry,60.32,3.87,14.68,1.29,391.9,78.87,15.586523032240226,High
+Protein-Packed Power Waffles Buttermilk & Vanilla,Pastry,34.21,15.79,14.47,3.95,328.9,64.47,2.166559742520746,High
+Bouchées Feuilletées,Pastry,41.0,8.1,40.7,0.0,567.0,89.80000000000001,5.061722146022042,High
+Light Devon Custard,Pastry,12.1,2.9,2.0,0.5,78.0,17.0,4.1723994055192914,Low
+Pastry Dough With Apple And Cinnamon Filling,Pastry,50.4,7.2,8.2,1.3,312.0,65.8,6.999990277791281,High
+Boni Vemicelles De Chocolat Au Lait,Pastry,69.0,6.2,17.0,3.6,460.0,92.2,11.12901430804144,High
+Hagelslag Melk Twinkelz,Pastry,69.3,3.6,17.1,6.2,463.0,90.0,19.24994652792631,High
+Almond Flour Pancake & Waffle Mix Original,Pastry,55.0,10.0,20.0,5.0,400.0,85.0,5.4999945000055,High
+Flan Entremet Framboise,Pastry,15.0,3.2,1.5,0.1,86.0,19.7,4.6874853516082755,Low
+Potax,Pastry,87.0,0.5,0.5,0.0,350.0,88.0,173.99652006959863,High
+Gluten-Free Pancake Mix,Pastry,77.36,3.77,0.94,1.89,339.6,82.07,20.51983946992183,High
+Twinkelz,Pastry,67.6,5.4,15.0,7.0,441.0,88.0,12.518495336119747,High
+Buttermilk Complete Pancake Mix,Pastry,76.27,6.78,1.69,1.69,355.9,84.74,11.249245945064978,High
+Thin & Crispy Pizza Bases,Pastry,50.5,7.6,1.0,3.0,247.0,59.1,6.644728099041975,Medium
+Puff Pastry Twists,Pastry,51.0,12.0,29.0,3.3,515.0,92.0,4.249996458336285,High
+All Steak Pie,Pastry,19.8,8.8,12.6,0.9,230.0,41.2,2.2499974431847236,Medium
+Cheddar & Onion Chutney Rolls,Pastry,30.8,9.6,19.9,2.0,346.0,60.3,3.208329991322926,High
+Madagascan Vanilla Custard,Pastry,14.9,3.1,14.2,0.0,201.0,32.2,4.806436108270618,Medium
+Vermicelles De Chocolat,Pastry,69.0,6.0,15.0,6.6,443.0,90.0,11.499980833365278,High
+Vegan Chicken And Mushroom Pie,Pastry,23.2,7.4,14.3,1.7,254.0,44.900000000000006,3.1351308984717585,Medium
+Mr Kipling Bramley Apple Pies 6Pk,Pastry,54.9,3.4,13.2,1.4,355.0,71.5,16.14701133231961,High
+All Butter Puff Pastry,Pastry,29.8,5.7,28.9,4.8,412.0,64.4,5.2280610034017485,High
+Almond Flour Baking Mix Brownie,Pastry,56.52,8.7,26.09,8.7,434.8,91.31,6.496544256845683,High
+Pop Tarts,Pastry,72.92,3.75,10.0,4.0,400.0,86.67,19.445281479249388,High
+Deluxe Custard,Pastry,15.9,2.8,5.0,1.0,122.0,23.7,5.678551148031614,Medium
+Fondant Caramel Au Beurre Salé,Pastry,52.5,4.0,18.5,0.0,394.0,75.0,13.124967187582032,High
+Bouchées À La Reine,Pastry,21.0,7.5,20.0,1.5,297.0,48.5,2.7999962666716445,Medium
+Organic Classic Pancake & Waffle Mix,Pastry,72.5,10.0,0.0,2.5,350.0,82.5,7.24999275000725,High
+Ready To Eat Custard,Pastry,16.7,2.5,3.0,0.5,105.0,22.2,6.679973280106879,Medium
+Blätterteig,Pastry,35.0,6.2,24.0,1.1,396.0,65.2,5.645152185238411,High
+Paniers Feuilletés Au Chèvre Épinard - 4X100G,Pastry,20.6,6.2,17.4,1.3,266.0,44.2,3.3225752861688935,Medium
+Préparation Pour Gâteau Bio Au Chocolat,Pastry,82.0,4.6,3.1,4.8,384.0,89.69999999999999,17.826048204243037,High
+Puff Pastry Block,Pastry,37.3,5.9,20.1,1.3,356.0,63.3,6.322023183011554,High
+All Butter Pastry Twists,Pastry,57.0,12.0,23.0,3.4,490.0,92.0,4.749996041669966,High
+Dinky Sausage Rolls,Pastry,27.3,10.4,26.1,1.4,389.0,63.800000000000004,2.6249974759639656,High
+Nappage Au Caramel,Pastry,77.0,0.0,0.0,0.5,315.0,77.0,7699999.999999999,High
+Deluxe Custard West Country Cream,Pastry,15.9,2.8,5.0,1.0,122.0,23.7,5.678551148031614,Medium
+Weikfield,Pastry,88.4,1.0,0.0,0.0,358.0,89.4,88.39911600883991,High
+Pizza Bases,Pastry,49.9,8.1,8.9,2.8,318.0,66.9,6.160486221621949,High
+Melkchocoladehagelslag,Pastry,72.0,5.7,15.0,0.0,450.0,92.7,12.63155678674248,High
+Woodford Pizza Base,Pastry,46.1,10.6,2.6,3.3,257.0,59.300000000000004,4.349052500893867,Medium
+Complete Pancake & Waffle Mix Buttermilk,Pastry,75.44,7.02,2.63,1.75,350.9,85.08999999999999,10.746423438143252,High
+4 Paniers Deux Saumons,Pastry,23.0,8.9,15.0,0.5,263.0,46.9,2.5842667592508324,Medium
+Sausage Roll 100% British Pork,Pastry,21.8,9.3,26.8,1.6,369.0,57.900000000000006,2.344083500985483,High
+Buttermilk Pancake Mix / Mélange À Crêpes Babeurre,Pastry,76.47,5.88,1.47,0.0,352.9,83.82,13.005079923333465,High
+Power Flapjacks Buttermilk,Pastry,30.5,17.4,4.4,4.4,194.4,52.3,1.7528725558203704,Medium
+4 Vol-Au-Vent Feuilletés À Garnir,Pastry,40.5,7.0,39.9,0.0,552.0,87.4,5.785706020419971,High
+Alvalle Gazpacho L'Original,Fruit,3.5,0.9,2.2,1.2,40.0,6.6000000000000005,3.88884567949245,Low
+Jamila رايبي,Fruit,12.4,1.9,1.7,0.0,72.0,16.0,6.526281440623997,Low
+Biscuit Raisins,Fruit,68.0,8.3,14.0,5.1,441.0,90.3,8.192761213540706,High
+"Muesli Raisin, Figue, Abricot",Fruit,59.0,11.0,5.8,10.0,352.0,75.8,5.363631487607739,High
+Special Muesli 30% Fruits & Noix,Fruit,60.0,10.0,7.2,8.8,360.0,77.2,5.999994000006001,High
+"Muesli Superfruits Raisins, Cassis, Cranberry, Myrtille",Fruit,60.0,12.0,6.0,10.0,358.6,78.0,4.999995833336806,High
+Confiture De Fraise,Fruit,61.33,0.5,0.3,0.0,250.0,62.129999999999995,122.65754684906302,Medium
+Amande Sans Sucres,Fruit,1.6,0.7,1.7,0.0,25.0,4.0,2.2856816331195273,Low
+Confiture De Fraises 430 G,Fruit,63.0,0.5,0.5,0.5,256.0,64.0,125.997480050399,Medium
+Country Crisp 4 Noix,Fruit,58.0,11.0,20.0,6.1,465.0,89.0,5.272722479343201,High
+Yaourt Grec Muesli,Fruit,16.1,3.3,7.0,0.0,140.0,26.400000000000002,4.878773094626987,Medium
+Ratatouille Cuisinée À La Provençal,Fruit,5.7,1.3,4.1,3.4,72.0,11.1,4.384581657064176,Low
+Figolu,Fruit,71.9,4.69,8.12,3.12,400.0,84.71000000000001,15.330457717574165,High
+Danino,Fruit,12.3,6.5,6.3,0.0,132.2,25.1,1.892304781069568,Medium
+Aïn Soltane,Fruit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low
+Danone Nature,Fruit,6.7,3.0,3.0,0.0,66.2,12.7,2.2333258889137038,Low
+Yaourt Tendre,Fruit,14.3,4.2,5.0,0.0,119.0,23.5,3.4047537982052427,Medium
+Pom'Potes Compotes Gourdes Pomme Nature 1X90G,Fruit,12.0,0.5,0.6,1.3,57.0,13.1,23.99952000959981,Low
+"Muesli Bio 36% Fruits, Noix & Graines",Fruit,60.7,9.3,8.4,8.5,373.0,78.4,6.526874702285267,High
+Tomato Ketchup,Fruit,23.2,1.2,0.1,0.0,102.0,24.5,19.3331722235648,Medium
+Biscuit Soja Orange,Fruit,66.0,11.0,14.0,5.1,442.9,91.0,5.999994545459504,High
+Basilico,Fruit,7.6,1.6,2.6,1.9,64.0,11.799999999999999,4.749970312685545,Low
+Lait D'Amande,Fruit,4.6,0.5,1.2,0.0,29.0,6.3,9.199816003679926,Low
+Carottes Rapees Citron Dnp 320G,Fruit,5.5,1.0,4.5,3.0,63.0,11.0,5.499945000549994,Low
+Country Crisp 4 Baies,Fruit,67.0,9.1,13.0,6.0,432.0,89.1,7.362629271835965,High
+Press Up Jaouda Petit Orange,Fruit,8.7,0.1,0.0,0.2,37.0,8.799999999999999,86.991300869913,Low
+برس اب الخوخ جودة 1لتر,Fruit,8.7,0.1,0.0,0.2,37.0,8.799999999999999,86.991300869913,Low
+Délicia - Confiture D'Abricot,Fruit,67.36,0.41,0.12,0.0,272.0,67.89,164.288675885954,Medium
+Croustillant 3 Noix,Fruit,56.0,11.0,17.0,9.9,486.7,84.0,5.090904462814125,High
+Barres De Fruits Secs & Noix Myrtilles,Fruit,56.0,6.6,11.0,9.5,374.3,73.6,8.484835629036926,High
+33Cl Can Slim Tropical,Fruit,6.6,0.1,0.0,0.0,287.0,6.699999999999999,65.993400659934,Medium
+Shot De Gingembre Bio,Fruit,7.9,0.4,0.4,0.2,35.0,8.700000000000001,19.74950626234344,Low
+Muesli Croustillant Duo Pépites,Fruit,67.0,9.2,13.0,7.6,434.0,89.2,7.282600779781762,High
+Ketchup 5 Ingrédients,Fruit,15.0,1.5,0.5,0.7,74.0,17.0,9.999933333777774,Low
+Petit Déj' Fruits Rouges À L'Épeautre,Fruit,64.0,8.7,17.0,6.6,457.0,89.7,7.356313383547836,High
+Aubergines Cuisinées À La Provençal,Fruit,6.7,1.2,5.2,2.2,83.0,13.100000000000001,5.583286805943284,Low
+Nakd Cacahuètes - 140G (4X1P),Fruit,42.0,12.0,23.0,9.3,442.9,77.0,3.499997083335764,High
+Muesli Aux Fruits,Fruit,60.0,11.0,6.0,10.0,358.3,77.0,5.454540495872276,High
+Delicia Double Concentre De Tomates,Fruit,18.35,4.13,0.09,0.0,91.0,22.57,4.443088515524177,Low
+Press Up Moyen,Fruit,8.7,0.1,0.0,0.2,37.0,8.799999999999999,86.991300869913,Low
+Cappy Pulpy,Fruit,9.0,0.0,0.0,0.0,37.0,9.0,899999.9999999999,Low
+Double Zéro Cerise,Fruit,8.23,3.4,0.2,0.0,48.3,11.83,2.4205811159378943,Low
+T&C Muesli Croustillant Avoine Amandes Sans Gluten,Fruit,66.0,9.0,15.0,6.9,447.0,90.0,7.333325185194239,High
+Eat Natural Protéines,Fruit,31.6,21.6,30.3,6.9,447.5,83.5,1.4629622856656084,High
+Concentré De Tomates Aicha,Fruit,6.41,1.24,0.11,0.81,31.6,7.760000000000001,5.169313150700398,Low
+Crème De Marrons De L'Ardèche,Fruit,63.6,1.3,0.8,1.9,270.0,65.7,48.92270059461081,Medium
+Muesli Sans Sucres Ajoutés Raisin Figue Datte Abricot,Fruit,59.0,11.0,5.8,10.0,352.0,75.8,5.363631487607739,High
+Aicha Tomato Paste,Fruit,23.7,4.6,0.4,3.0,117.0,28.699999999999996,5.152162712689756,Medium
+Protéines Cacahuètes & Chocolat Noir,Fruit,33.4,19.5,36.3,5.9,500.0,89.19999999999999,1.7128196344514695,High
+Confiture De Fraise Intense,Fruit,39.0,0.5,0.1,1.6,162.0,39.6,77.99844003119938,Medium
+Pago Ace - Orange - Carotte - Citron,Fruit,9.2,0.5,0.5,0.0,40.0,10.2,18.399632007359852,Low
+Confiture Extra De Fraises,Fruit,59.0,0.4,0.1,1.2,241.0,59.5,147.49631259218518,Medium
+Boisson Noisette,Fruit,5.5,1.0,4.5,1.1,69.0,11.0,5.499945000549994,Low
+Muesli Bio Superfruits,Fruit,61.8,11.2,5.5,9.4,360.0,78.5,5.517852216203378,High
+Raib Vani Jaouda,Fruit,13.0,3.0,2.0,2.0,81.0,18.0,4.333318888937037,Low
+Tomates Cerises,Fruit,2.49,0.86,0.26,1.2,19.3,3.6100000000000003,2.895315170753829,Low
+Orangina Et Sa Pulpe,Fruit,9.2,0.1,0.1,0.0,39.0,9.399999999999999,91.990800919908,Low
+Confiture De Fraises Aicha,Fruit,59.8,0.0,0.3,1.5,239.0,60.099999999999994,5979999.999999999,Medium
+Gehackte Tomaten In Tomatensaft,Fruit,3.0,1.3,0.1,1.1,20.0,4.3999999999999995,2.3076745563495664,Low
+Confiture Fraise Sans Sucre Ajoutes,Fruit,21.7,0.6,0.5,8.9,89.0,22.8,36.16606389893502,Low
+Schweppes Citron 1L,Fruit,4.5,0.0,0.0,0.0,19.2,4.5,449999.99999999994,Low
+Amora Ketchup Flacon Souple Tête En Bas 550G,Fruit,22.0,1.2,0.5,0.5,99.0,23.7,18.333180556828694,Low
+Courgettes À La Provençale 1/2,Fruit,7.3,1.7,2.5,2.1,63.0,11.5,4.294092387691837,Low
+Velouté Fraise,Fruit,14.7,2.3,3.0,0.0,94.7,20.0,6.391276559667132,Low
+Pim'S Orange,Fruit,66.0,3.3,13.0,2.5,397.0,82.3,19.99993939412305,High
+عصري بناشي,Fruit,13.1,0.7,1.07,0.0,65.0,14.87,18.714018371166127,Low
+Compote Pomme Nature,Fruit,12.0,0.3,0.2,1.9,55.0,12.5,39.99866671110963,Low
+Yaourt Saveur Myrtille Sauvage,Fruit,13.1,3.5,2.6,0.0,90.4,19.200000000000003,3.7428464490101456,Low
+Bol Bol Ketchup,Fruit,28.0,1.0,0.1,0.0,122.0,29.1,27.99972000279997,Medium
+"Ketchup Zéro Sel Ajouré, 70% Moins De Sucres",Fruit,5.4,1.6,0.1,0.0,44.0,7.1,3.374978906381835,Low
+Double Concentré De Tomates,Fruit,24.0,4.6,0.4,3.0,123.0,29.0,5.217379962217474,Medium
+Amora,Fruit,22.0,1.2,0.5,0.5,99.0,23.7,18.333180556828694,Low
+Orangensaft,Fruit,8.9,0.8,0.0,0.6,40.0,9.700000000000001,11.12486093923826,Low
+Pet 2L Oasis Tropical,Fruit,6.1,0.1,0.0,0.0,28.0,6.199999999999999,60.993900609939004,Low
+Double Concentre De Tomate,Fruit,23.7,4.6,0.4,3.0,117.0,28.699999999999996,5.152162712689756,Medium
+Myrtille Intense,Fruit,39.0,0.5,0.2,1.8,163.0,39.7,77.99844003119938,Medium
+Schweppes Agrum',Fruit,5.8,0.0,0.0,0.0,24.0,5.8,579999.9999999999,Low
+Pasta Sauce,Vegetable,5.3,1.6,2.8,1.2,56.0,9.7,3.3124792970043933,Low
+Carottes Rapees Citron Dnp 500G,Vegetable,5.5,1.0,4.5,3.0,14.6,11.0,5.499945000549994,Low
+Haricots Verts Extra-Fins 1/2,Vegetable,2.3,1.4,0.1,2.4,20.0,3.8,1.6428454082470838,Low
+Taboule Oriental 300G,Vegetable,25.0,5.0,6.0,2.0,178.0,36.0,4.99999000002,Medium
+Mutti Solo Pomodoro Parma Passierte Italienische Tomaten,Vegetable,5.1,1.6,0.5,1.5,36.0,7.199999999999999,3.1874800782495103,Low
+Pois Chiches Très Peu De Jus 1/2,Vegetable,15.0,6.0,2.2,7.7,119.0,23.2,2.499995833340278,Medium
+Aicha Double Concentré De Tomates 140 G,Vegetable,23.7,4.6,0.4,3.0,117.0,28.699999999999996,5.152162712689756,Medium
+Confiture De Myrtille 70%,Vegetable,40.0,0.5,0.5,3.7,173.0,41.0,79.99840003199937,Medium
+Flageolets Préparés 1/2,Vegetable,13.0,6.5,0.8,6.2,98.0,20.3,1.999996923081657,Low
+Haricots Verts Extra-Fins 1/4,Vegetable,2.3,1.4,0.1,2.4,20.0,3.8,1.6428454082470838,Low
+Vegan Bouillon Powder,Vegetable,30.6,9.6,8.4,0.0,241.0,48.6,3.187496679690959,Medium
+Poêlée Méditerranéenne 750G,Vegetable,10.0,2.0,2.7,2.5,77.0,14.7,4.999975000125,Low
+Poêlée Paysanne 750G,Vegetable,7.4,1.7,2.7,3.3,44.7,11.8,4.352915571084876,Low
+Sauce Tomate Napolitaine,Vegetable,5.1,1.4,2.9,0.0,59.0,9.4,3.642831122634838,Low
+Petits Pois Et Carottes 1/2,Vegetable,7.6,3.6,0.7,4.2,22.5,11.899999999999999,2.1111052469298697,Low
+Tomato Passata,Vegetable,6.1,1.7,0.2,1.9,37.0,8.0,3.5882141869753705,Low
+Confiture D'Abricots Extra Aïcha,Vegetable,63.0,0.0,0.0,1.0,251.0,63.0,6299999.999999999,Medium
+Haricots Verts Extra-Fins 4/4,Vegetable,2.3,1.4,0.1,2.4,20.0,3.8,1.6428454082470838,Low
+Assaisonnement Aromatise Au Citron,Vegetable,0.14,0.0,0.0,0.0,1.1,0.14,14000.0,Low
+Epinards Hachés À La Crème,Vegetable,5.3,3.5,4.4,1.7,78.0,13.200000000000001,1.5142813877674635,Low
+Coconut Water,Vegetable,4.5,0.0,0.0,0.0,18.0,4.5,449999.99999999994,Low
+Tomatenpulp In Stukjes,Vegetable,3.9,1.2,0.2,0.0,25.0,5.3,3.249972916892359,Low
+Pom'Potes Bio - Pomme Bio,Vegetable,12.0,0.5,0.6,1.3,61.0,13.1,23.99952000959981,Low
+Haricots Rouges Très Peu De Jus 1/2,Vegetable,14.0,7.7,0.6,8.0,108.0,22.3,1.8181794569097962,Medium
+Petits Pois & Carottes,Vegetable,7.6,3.6,0.7,4.2,59.0,11.899999999999999,2.1111052469298697,Low
+La Poêlée Rustique 750G,Vegetable,15.0,2.4,2.9,2.0,100.0,20.299999999999997,6.2499739584418395,Low
+Les Classiques - Velouté De 9 Légumes,Vegetable,5.6,0.6,0.6,0.9,32.0,6.799999999999999,9.333177780370328,Low
+Bebida De Soja 0% Azúcares,Vegetable,0.8,2.8,1.6,0.4,32.0,5.199999999999999,0.28571326530976676,Low
+Épinards Branches À La Crème,Vegetable,5.8,3.5,3.1,1.6,68.0,12.4,1.6571381224625072,Low
+Velouté De Potiron & Carottes Bio,Vegetable,4.2,0.6,0.7,1.3,28.0,5.5,6.9998833352777465,Low
+Courgettes À La Provençale 1/4,Vegetable,5.5,1.8,3.4,1.3,62.0,10.7,3.0555385803412203,Low
+Maille Mini Cornichons Petits Croquants Bocal 210G,Vegetable,2.0,0.6,0.5,0.5,13.0,3.1,3.3332777787036885,Low
+Couscous Légumes Du Soleil,Vegetable,24.0,4.0,3.3,2.8,147.0,31.3,5.9999850000375,Medium
+Pom'Potes (Pomme/Poire),Vegetable,12.0,0.5,0.5,1.6,57.8,13.0,23.99952000959981,Low
+Amora Croq'Vert Cornichons Extra-Fins Bocal 370G,Vegetable,2.2,0.7,0.5,2.7,14.0,3.4000000000000004,3.14281224553935,Low
+Strawberry Conserve,Vegetable,59.0,0.4,0.1,1.2,241.0,59.5,147.49631259218518,Medium
+La Poêlée Champêtre 950G,Vegetable,5.5,2.6,0.4,4.3,45.0,8.5,2.1153764793212333,Low
+Girasoli Potiron & Petits Oignons Grillés Plaisir Du Primeux,Vegetable,32.0,8.8,7.8,6.8,247.0,48.599999999999994,3.636359504136927,Medium
+Miel Pops,Honey,85.0,5.2,1.5,4.6,384.0,91.7,16.346122411303057,High
+Honey,Honey,80.0,0.0,0.0,0.0,320.0,80.0,7999999.999999999,High
+Crunchy Oats & Honey,Honey,64.3,8.7,18.1,6.4,466.7,91.1,7.3907961025332165,High
+Nature Valley Crunchy Oats & Honey,Honey,64.3,8.7,18.1,6.4,467.0,91.1,7.3907961025332165,High
+Miel L'Apiculteur Montagne,Honey,75.1,0.38,0.0,0.0,302.0,75.47999999999999,197.62637825320385,High
+Miel De Flores,Honey,83.0,0.5,0.0,0.0,333.0,83.5,165.99668006639868,High
+Clear Honey,Honey,82.4,0.3,0.0,0.2,400.0,82.7,274.6575114162861,High
+Oats 'N Honey Granola Bars,Honey,69.05,7.14,16.67,4.76,452.4,92.86,9.670854802724367,High
+Miel Liquide,Honey,75.1,0.4,0.1,0.1,302.0,75.6,187.7453063673408,High
+Simply Granola With A Hint Of Honey,Honey,66.0,11.0,11.0,6.3,417.8,88.0,5.999994545459504,High
+Simply Crunchy Honey Baked Granola,Honey,65.9,10.9,10.9,6.3,430.0,87.70000000000002,6.045866012966961,High
+The Honey Soaked Seeded Bloomer,Honey,40.6,9.8,4.8,6.8,256.0,55.2,4.142852915456209,Medium
+Organic Honey,Honey,81.5,0.5,0.5,0.5,331.7,82.5,162.9967400651987,High
+Cretan Blossom Honey,Honey,80.95,0.0,0.0,0.0,333.3,80.95,8095000.0,High
+Toblerone White,Honey,62.0,6.1,29.0,0.2,537.0,97.1,10.163917764069241,High
+Nature Valley Crunchy Oats And Honey,Honey,71.0,8.6,18.0,6.4,467.0,97.6,8.255804353715869,High
+Miel Squeezer,Honey,80.0,0.0,0.0,0.0,512.0,80.0,7999999.999999999,High
+Organic Raw & Unfiltered Honey,Honey,80.95,0.0,0.0,0.0,285.7,80.95,8095000.0,Medium
+Oz Miel,Honey,82.0,6.6,1.8,4.9,381.0,90.39999999999999,12.424223599661214,High
+Blossom Honey,Honey,76.0,0.5,0.5,0.5,307.0,77.0,151.99696006079878,High
+Gaufres Fourrage Au Miel - Bio,Honey,65.5,4.8,19.7,2.3,463.0,90.0,13.645804904573117,High
+Ricola Douceur De Miel,Honey,96.0,0.0,0.0,0.0,386.0,96.0,9600000.0,High
+Honey Wheat Bread,Honey,53.85,11.54,1.92,3.85,250.0,67.31,4.666373772639712,Medium
+Runny Honey,Honey,88.0,0.0,0.67,0.67,359.0,88.67,8800000.0,High
+Honey Granola,Honey,49.2,13.1,26.67,7.0,494.0,88.97,3.755722323876089,High
+Honey & Salt Cashew Mix,Honey,43.2,14.7,32.4,0.0,539.0,90.30000000000001,2.9387735110384283,High
+Elephant Squeezed Pretzels Honey Mustard & Onion,Honey,70.0,8.9,14.0,0.0,445.0,92.9,7.865159702067751,High
+Pretzels Honey Mustard & Onion,Honey,70.0,8.9,14.0,0.0,445.0,92.9,7.865159702067751,High
+Honey Maid Grahams,Honey,80.0,6.67,10.0,3.33,433.3,96.67,11.99398501651422,High
+Breakfast Honey & Nut With Choc Chips,Honey,65.0,7.7,15.0,7.6,446.7,87.7,8.441547478509769,High
+Miel De Naranjo,Honey,83.0,0.4,0.0,0.0,333.0,83.4,207.49481262968425,High
+Moutarde Au Miel Pot,Honey,35.0,4.2,6.4,3.2,226.0,45.6,8.333313492110733,Medium
+Squeezy Honey,Honey,81.9,0.1,0.2,0.0,330.0,82.2,818.9181081891811,High
+Greek Style Honey,Honey,13.7,4.1,7.8,0.0,134.0,25.599999999999998,3.341455264743257,Medium
+Mops Miel,Honey,88.0,5.4,1.0,2.5,386.0,94.4,16.296266118025706,High
+Honey & Nut Shredded Wheat,Honey,68.0,12.0,5.4,9.8,380.0,85.4,5.6666619444483795,High
+Tesco Honey & Almond Granola,Honey,64.3,11.4,12.3,6.5,427.0,88.0,5.640345929521114,High
+Honey Roast Crunch,Honey,63.0,11.0,15.0,8.8,450.0,89.0,5.72726752066589,High
+Manuka Honey,Honey,86.9,0.1,0.1,0.5,350.0,87.1,868.9131086891311,High
+Honey Balls,Honey,79.0,7.0,2.0,6.0,374.0,88.0,11.28569816328834,High
+Al Janoub Honey,Honey,81.0,0.47,0.47,0.0,305.6,81.94,172.3367587923661,High
+Serrano Cholli & Yucatan Honey,Honey,57.2,7.4,23.5,7.8,486.0,88.10000000000001,7.72971928416313,High
+Oats & Honey With Toasted Coconut,Honey,70.0,6.67,8.33,6.67,384.6,85.0,10.49473688944994,High
+Golden Puffs,Honey,78.3,9.9,1.7,5.8,380.0,89.9,7.909082920118262,High
+Lune De Miel D'Acacia Honey,Honey,75.0,0.4,0.0,0.0,302.0,75.4,187.49531261718457,High
+Gaufres Au Miel,Honey,69.0,4.2,16.0,3.1,447.0,89.2,16.4285323130183,High
+Honey Nut Cheerios,Honey,81.08,8.11,5.41,3.0,482.8,94.6,9.997521581354402,High
+6111184009629,Honey,44.1,0.21,0.03,0.0,178.0,44.34,209.9900004761678,Medium
+Miel Fruité Lune De Miel,Honey,82.0,0.4,0.5,0.0,307.0,82.9,204.99487512812178,High
+P'Tit Déj Honey & Chocolate Chips*,Honey,65.0,7.8,17.0,4.9,453.0,89.8,8.333322649586348,High
+"Céréales Mini Cookies, Paquet 375G",Honey,80.0,8.4,1.7,5.4,380.0,90.10000000000001,9.52379818595454,High
+Honey Cheerios,Honey,71.1,8.9,3.6,9.1,374.0,83.6,7.988755068814529,High
+Stars Hacendado 400Ge,Honey,80.0,7.9,4.7,5.2,403.0,92.60000000000001,10.126569460038658,High
+Honey Hoops Honey Flavoured Multigrain Cereal Hoops,Honey,76.8,9.1,3.0,7.7,399.6,88.89999999999999,8.43955116532839,High
+Honey Nut Corn Flakes,Honey,82.0,7.6,4.5,2.4,403.0,94.1,10.789459487553307,High
+Miel Doux Lune De Miel,Honey,79.0,0.5,0.0,0.0,320.0,79.5,157.99684006319876,High
+Supahoney : Manuka + Honey + Vitamin C,Honey,86.9,0.1,0.1,0.0,353.0,87.1,868.9131086891311,High
+Miel El Mordjen,Honey,17.0,0.0,1.0,3.0,60.0,18.0,1699999.9999999998,Low
+Honey Squeezy,Honey,80.0,0.0,0.0,0.0,320.0,80.0,7999999.999999999,High
+Miel Pur D'Abeilles,Honey,82.4,0.3,0.0,0.0,304.3,82.7,274.6575114162861,High
+Confiture Extra De Myrtilles,Jam,59.0,0.3,0.1,1.5,241.0,59.4,196.66011132962234,Medium
+Confiture Extra Myrtille,Jam,56.0,0.0,0.0,1.4,227.0,56.0,5600000.0,Medium
+Confitura De Fresa 0%,Jam,11.5,0.6,0.0,0.0,40.0,12.1,19.16634722754621,Low
+Confitura De Melocotones 0% Azúcares Añadidos,Jam,13.2,0.5,0.1,1.5,45.0,13.799999999999999,26.39947201055979,Low
+Raspberry Fruit Spread,Jam,57.0,0.5,0.1,2.8,250.0,57.6,113.9977200455991,Medium
+Marmelade Bonne Maman Oranges Amères,Jam,59.0,0.3,0.1,0.7,240.0,59.4,196.66011132962234,Medium
+Raspberry Conserve,Jam,57.0,0.7,0.2,3.4,239.0,57.900000000000006,81.42740817988316,Medium
+"Bonne Maman - Mirabelle Plum Jam, 370G (13Oz)",Jam,59.0,0.4,0.1,1.4,241.0,59.5,147.49631259218518,Medium
+Confipote Confiture Allégée En Sucres Pot Fraise 350G,Jam,38.0,0.6,0.5,1.0,163.0,39.1,63.33227779537008,Medium
+Confitura De Cereza,Jam,12.5,0.5,0.3,1.9,49.0,13.3,24.999500009999803,Low
+Confiture D'Abricots,Jam,63.0,0.0,0.0,1.0,251.0,63.0,6299999.999999999,Medium
+"Lingonberry Jam, Organic",Jam,42.0,0.0,0.0,0.0,173.0,42.0,4200000.0,Medium
+Préparation Abricot Pomme,Jam,43.0,0.5,0.5,0.0,179.0,44.0,85.99828003439931,Medium
+"Confiture Fraise 65% De Fruits, 320G",Jam,40.0,0.5,0.5,1.3,167.0,41.0,79.99840003199937,Medium
+St. Dalfour Vruchtenspread Aardbei,Jam,50.0,0.0,0.0,1.4,202.0,50.0,5000000.0,Medium
+Kissan Mixed Fruit Jam,Jam,70.5,0.3,0.1,0.8,285.0,70.89999999999999,234.99216692776906,Medium
+Préparation De Cerises Noire & Griottes,Jam,33.6,0.8,0.5,9.4,130.0,34.9,41.99947500656242,Medium
+Confipote Confiture Allégée En Sucres Pot Abricot 350G,Jam,38.0,0.6,0.5,0.9,160.0,39.1,63.33227779537008,Medium
+Gelée De Coing,Jam,59.0,0.2,0.1,1.0,240.0,59.300000000000004,294.9852507374631,Medium
+Myrtille,Jam,51.0,0.5,0.5,0.0,213.0,52.0,101.9979600407992,Medium
+"Bonne Maman - French Strawberry & Wild Strawberry Jam, 370G (13Oz)",Jam,59.0,0.4,0.1,0.0,241.0,59.5,147.49631259218518,Medium
+Confiture De Myrtilles,Jam,60.0,0.5,0.5,2.7,249.0,61.0,119.99760004799906,Medium
+Confiture De Fraise Allégée En Sucres,Jam,39.9,0.4,0.5,1.1,162.0,40.8,99.74750631234218,Medium
+Emotion,Jam,39.0,0.0,0.0,1.9,164.0,39.0,3899999.9999999995,Medium
+Organic Strawberry Jam,Jam,35.1,0.7,0.3,3.7,158.0,36.1,50.142140826559626,Medium
+Feketeáfonya Extradzsem,Jam,57.6,0.1,0.3,1.3,238.0,58.0,575.9424057594241,Medium
+Mixed Fruit Jam,Jam,70.5,0.3,0.1,0.7,285.3,70.89999999999999,234.99216692776906,Medium
+"Confiture Framboise 65% De Fruits, 320G",Jam,40.0,0.8,0.5,3.3,172.0,41.3,49.999375007812404,Medium
+Strawberry Fruit Spread,Jam,50.0,0.0,0.0,0.0,200.0,50.0,5000000.0,Medium
+Meruňkový Džem,Jam,58.0,0.3,0.02,1.2,240.0,58.32,193.32688910369654,Medium
+Confiture Myrtilles,Jam,39.0,0.4,0.2,1.5,162.0,39.6,97.49756256093598,Medium
+Diet Arándanos Y Frambuesas,Jam,12.2,0.5,0.3,2.9,46.0,13.0,24.399512009759807,Low
+Confiture Fraises,Jam,59.0,0.4,0.1,1.2,241.0,59.5,147.49631259218518,Medium
+Confiture Extra De Myrtilles 50% Fruits - Bio,Jam,60.0,0.1,0.1,1.7,244.7,60.2,599.9400059994,Medium
+Bonne Maman Strawberry And Wild Strawberry 370G,Jam,59.0,0.4,0.1,0.0,241.0,59.5,147.49631259218518,Medium
+Mermelada De Fresas De Temporada,Jam,53.0,0.6,0.1,1.5,219.0,53.7,88.33186113564776,Medium
+Bitter Orange Fine Sliced Marmalade,Jam,59.0,0.3,0.1,0.6,240.0,59.4,196.66011132962234,Medium
+Confiture Framboise,Jam,37.0,0.9,0.5,2.3,160.0,38.4,41.11065432606304,Medium
+Squeezy Chocolatey Topping,Jam,54.8,7.0,7.2,0.0,313.0,69.0,7.828560244913936,High
+Strawberry Extra Jam,Jam,59.0,0.4,0.2,0.0,154.0,59.6,147.49631259218518,Medium
+Confiture Myrtille Sauvage,Jam,41.0,0.0,0.0,2.4,169.0,41.0,4099999.9999999995,Medium
+Aprikosenmarmelade,Jam,53.1,0.5,0.1,1.3,221.0,53.7,106.19787604247917,Medium
+Confiture De Myrtilles Bio,Jam,35.7,0.4,0.2,2.9,154.0,36.300000000000004,89.24776880577986,Medium
+Confiture Cerise Intense,Jam,39.0,0.7,0.2,1.6,164.0,39.900000000000006,55.713489807288475,Medium
+Myrtille 65% De Fruit,Jam,41.0,0.0,0.0,1.6,169.0,41.0,4099999.9999999995,Medium
+Confiture De Myrtille Bio 350G,Jam,42.0,0.5,0.0,2.1,178.0,42.5,83.99832003359934,Medium
+Confiture Myrtille,Jam,60.0,0.5,0.3,1.5,248.0,60.8,119.99760004799906,Medium
+Sweet Chilli Jam,Jam,31.7,0.6,0.27,0.0,138.6,32.57,52.832452792453466,Medium
+Confitura Extra De Frutos Rojos,Jam,58.9,0.5,0.2,2.0,246.0,59.6,117.79764404711906,Medium
+"Bonne Maman - Apricot And Peach French Jam, 13Oz (370G) Jar",Jam,59.0,0.4,0.1,1.1,241.0,59.5,147.49631259218518,Medium
+Hazelnut Chocolate Spread,Jam,49.4,6.4,36.6,0.0,494.0,92.4,7.7187379394719695,High
+Myrtille Bio,Jam,46.0,0.5,0.5,0.0,189.0,47.0,91.99816003679928,Medium
+Rhubarbe Cuite Au Chaudron,Jam,43.0,0.5,0.5,0.0,179.0,44.0,85.99828003439931,Medium
+Confettura Mirtilli,Jam,13.1,0.4,0.2,2.0,48.0,13.7,32.749181270468235,Low
+100% Issu Des Fruits Fraise,Jam,40.0,0.8,0.6,3.2,180.0,41.4,49.999375007812404,Medium
+Confiture Extra Figues De Provence,Jam,55.0,0.7,0.5,2.3,230.0,56.2,78.57030613848374,Medium
+Confiture Orange Bio,Jam,60.0,0.6,0.0,0.9,247.0,60.6,99.99833336111065,Medium
+Doce De Morango,Jam,14.8,0.4,0.2,0.0,52.0,15.4,36.99907502312442,Low
+Classic Strawberry,Jam,60.7,0.1,0.2,1.0,252.0,61.00000000000001,606.9393060693931,Medium
+Waldfrucht Fruchtaufstrich,Jam,41.0,0.6,0.4,0.0,179.0,42.0,68.33219446342562,Medium
+Strawberry Jam,Jam,35.0,0.0,0.0,3.0,153.0,35.0,3499999.9999999995,Medium
+Fine Cut Oxford Marmalade,Jam,61.0,0.5,0.5,0.0,250.0,62.0,121.99756004879903,Medium
+Marmellata Zueg Zero Zuccheri Aggiunti Albicocche,Jam,12.0,0.5,0.1,1.9,45.0,12.6,23.99952000959981,Low
+Myrtille 65% De Fruits,Jam,40.0,0.5,0.5,3.4,172.0,41.0,79.99840003199937,Medium
+"Blueberry Jam, Organic",Jam,62.0,0.0,0.0,0.0,248.0,62.0,6199999.999999999,Medium
+Apricot Conserve,Jam,59.0,0.5,0.1,1.1,241.0,59.6,117.99764004719907,Medium
+Zero Zuccheri Aggiunti,Jam,14.8,0.4,0.1,2.1,55.0,15.3,36.99907502312442,Low
+Confiture Extra Fraises De Dordogne,Jam,56.0,0.5,0.5,2.3,231.0,57.0,111.99776004479911,Medium
+Sauerkirsche Fruchtaufstrich,Jam,39.0,0.6,0.3,0.0,168.0,39.9,64.99891668472193,Medium
+Confiture Cœur De Myrtille,Jam,40.0,0.0,0.0,1.9,169.0,40.0,3999999.9999999995,Medium
+Four Fruits Fruit Spread,Jam,50.0,0.7,0.0,2.5,200.0,50.7,71.42755103498523,Medium
+Crème De Marrons À La Vanille,Jam,61.4,1.2,0.6,2.2,260.0,63.2,51.166240281330985,Medium
+Confiture Fraises Et Framboises,Jam,58.0,0.5,0.1,2.0,239.0,58.6,115.99768004639908,Medium
+Jelly,Jam,51.0,1.0,0.0,0.0,208.0,52.0,50.99949000509994,Medium
+Orange 🍊 Citron 🍋 Pamplemousse,Jam,35.0,0.5,0.5,0.0,147.0,36.0,69.99860002799944,Medium
+Confiture Fruits Rouges,Jam,58.0,0.5,0.5,1.6,235.0,59.0,115.99768004639908,Medium
+Fig Jam,Jam,48.67,0.0,0.0,0.0,200.0,48.67,4867000.0,Medium
+Natù Mirtilli Neri Di Bosco,Jam,22.0,0.6,0.4,2.8,100.0,23.0,36.66605556574058,Low
+Jambon Simplement Bon Sans Couenne,Pork,0.5,22.0,2.8,0.5,115.0,25.3,0.02272726239669891,Medium
+Herta Le Bon Paris Jambon Au Torchon Sans Nitrite X4 - 140G,Pork,0.8,21.0,2.4,0.0,108.8,24.2,0.038095219954657165,Medium
+Herta Le Bon Paris Jambon À L'Étouffée X10 -425G,Pork,0.0,21.0,2.3,0.0,105.9,23.3,0.0,Medium
+Herta Le Bon Paris Jambon À La Broche Sans Nitrite X4 - 140G,Pork,1.0,21.0,3.1,0.5,116.0,25.1,0.04761902494332146,Medium
+Rôti De Porc - 25% De Sel*,Pork,0.9,24.0,2.5,0.0,122.1,27.4,0.03749998437500651,Medium
+Carottes Râpées,Pork,6.1,1.0,4.5,2.9,82.0,11.6,6.099939000609993,Low
+Herta Lardons Fumés Sel Réduit 2X75G - 150G,Pork,0.0,17.0,20.0,0.0,248.0,37.0,0.0,Medium
+Jambon De Porc Torchon Sans Nitrite,Pork,0.5,21.0,2.8,0.0,111.0,24.3,0.02380951247166073,Medium
+10 Crêpes Jambon Emmental,Pork,18.0,6.8,2.8,1.6,127.0,27.6,2.6470549308015725,Medium
+Rôti De Porc À La Broche,Pork,0.8,23.0,3.0,0.0,122.0,26.8,0.0347825935727854,Medium
+Dés D'Épaule,Pork,1.9,17.0,6.0,0.0,130.0,24.9,0.11176464013844697,Medium
+Jambon Supérieur Sans Couenne,Pork,0.2,22.0,3.4,0.0,85.0,25.599999999999998,0.009090904958679565,Low
+Lardons Fumés,Pork,0.7,16.0,20.0,0.0,247.0,36.7,0.04374997265626709,Medium
+Saucisses Fumées,Pork,1.7,15.0,20.0,0.0,247.0,36.7,0.11333325777782814,Medium
+Bordeau Chesnel Rillettes Du Mans The True,Pork,0.4,16.2,40.5,0.0,431.0,57.099999999999994,0.024691342783121743,High
+Véritables Saucisses Viennoises D'Alsace,Pork,0.9,14.0,24.0,0.0,276.0,38.9,0.06428566836737974,Medium
+Véritables Rillettes Du Mans,Pork,0.5,15.0,36.0,0.0,382.0,51.5,0.033333311111125925,High
+Rôti De Porc,Pork,1.0,20.0,3.0,0.0,111.0,24.0,0.0499999750000125,Medium
+Bacon Fumé,Pork,1.4,22.0,4.3,0.0,132.0,27.7,0.06363633471075694,Medium
+"Gratin D'Endives Jambon Supérieur, Emmental",Pork,3.3,6.9,7.1,0.8,107.1,17.299999999999997,0.4782601764345269,Medium
+Jambon À L'Ancienne 4 Tranches,Pork,0.3,21.0,6.7,0.0,146.0,28.0,0.014285707482996436,Medium
+This Isn'T Pork Sausages,Pork,5.8,10.7,14.4,4.0,203.0,30.9,0.5420555681723662,Medium
+Chorizo Doux,Pork,5.0,21.0,34.0,0.5,502.0,60.0,0.2380951247166073,High
+Lacón Al Horno Lonchas,Pork,0.5,18.0,12.0,0.0,180.0,30.5,0.027777762345687587,Medium
+4 Tomates Farcies,Pork,3.0,6.5,4.6,1.4,82.0,14.1,0.46153775148038234,Low
+Rôti De Porc Aux Herbes,Pork,1.0,22.0,4.0,0.0,126.0,27.0,0.04545452479339782,Medium
+Jamón Jugoso Cocido En Su Jugo,Pork,1.4,17.2,2.7,0.0,43.6,21.299999999999997,0.08139530151435959,Low
+Frankfurters,Pork,2.0,11.14,25.14,1.4,280.0,38.28,0.1795330524837949,Medium
+Herta Le Bon Paris Jambon Torchon Sel Réduit Ss Nitrite X4,Pork,1.0,21.0,2.6,0.0,111.4,24.6,0.04761902494332146,Medium
+Aligot De L'Aveyron Et Saucisse De Toulouse,Pork,6.3,11.0,11.0,0.9,167.0,28.3,0.5727267520665891,Medium
+Jambon Sup Dd Csn Label Rouge 4T 160G,Pork,0.6,21.0,2.1,0.0,112.0,23.700000000000003,0.028571414965992872,Medium
+Riz Cantonais,Pork,22.0,5.0,5.0,1.1,155.2,32.0,4.399991200017601,Medium
+Pulled Pork,Pork,2.0,18.0,7.0,0.5,144.0,27.0,0.11111104938275035,Medium
+Herta Knacki Saucisses Sel Réduit Csn X6 - 210G,Pork,1.3,13.0,23.0,0.0,264.2,37.3,0.09999992307698226,Medium
+Lentilles Façon Petit Salé 4/4,Pork,8.4,4.9,0.3,3.3,63.0,13.600000000000001,1.7142822157505802,Low
+Herta Dés De Jambon - 2X75G,Pork,0.7,18.0,2.3,0.0,95.5,21.0,0.03888886728396262,Low
+Jambon Sup Dd Tsr Csn 10T 300G,Pork,0.3,23.0,2.7,0.3,113.0,26.0,0.013043472589794526,Medium
+"Saucisse De Montbéliard, Lentilles Cuisinées",Pork,7.5,8.7,8.9,3.3,152.0,25.1,0.862067974634512,Medium
+Piémontaise Au Jambon,Pork,7.3,4.1,5.9,1.5,102.0,17.299999999999997,1.7804834622354582,Medium
+Lardons Nature,Pork,0.8,16.7,20.0,0.0,250.0,37.5,0.04790416293163897,Medium
+Knacks Porc X10 350G,Pork,1.3,15.0,19.0,0.0,674.3,35.3,0.08666660888892741,High
+Jambon De Paris,Pork,0.4,21.0,3.8,0.0,120.0,25.2,0.019047609977328583,Medium
+Chorizo Doux Pur Porc - 225G,Pork,4.5,20.0,42.0,0.5,477.0,66.5,0.22499988750005626,High
+6 Premium Pork Sausages,Pork,1.0,14.8,19.7,0.1,241.0,35.5,0.06756752191383654,Medium
+Maxi Lomo,Pork,2.2,16.2,3.5,0.0,105.0,21.9,0.1358023853071696,Medium
+Cassoulet Pur Porc,Pork,8.9,7.3,4.7,3.8,115.0,20.9,1.219176412087107,Medium
+Schinken,Pork,1.0,20.0,1.9,0.0,101.0,22.9,0.0499999750000125,Medium
+Jambon Le Supérieur,Pork,0.5,22.0,2.8,1.0,115.0,25.3,0.02272726239669891,Medium
+Rillettes Bordeau Chesnel Format Familial,Pork,0.4,16.0,40.5,0.0,431.0,56.9,0.02499998437500977,High
+Jambon Supérieur Moins 25% De Sel,Pork,0.5,20.5,3.0,0.0,111.0,24.0,0.024390232004764877,Medium
+Le Jambon Supérieur -25% De Sel Sans Couenne,Pork,0.5,20.8,2.6,0.0,109.0,23.900000000000002,0.024038449981514432,Medium
+Cervelas,Pork,0.8,12.7,24.9,0.5,278.0,38.4,0.06299207638419184,Medium
+Le Supérieur Cuit À L'Étouffée,Pork,0.6,20.0,3.4,0.0,113.0,24.0,0.0299999850000075,Medium
+Pate De Porc,Pork,4.0,11.0,13.9,0.9,186.0,28.9,0.3636360330581518,Medium
+Le Bon Paris Jambon Tranché Fin Sel Réduit Sans Nitrite X4,Pork,0.8,22.0,2.4,0.0,112.8,25.2,0.03636361983471826,Medium
+6 Sausage Rashers,Pork,0.0,20.0,7.17,0.0,146.5,27.17,0.0,Medium
+Allumettes Fumees Sup 2X100G Ranou,Pork,1.2,16.0,20.0,0.5,246.7,37.2,0.0749999531250293,Medium
+Tagliatelles À La Carbonara,Pork,13.0,6.9,8.9,1.1,162.0,28.799999999999997,1.8840552404996516,Medium
+Pizza Jambon Speck Gorgonzola Mozzarella,Pork,26.0,14.0,11.0,1.9,263.0,51.0,1.8571415306131924,Medium
+Saucisses De Strasbourg,Pork,1.3,12.0,26.0,0.0,287.0,39.3,0.10833324305563079,Medium
+Filet De Bacon,Pork,1.3,22.3,3.0,0.9,123.0,26.6,0.05829593798388431,Medium
+Mon Jambon Supérieur Avec Couenne,Pork,0.6,20.0,7.4,0.0,149.0,28.0,0.0299999850000075,Medium
+3 Boudins Noirs À L'Ancienne,Pork,3.0,11.0,19.0,0.0,231.0,33.0,0.2727270247936138,Medium
+Knacks Porc Csn X6 210G,Pork,1.4,13.0,24.0,0.5,275.0,38.4,0.10769222485213473,Medium
+2 Quiches Lorraines,Pork,18.0,11.0,18.0,1.0,273.0,47.0,1.636362148761683,Medium
+Le Pâté Hénaff Bio,Pork,0.5,17.0,21.0,0.0,257.0,38.5,0.029411747404854468,Medium
+Salade À La Piémontaise Au Thon,Pork,5.2,8.4,8.9,0.0,61.4,22.5,0.6190468820870452,Low
+Dubai Chocolate,Turkey,51.7,11.6,30.0,3.8,531.0,93.30000000000001,4.456892709575251,High
+Maxi Pavo Finas Lonchas,Turkey,6.8,12.8,0.5,0.0,53.3,20.1,0.5312495849612617,Low
+Gewürzgurken Auslese,Turkey,5.6,1.0,0.1,1.5,33.0,6.699999999999999,5.599944000559994,Low
+Cordon Bleu De Dinde,Turkey,14.0,14.0,8.7,2.0,194.0,36.7,0.9999992857147959,Medium
+Escalope Cordon Bleu De Dinde,Turkey,16.0,13.0,9.0,2.0,201.0,38.0,1.230768284024397,Medium
+Cocktail Sans Sel Ajouté,Turkey,25.0,19.0,40.0,6.4,549.0,84.0,1.3157887811637994,High
+Pechuga De Pavo 60%,Turkey,4.0,14.0,1.0,0.0,81.0,19.0,0.2857140816327988,Low
+Деликатесни Пуешки Гърди,Turkey,2.0,22.0,2.0,0.2,114.0,26.0,0.09090904958679565,Medium
+Cococoa,Turkey,61.5,2.9,24.9,4.0,469.0,89.30000000000001,21.206823424746812,High
+Blanc De Dinde Sup 4T 160G,Turkey,1.1,22.0,1.3,0.5,105.4,24.400000000000002,0.04999997727273761,Medium
+Dazzling Dates,Turkey,58.67,2.33,0.67,7.67,266.7,61.67,25.180149441418706,Medium
+Tomates Séchées 165G,Turkey,6.7,3.4,12.0,5.9,159.0,22.1,1.9705824394634135,Medium
+Пуешки Гърди,Turkey,1.0,22.0,2.0,0.0,111.0,25.0,0.04545452479339782,Medium
+Abricots Moelleux,Turkey,42.0,2.0,0.3,6.2,193.0,44.3,20.999895000524997,Medium
+Fromage Fondu À Tartiner,Turkey,7.0,9.0,21.0,0.0,253.0,37.0,0.7777769135812072,Medium
+Pechuga De Pavo,Turkey,0.5,20.0,1.0,0.0,100.0,21.5,0.02499998750000625,Low
+Füstölt Pulykavirsli,Turkey,0.9,15.0,14.0,0.0,380.0,29.9,0.05999996000002667,High
+6111242107038,Turkey,10.5,10.13,21.7,0.0,235.0,42.33,1.0365241495319353,Medium
+Kalkonbryst/Kalkunbryst,Turkey,1.0,20.0,2.0,0.5,82.4,23.0,0.0499999750000125,Low
+Heart Healthy Mixed Nuts,Turkey,8.0,3.0,17.0,3.0,200.0,28.0,2.666657777807407,Medium
+Putenbrust,Turkey,1.0,20.0,1.2,0.0,95.0,22.2,0.0499999750000125,Low
+The Taste Of Dubai,Turkey,51.7,7.7,34.0,2.8,545.0,93.4,6.714276994445462,High
+Pechuga,Turkey,2.0,18.0,1.5,0.0,94.0,21.5,0.11111104938275035,Low
+Paistettu Kalkkunanrinta Siivuina,Turkey,2.0,22.0,2.0,0.2,114.0,26.0,0.09090904958679565,Medium
+Soft Apricots,Turkey,40.0,2.0,1.67,5.0,186.7,43.67,19.9999000005,Medium
+Petto Di Tacchino,Turkey,2.5,18.0,1.5,0.0,96.0,22.0,0.13888881172843792,Low
+Cordon Bleu De Poulet X2,Turkey,13.0,15.0,11.0,1.6,214.0,39.0,0.8666660888892741,Medium
+Caribic Royal,Turkey,59.0,5.5,15.0,0.0,412.0,79.5,10.727253223175959,High
+Jamón De Pavo,Turkey,1.5,14.0,2.5,0.0,85.0,18.0,0.10714278061229957,Low
+Blanc De Dinde Hala.,Turkey,0.5,22.0,1.3,0.0,102.0,23.8,0.02272726239669891,Medium
+Peito Peru,Turkey,4.7,13.0,2.3,0.0,92.3,20.0,0.3615381834321666,Low
+Jambon Curcan Matache Macelaru,Turkey,0.4,18.1,3.7,0.0,107.0,22.2,0.02209943530417939,Medium
+Pechuga De Pavo Braseada,Turkey,2.0,18.0,1.5,0.0,313.3,21.5,0.11111104938275035,High
+Pechuga Noel,Turkey,1.67,19.33,1.67,0.0,93.3,22.67,0.08639416120322753,Low
+Nuggets Pavo,Turkey,15.2,12.3,11.8,0.7,218.0,39.3,1.2357713530314203,Medium
+Petto Di Tacchino Cotto Al Forno Affettato,Turkey,3.5,18.0,2.0,0.0,105.2,23.5,0.1944443364198131,Medium
+Roasted Turkey Slices,Turkey,0.48,23.33,1.9,0.48,116.1,25.709999999999997,0.020574358947981593,Medium
+La Vosgienne Seve De Pin,Turkey,98.0,0.1,0.1,0.0,394.0,98.19999999999999,979.9020097990201,High
+Cuida-T⁺ Fatias Finas Peito De Peru,Turkey,3.5,15.0,0.5,0.0,90.0,19.0,0.23333317777788148,Low
+Fesa Di Tacchino Al Forno,Turkey,3.6,18.0,1.2,0.0,93.0,22.8,0.19999988888895062,Low
+Classic All Butter Mince Pies,Turkey,62.4,3.8,14.0,1.7,394.0,80.2,16.421009418396267,High
+Trident Mixed Berries Flavour,Turkey,0.1,0.5,6.2,0.0,212.0,6.8,0.19999600007999843,Medium
+Forno De Lenha Peito De Peru Fatias Clássicas,Turkey,3.8,16.0,1.1,0.5,89.0,20.900000000000002,0.23749985156259276,Low
+Putenbrustfilet,Turkey,1.0,21.0,2.0,0.0,106.0,24.0,0.04761902494332146,Medium
+Turkey Rashers Lightly Smoked,Turkey,1.2,24.2,1.6,0.0,95.8,27.0,0.04958675636910894,Low
+Roasted Turkey Breast,Turkey,0.0,19.64,0.89,0.0,89.3,20.53,0.0,Low
+2 Haches A Cuire A La Dinde,Turkey,1.0,19.0,4.3,0.0,119.0,24.3,0.05263155124655198,Medium
+Putenbrust Mit Honig,Turkey,1.7,19.8,2.0,0.0,105.0,23.5,0.0858585424956856,Medium
+Șuncă Din Pipt De Curcan 91 % Carne,Turkey,1.0,20.0,2.0,0.5,103.0,23.0,0.0499999750000125,Medium
+Panés Façon Milanaise Parmesan X2,Turkey,17.0,13.0,16.0,2.3,269.0,46.0,1.3076913017759217,Medium
+Burçak Milk Chocolate Biscuits,Turkey,60.3,8.1,27.0,4.3,506.0,95.39999999999999,7.444435253783638,High
+Slow Roasted Turkey Breast,Turkey,1.92,19.23,0.96,0.0,96.2,22.11,0.0998439418388238,Low
+Turkey Rashers,Turkey,2.0,23.2,2.0,0.0,116.0,27.2,0.0862068593935951,Medium
+Jambon De Dinde Fumé,Turkey,5.3,16.6,0.6,0.0,93.0,22.500000000000004,0.31927691609824327,Low
+Lardons De Volaille Fumés,Turkey,1.0,19.0,12.5,0.0,192.5,32.5,0.05263155124655198,Medium
+Pechuga De Pavo Cocida 90%,Turkey,0.0,22.0,1.8,0.0,104.0,23.8,0.0,Medium
+Liquids - Fraise / Citron Vert,Turkey,70.0,1.2,0.0,0.0,172.0,71.2,58.33284722627312,Medium
+Pechuga Pavo Braseado,Turkey,3.0,16.0,0.5,0.0,81.0,19.5,0.18749988281257324,Low
+Panés Chêvre Epinard X2,Turkey,15.0,12.0,11.0,3.0,213.0,38.0,1.2499989583342015,Medium
+Petto Di Tacchino Al Forno,Turkey,2.5,18.0,1.5,0.0,96.0,22.0,0.13888881172843792,Low
+Nuggets Extra Crosutillant X20,Turkey,17.0,13.0,12.0,1.8,232.0,42.0,1.3076913017759217,Medium
+4 Cordons Bleus De Dinde,Turkey,15.19,11.0,16.0,0.0,242.0,42.19,1.3809078355383313,Medium
+Blanc De Dinde Fumé,Turkey,0.4,22.0,2.5,0.0,113.0,24.9,0.01818180991735913,Medium
+Pickles,Turkey,11.0,0.9,0.5,1.0,56.0,12.4,12.222086421261986,Low
+Ülker Bol Sütlü Kare Çikolata,Turkey,57.0,7.9,30.0,2.5,537.0,94.9,7.215180740277544,High
+Hazelnut Spread,Turkey,51.0,8.0,37.0,5.2,579.0,96.0,6.3749920312599615,High
+Filet De Dinde,Turkey,0.7,21.0,2.5,0.5,107.0,24.2,0.033333317460325015,Medium
+Пуешки Хапки,Turkey,17.7,11.5,12.5,0.0,229.0,41.7,1.5391290964094815,Medium
+Figues Séchées Lerida,Turkey,59.0,3.5,1.0,0.0,272.0,63.5,16.85709469401516,Medium
+Française,Turkey,15.0,11.0,14.0,1.9,234.0,40.0,1.363635123968069,Medium
+Nuggets Jambon De Dinde Fromage,Turkey,19.0,8.7,13.0,4.1,236.0,40.7,2.183905535740764,Medium
+Escalpe De Dinde À La Milanaise,Turkey,6.5,22.0,1.2,0.01,125.0,29.7,0.2954544111570858,Medium
+Escalope  De Dinde Milanaise,Turkey,16.0,7.2,3.5,1.9,126.0,26.7,2.222219135806756,Medium
+Ideal Halal Lamb Broth 76 G,Lamb,1.0,1.0,1.5,0.0,20.0,3.5,0.9999900000999989,Low
+Waffle Fries,Lamb,22.0,2.7,7.5,0.0,176.0,32.2,8.148117969933445,Medium
+Lamb Stock,Lamb,6.0,4.9,6.0,1.0,98.0,16.9,1.2244872969647,Low
+Lamb Moussaka,Lamb,7.5,6.75,9.5,1.4,146.0,23.75,1.1111094650230149,Medium
+Lamb And Vegetable Big Soup,Lamb,8.7,2.8,1.3,1.3,61.0,12.8,3.107131760243713,Low
+Super Crispy Steak Cut Fries,Lamb,21.43,2.38,4.17,2.38,131.0,27.979999999999997,9.004163848051059,Medium
+Lamb Rogan Josh,Lamb,4.1,11.5,6.2,1.4,121.0,21.8,0.35652142911180074,Medium
+Bistro Salad,Lamb,3.2,1.8,0.0,1.4,25.0,5.0,1.7777679012894372,Low
+Lamb Shanks,Lamb,3.4,19.49,7.6,0.5,161.0,30.489999999999995,0.1744483455883296,Medium
+Best Lamb Gravu,Lamb,71.5,5.1,4.3,1.5,348.0,80.89999999999999,14.019580353764015,High
+Ground Lamb,Lamb,0.0,17.86,19.64,0.0,258.9,37.5,0.0,Medium
+Minted Lamb Kebabs,Lamb,6.08,18.65,12.43,1.49,213.5,37.16,0.326005187128586,Medium
+4 Lamb Shish Kebabs,Lamb,3.47,14.67,17.07,0.67,226.7,35.21,0.2365369894090052,Medium
+Lamb Mince 20% Fat,Lamb,0.1,17.2,17.4,0.1,226.0,34.7,0.005813950108168543,Medium
+Massaman Style Lamb Shanks,Lamb,5.11,17.7,11.6,1.21,198.0,34.41,0.2887004018641798,Medium
+Lamb Biryani,Lamb,13.8,8.8,9.4,1.4,178.0,32.0,1.5681800361590499,Medium
+Lamb’S Spiced Rum,Lamb,4.4,0.0,0.0,0.0,17.2,4.4,440000.0,Low
+Super Crispy Shoestring Fries,Lamb,27.38,3.57,7.14,0.0,176.5,38.089999999999996,7.669446304071977,Medium
+Taste The Difference Lamb Moussaka,Lamb,8.0,5.7,9.3,0.9,141.0,23.0,1.4035063096380533,Medium
+Lamb Hot Pot,Lamb,10.2,4.9,2.9,1.8,90.0,18.0,2.08162840483999,Low
+Gilde Fårepølse 150G,Lamb,0.0,24.0,27.0,0.0,338.0,51.0,0.0,High
+Lamb Burger,Lamb,6.2,22.0,21.0,0.0,303.0,49.2,0.2818180537190665,High
+Sheperds Pie,Lamb,12.44,5.38,3.4,1.3,105.0,21.22,2.3122633601052787,Medium
+Chunky Soup Lamb & Veg,Lamb,8.5,3.7,1.5,1.6,65.5,13.7,2.2972910884024635,Low
+Mediterranean Lamb Stew,Lamb,5.9,6.1,4.4,1.9,94.0,16.4,0.9672115291614278,Low
+Minted Lamb Burgers,Lamb,2.0,21.3,19.7,0.5,272.0,43.0,0.09389666953208003,Medium
+Spicy Lamb Merguez Sausages,Lamb,1.3,18.2,16.5,0.0,168.7,36.0,0.07142853218212518,Medium
+Weston Seasoned Skin On Wedges,Lamb,20.0,2.5,6.1,2.3,150.0,28.6,7.999968000127999,Medium
+Potato Dippers,Lamb,22.0,1.9,4.8,2.0,143.0,28.7,11.578886426913543,Medium
+British Lamb Mince,Lamb,0.0,1.0,20.0,0.0,245.0,21.0,0.0,Medium
+Crispy Hash Brown Dices,Lamb,24.1,1.2,4.22,0.0,92.3,29.52,20.083165973616886,Low
+Lamb Weston Stealth Fries,Lamb,24.0,2.2,6.5,3.1,168.0,32.7,10.909041322539442,Medium
+The Grill Lamb Burgers,Lamb,5.2,15.3,21.0,0.0,276.0,41.5,0.33986905890911184,Medium
+Frozen Lamb Mince,Lamb,0.5,0.16,20.0,0.0,254.0,20.66,3.124804699706268,Medium
+"Crucials Mint Sauce Rich&Fragrant, Ideal For Lamb",Lamb,13.8,0.8,0.3,1.2,63.0,14.900000000000002,17.24978437769528,Low
+Hverdagslam,Lamb,0.0,18.0,20.0,0.0,252.0,38.0,0.0,Medium
+Plant-Based Succulent Greek Lamb Style Strips,Lamb,11.3,20.6,9.5,0.9,114.0,41.400000000000006,0.5485434230371733,Medium
+Lamb And Mint Gravy,Lamb,3.0,0.5,2.1,0.5,32.0,5.6,5.999880002399952,Low
+Minted Lamb Shoulder,Lamb,2.6,23.9,30.1,0.0,377.0,56.6,0.10878656536126974,High
+This Isn’T Lamb Kebabs,Lamb,5.7,14.0,15.0,3.2,209.0,34.7,0.40714256632673834,Medium
+Garlic And Herb Lamb Mini Meatballs,Lamb,3.8,18.0,20.0,0.5,265.0,41.8,0.21111099382722565,Medium
+Lamb Leg Steaks,Lamb,0.5,23.5,12.2,0.5,206.0,36.2,0.021276586690814173,Medium
+Beetroot Salad,Lamb,4.8,2.0,0.3,1.3,25.0,7.1,2.3999880000599996,Low
+Slow Cooked Mint Gravy Lamb Shank,Lamb,5.8,22.8,9.8,0.5,204.0,38.400000000000006,0.254385853339538,Medium
+Lamb & Mint Kebabs,Lamb,5.89,12.89,12.83,0.39,191.1,31.61,0.4569430124569337,Medium
+New Zealand Lamb Chops (8),Lamb,0.0,17.6,23.0,0.0,277.0,40.6,0.0,Medium
+Vegetarian Quick Cook Lamb Steaks,Lamb,8.2,16.0,15.0,1.7,232.0,39.2,0.5124996796877002,Medium
+At Tasting Fryer Oven Fries Lamb Weston Ziggy Frie,Lamb,23.0,2.3,6.3,2.7,164.0,31.6,9.999956521928166,Medium
+Oakhurst Slow Cooked Lamb Shanks With Mint Gravy C,Lamb,3.9,17.2,10.6,0.8,181.0,31.699999999999996,0.22674405421857313,Medium
+Grill Fries Salt En Pepper,Lamb,19.7,2.5,8.3,4.9,173.0,30.5,7.879968480126079,Medium
+Twister Fries,Lamb,20.0,1.7,7.0,3.4,158.0,28.7,11.764636678607772,Medium
+Slow Cooked Lamb Shanks With Mint Jus,Lamb,0.79,6.61,2.87,0.17,55.5,10.27,0.11951570421224779,Low
+2 Lamb Shanks,Lamb,6.9,24.1,8.4,1.2,200.0,39.4,0.28630693514235056,Medium
+Tasty Minted Lamb Kebabs Gisttenfree Deliciou,Lamb,7.7,18.0,19.0,1.2,273.0,44.7,0.4277775401235888,Medium
+Beef And Lamb Gyro Slices,Lamb,8.82,12.3,28.2,0.0,333.3,49.32,0.7170725877458636,High
+Twister,Lamb,22.0,2.4,7.6,9.8,174.0,32.0,9.166628472381365,Medium
+Middle Eastern Lamb Shoulder,Lamb,4.1,15.8,14.5,1.0,212.0,34.4,0.2594935066496793,Medium
+Pulled Lamb Keema Rolls,Lamb,24.9,7.4,6.7,2.8,195.0,39.0,3.364860317756327,Medium
+Great Tasting An Fryer & Enries Lamb Weston Twiste,Lamb,26.0,1.8,6.6,2.4,176.0,34.4,14.444364197976677,Medium
+Lamb And Mint Burgers,Lamb,1.12,7.28,5.25,0.0,81.2,13.65,0.15384594251930975,Low
+Moroccan Lamb Tagine,Lamb,7.7,10.8,3.1,1.9,106.0,21.6,0.7129623028126826,Medium
+Moroccan Lamb Meatballs,Lamb,17.6,5.4,8.3,1.7,170.2,31.3,3.2592532236051417,Medium
+Lamb Kofta Flavour Ridge Cut Crisps,Lamb,55.0,5.9,32.2,3.5,540.0,93.1,9.322018098274409,High
+Mutton Biryani,Lamb,20.6,9.1,5.2,0.0,170.0,34.900000000000006,2.2637337761167298,Medium
+Lamb Grillsteaks,Lamb,6.7,18.6,14.9,1.8,238.0,40.2,0.36021486009953757,Medium
+Slow Cooked Lamb Shank In Red Wine Gravy,Lamb,2.9,23.8,8.2,0.1,181.0,34.9,0.12184868829887045,Medium
+Moroccan Style Lamb Shoulder,Lamb,6.9,15.6,17.2,0.5,245.0,39.7,0.4423074087773021,Medium
+20% Minced Lamb,Lamb,0.5,21.5,20.0,0.5,266.0,42.0,0.02325580313683575,Medium
+New Zealand Lamb Chops,Lamb,0.0,18.5,18.9,0.0,244.1,37.4,0.0,Medium
+Lamb Vindaloo,Lamb,14.5,7.81,5.95,1.86,145.0,28.259999999999998,1.8565917329171155,Medium
+Minced Lamb Hotpot,Lamb,13.8,7.3,3.8,0.0,122.0,24.900000000000002,1.890408369303604,Medium
+Slow Cooked Harissa Lamb Shanks,Lamb,0.19,16.33,7.83,0.36,137.2,24.35,0.011635020431708248,Medium
+Grass Fed Ground Lamb,Lamb,0.0,19.47,11.5,0.0,186.0,30.97,0.0,Medium
+Super Crispy Tots,Lamb,25.0,2.38,10.71,2.38,214.3,38.09,10.50415754555653,Medium
+4 Lamb Lion Chops,Lamb,0.0,17.6,23.0,0.0,277.0,40.6,0.0,Medium
+Garden Mint Marinade,Lamb,70.8,2.9,0.4,1.3,331.0,74.10000000000001,24.41370891824511,High
+Lamb Soup,Lamb,6.8,3.0,1.0,1.1,50.0,10.8,2.266659111136296,Low
+Fårepølse,Lamb,1.0,24.0,23.0,0.0,306.0,48.0,0.04166664930556279,High
+Slow Cooked British Lamb Casserole With A Rich Red Wine Gravy,Lamb,3.6,12.6,5.7,1.4,119.0,21.9,0.28571405895709606,Medium
+Lamb Casserole Recipe Base,Lamb,8.14,1.4,0.47,0.0,97.3,10.010000000000002,5.814244183970115,Low
+Sweet & Delicious Bistro Salad,Lamb,5.0,1.7,0.5,1.7,31.0,7.2,2.941159169651943,Low
+Irish Lamb Leg Steaks,Lamb,0.1,19.0,12.3,0.0,187.0,31.400000000000002,0.005263155124655198,Medium
+Onigiri Avocat,Sushi,29.0,2.4,3.5,0.0,161.0,34.9,12.08328298632089,Medium
+Sushi Box,Sushi,22.0,5.5,9.4,0.0,196.0,36.9,3.999992727285951,Medium
+Onigiri Saumon Sauce Teriyaki,Sushi,29.0,4.5,1.8,0.0,152.0,35.3,6.444430123488615,Medium
+Rainbow Salmon Poke,Sushi,24.57,5.54,4.15,0.69,159.4,34.26,4.435010045108222,Medium
+Riz Japonica - Spécial Sushi,Sushi,77.5,5.8,1.0,0.0,345.0,84.3,13.362045927507022,High
+Sushi Box Komaki,Sushi,26.0,4.7,4.6,1.0,166.0,35.3,5.531903123610376,Medium
+Sushi Rice,Sushi,80.4,6.7,0.4,1.0,354.0,87.50000000000001,11.999982089578973,High
+Riz Sushi Japonica,Sushi,76.0,6.8,1.3,1.0,345.0,84.1,11.176454152273307,High
+Sushi Ingwer,Sushi,14.0,0.0,0.5,1.2,61.0,14.5,1400000.0,Low
+Classic Vegetable Sushi,Sushi,26.6,3.21,2.88,1.73,148.7,32.690000000000005,8.286578546484279,Medium
+Seasoning For Sushi Rice,Sushi,38.0,0.0,0.0,0.0,166.0,38.0,3799999.9999999995,Medium
+Sojasauce Sushi,Sushi,8.8,8.2,0.0,0.0,82.0,17.0,1.0731694229641187,Low
+Sushi Ginger,Sushi,14.0,0.0,0.5,1.1,61.0,14.5,1400000.0,Low
+Riz Sushi,Sushi,78.5,6.4,1.0,1.0,350.6,85.9,12.265605834990883,High
+Sushi Reis Original,Sushi,79.0,6.3,0.5,1.0,348.0,85.8,12.539662635456136,High
+Salmon & Prawn Sushi Selection,Sushi,30.6,5.1,3.0,0.9,172.0,38.7,5.999988235317187,Medium
+Gingembre Pour Sushi,Sushi,19.0,3.3,6.2,1.2,147.0,28.5,5.757558310429363,Medium
+Onigiri Saumon Fromage Frais,Sushi,20.0,4.3,2.8,0.0,157.0,27.1,4.651151974065177,Medium
+Handroll Katsu,Sushi,28.0,4.6,3.8,0.0,163.0,36.4,6.08694328925372,Medium
+Sushi Box Sapporo,Sushi,21.6,5.5,3.2,0.0,139.0,30.3,3.9272655867898427,Medium
+Crispy Salmon Dragon Rolls,Sushi,25.0,4.8,5.9,0.8,173.3,35.7,5.208322482661495,Medium
+Gingembre Rose Sushi Cock,Sushi,0.83,0.19,0.24,0.85,8.0,1.26,4.368191147834324,Low
+Onigiri Thon Mayo Spicy,Sushi,28.0,6.0,6.3,0.0,192.0,40.3,4.6666588889018525,Medium
+Duck Poke,Sushi,29.17,3.82,1.91,0.69,150.0,34.9,7.636105664644858,Medium
+Sushi Mayonaise,Sushi,27.0,0.0,13.0,0.0,226.0,40.0,2700000.0,Medium
+Sweet Sushi Sauce Soja,Sushi,50.0,6.0,0.0,0.0,226.0,56.0,8.333319444467593,Medium
+Vinaigre De Riz Pour Sushi,Sushi,3.8,0.0,0.0,0.0,15.0,3.8,379999.99999999994,Low
+Riz Pour Sushi,Sushi,78.0,6.1,0.9,0.0,348.0,85.0,12.786864283829045,High
+Premium Sushi Rice,Sushi,78.0,7.0,0.7,1.0,348.0,85.7,11.142841224512537,High
+Box Full Saumon,Sushi,27.0,5.2,5.0,0.0,175.0,37.2,5.192297707119794,Medium
+La Box Du Mois,Sushi,23.0,5.3,4.6,0.0,156.0,32.9,4.339614453557635,Medium
+Riz À Sushi,Sushi,78.0,6.7,1.1,0.5,350.0,85.8,11.641773668994524,High
+Kikkoman Seasoning For Sushi Rice | Gluten Free,Sushi,38.0,0.0,0.0,0.0,167.0,38.0,3799999.9999999995,Medium
+Salmon Poke,Sushi,22.0,5.0,3.6,1.1,141.0,30.6,4.399991200017601,Medium
+Bento Sushi,Sushi,18.0,7.0,5.0,0.0,120.0,30.0,2.5714248979644316,Medium
+Kit Sushi,Sushi,31.3,4.6,0.0,1.7,147.0,35.9,6.804333034058623,Medium
+Sauce De Soja Pour Sushi,Sushi,4.6,7.2,0.0,0.0,47.0,11.8,0.6388880015444423,Low
+Sushi,Sushi,24.0,4.9,5.5,0.0,169.0,34.4,4.8979491878588,Medium
+Sushi Box Miyagi,Sushi,26.0,5.9,5.1,0.0,174.0,37.0,4.406772191911539,Medium
+Vegan Super Selection,Sushi,25.71,3.13,1.6,1.79,133.9,30.44,8.21403126507583,Medium
+Sushi Set,Sushi,21.1,4.3,3.3,2.0,134.0,28.700000000000003,4.906965332638762,Medium
+Korean Style Chicken Dragon Roll,Sushi,26.24,6.57,4.78,1.57,315.0,37.59,3.9939056409350973,High
+Box California Avocado,Sushi,25.0,6.0,6.4,0.0,186.0,37.4,4.166659722233796,Medium
+Chicken Katsu Lovers,Sushi,20.89,8.22,5.82,0.99,172.2,34.93,2.541359438735476,Medium
+Poulet Frit Coréen,Sushi,32.0,5.5,5.2,0.0,197.0,42.7,5.818171239688655,Medium
+Riz Spécial Sushis,Sushi,78.0,7.5,0.6,0.0,352.0,86.1,10.399986133351822,High
+Roll Kip Shi Da Poulet 25 Kip Crunch Ro Debalken K,Sushi,22.0,5.7,10.0,0.0,206.0,37.7,3.8596423515046467,Medium
+Salade D’Algue,Sushi,13.0,1.4,3.8,0.0,96.0,18.2,9.285647959657432,Low
+Salade De Choux Japonais,Sushi,28.0,1.1,5.6,0.0,168.0,34.7,25.454314051690435,Medium
+Riz Vinaigré,Sushi,30.0,2.1,0.5,1.5,133.0,32.6,14.285646258827338,Medium
+Haruka Japanese Style Rice For Sushi 2 X (1Kg),Sushi,76.3,6.9,0.6,1.3,345.0,83.8,11.05795498847103,High
+9 California Thon Mayonnaise,Sushi,22.0,5.3,6.3,0.0,168.0,33.6,4.150935564272521,Medium
+Soy Sauce Gluten Free,Sushi,3.8,6.5,0.0,0.0,42.0,10.3,0.5846144852084842,Low
+California Saumon Et Suhis Saumon,Sushi,22.0,6.2,3.9,0.0,149.0,32.1,3.54838137357843,Medium
+Spicy Mayo,Sushi,10.0,0.9,31.0,0.0,323.0,41.9,11.110987655692714,High
+Sushi 4 You,Sushi,22.0,5.5,4.0,0.0,147.0,31.5,3.999992727285951,Medium
+Sushis Box 10 Pièces,Sushi,27.0,6.5,6.1,2.0,195.0,39.6,4.153839763323441,Medium
+Riz Pour Sushis,Sushi,81.0,5.8,0.8,0.0,353.0,87.6,13.965493162942824,High
+Smoked Salmon Sushi Snack,Sushi,26.0,5.7,2.5,1.0,151.0,34.2,4.561395506323673,Medium
+Sushi Philadelphia,Sushi,39.8,6.9,0.3,0.0,79.8,46.99999999999999,5.768107582452779,Low
+Sushireis,Sushi,77.0,6.3,0.9,0.0,345.0,84.2,12.222202821900284,High
+Vegan Sushi Selection,Sushi,27.07,2.63,0.38,1.58,121.8,30.08,10.2927365295189,Medium
+La Box Du Mois Sushi Saumon Laqué X 3 + Mali Thon Cuit Mayonnaise Et X 4 + California Végétarien Oignons Frits X 4 + Maki Saumon X 4,Sushi,22.0,5.2,5.0,0.0,155.0,32.2,4.230761094690203,Medium
+Wasabi,Sushi,39.0,3.8,9.2,0.0,255.0,52.0,10.263130886497667,Medium
+Sushi Mayonnaise,Sushi,27.0,0.0,13.0,0.0,226.0,40.0,2700000.0,Medium
+Veggie Sushi,Sushi,26.0,3.4,2.6,1.5,146.0,32.0,7.647036332246081,Medium
+Classic Veggie Sushi,Sushi,23.9,2.6,2.1,1.1,127.0,28.6,9.192272337414085,Medium
+Veggie Snack Rolls Sushi,Sushi,23.14,2.57,2.71,1.0,130.0,28.42,9.003856016124452,Medium
+Yuriko Sushi,Sushi,24.0,5.0,2.9,0.7,145.0,31.9,4.7999904000192,Medium
+Ginger People Ginger Sushi Pickled,Sushi,20.0,0.0,0.0,0.0,20.0,20.0,1999999.9999999998,Low
+Chirashi Mariné,Sushi,15.68,6.9,7.56,0.0,159.0,30.139999999999997,2.2724604746949644,Medium
+Chirashi Marine Saumon,Sushi,18.0,6.9,6.1,0.0,156.0,31.0,2.608691871461056,Medium
+Crunch Salmone Roll,Sushi,22.0,5.5,12.0,1.4,221.0,39.5,3.999992727285951,Medium
